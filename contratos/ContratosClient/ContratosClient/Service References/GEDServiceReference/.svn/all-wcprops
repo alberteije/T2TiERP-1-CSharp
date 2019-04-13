@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference
+END
+GEDService2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/GEDService2.xsd
+END
+GEDService.disco
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/GEDService.disco
+END
+GEDService3.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/GEDService3.xsd
+END
+GEDService4.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/GEDService4.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/Reference.cs
+END
+ContratosClient.GEDServiceReference.GedVersaoDocumentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/ContratosClient.GEDServiceReference.GedVersaoDocumentoDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/configuration91.svcinfo
+END
+GEDService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/GEDService.wsdl
+END
+GEDService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/GEDService.xsd
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/configuration.svcinfo
+END
+GEDService1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Service%20References/GEDServiceReference/GEDService1.xsd
+END

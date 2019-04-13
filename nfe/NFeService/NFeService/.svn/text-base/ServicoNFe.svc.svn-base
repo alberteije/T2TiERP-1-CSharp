@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NFeService.ServicoNFe" CodeBehind="ServicoNFe.svc.cs" %>

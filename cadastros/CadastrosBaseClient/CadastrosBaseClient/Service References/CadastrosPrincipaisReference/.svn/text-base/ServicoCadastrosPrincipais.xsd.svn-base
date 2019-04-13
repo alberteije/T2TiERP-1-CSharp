@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost/CadastrosBaseService/ServicoCadastrosPrincipais.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" />
+  <xs:element name="deletePessoa">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="pessoa" nillable="true" type="q1:PessoaDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deletePessoaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="deletePessoaResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarAtualizarPessoa">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="pessoa" nillable="true" type="q2:PessoaDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarAtualizarPessoaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="salvarAtualizarPessoaResult" nillable="true" type="q3:PessoaDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectPessoa">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="pessoa" nillable="true" type="q4:PessoaDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectPessoaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="selectPessoaResult" nillable="true" type="q5:ArrayOfPessoaDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectPessoaPagina">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="primeiroResultado" type="xs:int" />
+        <xs:element minOccurs="0" name="quantidadeResultados" type="xs:int" />
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="pessoa" nillable="true" type="q6:PessoaDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectPessoaPaginaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="selectPessoaPaginaResult" nillable="true" type="q7:ArrayOfPessoaDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteCliente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="cliente" nillable="true" type="q8:ClienteDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteClienteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="deleteClienteResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarAtualizarCliente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="cliente" nillable="true" type="q9:ClienteDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarAtualizarClienteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="salvarAtualizarClienteResult" nillable="true" type="q10:ClienteDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectCliente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="cliente" nillable="true" type="q11:ClienteDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectClienteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="selectClienteResult" nillable="true" type="q12:ArrayOfClienteDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectClientePagina">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="primeiroResultado" type="xs:int" />
+        <xs:element minOccurs="0" name="quantidadeResultados" type="xs:int" />
+        <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="cliente" nillable="true" type="q13:ClienteDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectClientePaginaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="selectClientePaginaResult" nillable="true" type="q14:ArrayOfClienteDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteFornecedor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q15="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="fornecedor" nillable="true" type="q15:FornecedorDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteFornecedorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="deleteFornecedorResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarAtualizarFornecedor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q16="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="fornecedor" nillable="true" type="q16:FornecedorDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarAtualizarFornecedorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q17="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="salvarAtualizarFornecedorResult" nillable="true" type="q17:FornecedorDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectFornecedor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q18="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="fornecedor" nillable="true" type="q18:FornecedorDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectFornecedorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q19="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="selectFornecedorResult" nillable="true" type="q19:ArrayOfFornecedorDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectFornecedorPagina">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="primeiroResultado" type="xs:int" />
+        <xs:element minOccurs="0" name="quantidadeResultados" type="xs:int" />
+        <xs:element xmlns:q20="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="fornecedor" nillable="true" type="q20:FornecedorDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectFornecedorPaginaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q21="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="selectFornecedorPaginaResult" nillable="true" type="q21:ArrayOfFornecedorDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteTransportadora">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q22="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="transportadora" nillable="true" type="q22:TransportadoraDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteTransportadoraResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="deleteTransportadoraResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarAtualizarTransportadora">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q23="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="transportadora" nillable="true" type="q23:TransportadoraDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarAtualizarTransportadoraResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q24="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="salvarAtualizarTransportadoraResult" nillable="true" type="q24:TransportadoraDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectTransportadora">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q25="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="transportadora" nillable="true" type="q25:TransportadoraDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectTransportadoraResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q26="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="selectTransportadoraResult" nillable="true" type="q26:ArrayOfTransportadoraDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectTransportadoraPagina">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="primeiroResultado" type="xs:int" />
+        <xs:element minOccurs="0" name="quantidadeResultados" type="xs:int" />
+        <xs:element xmlns:q27="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="transportadora" nillable="true" type="q27:TransportadoraDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectTransportadoraPaginaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q28="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" minOccurs="0" name="selectTransportadoraPaginaResult" nillable="true" type="q28:ArrayOfTransportadoraDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

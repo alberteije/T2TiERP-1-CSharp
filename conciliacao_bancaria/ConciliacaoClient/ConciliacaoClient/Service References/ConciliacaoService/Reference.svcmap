@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4b57199a-642b-4160-b9ba-083563d4a09b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/ConciliacaoService/ConciliacaoService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ConciliacaoService.wsdl" MetadataType="Wsdl" ID="ffbef03b-b50a-4db6-855a-ec616784bd76" SourceId="1" SourceUrl="http://localhost/ConciliacaoService/ConciliacaoService.svc?wsdl" />
+    <MetadataFile FileName="ConciliacaoService.xsd" MetadataType="Schema" ID="13f5bac0-0be8-4ba8-a8e2-dc5c02847e57" SourceId="1" SourceUrl="http://localhost/ConciliacaoService/ConciliacaoService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ConciliacaoService.disco" MetadataType="Disco" ID="769b58ec-9557-471e-b55c-e0ba42e621d0" SourceId="1" SourceUrl="http://localhost/ConciliacaoService/ConciliacaoService.svc?disco" />
+    <MetadataFile FileName="ConciliacaoService1.xsd" MetadataType="Schema" ID="e6eb2f51-c41d-42d6-8a06-0a723731ed7f" SourceId="1" SourceUrl="http://localhost/ConciliacaoService/ConciliacaoService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ConciliacaoService2.xsd" MetadataType="Schema" ID="c2e0e556-45df-47d4-bff2-1763bdea101e" SourceId="1" SourceUrl="http://localhost/ConciliacaoService/ConciliacaoService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

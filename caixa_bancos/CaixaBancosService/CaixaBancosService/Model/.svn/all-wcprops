@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model
+END
+ViewFinChequeNaoCompensadoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ViewFinChequeNaoCompensadoDTO.cs
+END
+ViewFinChequeNaoCompensadoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ViewFinChequeNaoCompensadoDTO.hbm.xml
+END
+ContaCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ContaCaixaDTO.hbm.xml
+END
+ContaCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ContaCaixaDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ViewControleAcessoDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ViewFinMovimentoCaixaBancoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ViewFinMovimentoCaixaBancoDTO.cs
+END
+ViewFinMovimentoCaixaBancoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ViewFinMovimentoCaixaBancoDTO.hbm.xml
+END
+FinFechamentoCaixaBancoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/FinFechamentoCaixaBancoDTO.hbm.xml
+END
+FinFechamentoCaixaBancoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/FinFechamentoCaixaBancoDTO.cs
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ContabilContaDTO.hbm.xml
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/ContabilContaDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/UsuarioDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/UsuarioDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/NHibernateDAL.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/EmpresaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/EmpresaDTO.cs
+END
+MovimentoCaixaBancoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/MovimentoCaixaBancoDAL.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosService/CaixaBancosService/Model/IDAL.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoTarifas
+END
+CodigoTarifas_BancoBrasil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoTarifas/CodigoTarifas_BancoBrasil.cs
+END
+CodigoTarifas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoTarifas/CodigoTarifas.cs
+END
+AbstractCodigoTarifas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoTarifas/AbstractCodigoTarifas.cs
+END
+ICodigoTarifas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoTarifas/ICodigoTarifas.cs
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model
+END
+FinLancamentoReceberDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinLancamentoReceberDTO.hbm.xml
+END
+FinStatusParcelaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinStatusParcelaDTO.hbm.xml
+END
+FinLctoReceberNtFinanceiraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinLctoReceberNtFinanceiraDTO.cs
+END
+NaturezaFinanceiraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/NaturezaFinanceiraDTO.hbm.xml
+END
+NaturezaFinanceiraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/NaturezaFinanceiraDTO.cs
+END
+ContaCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ContaCaixaDTO.hbm.xml
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ViewControleAcessoDTO.cs
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ContabilContaDTO.cs
+END
+FinParcelaRecebimentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinParcelaRecebimentoDTO.hbm.xml
+END
+FinParcelaRecebimentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinParcelaRecebimentoDTO.cs
+END
+LancamentoReceberDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/LancamentoReceberDAL.cs
+END
+FinTipoRecebimentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinTipoRecebimentoDTO.hbm.xml
+END
+FinTipoRecebimentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinTipoRecebimentoDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/NHibernateDAL.cs
+END
+FinParcelaReceberDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinParcelaReceberDTO.hbm.xml
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/EmpresaDTO.hbm.xml
+END
+FinDocumentoOrigemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinDocumentoOrigemDTO.cs
+END
+FinDocumentoOrigemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinDocumentoOrigemDTO.hbm.xml
+END
+ViewFinLancamentoReceberDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ViewFinLancamentoReceberDTO.cs
+END
+ViewFinLancamentoReceberDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ViewFinLancamentoReceberDTO.hbm.xml
+END
+BoletoHTML.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/BoletoHTML.cs
+END
+FinConfiguracaoBoletoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinConfiguracaoBoletoDTO.hbm.xml
+END
+RecebimentoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/RecebimentoDAL.cs
+END
+FinLancamentoReceberDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinLancamentoReceberDTO.cs
+END
+FinStatusParcelaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinStatusParcelaDTO.cs
+END
+FinLctoReceberNtFinanceiraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinLctoReceberNtFinanceiraDTO.hbm.xml
+END
+ContaCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ContaCaixaDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ContabilContaDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/UsuarioDTO.hbm.xml
+END
+ViewPessoaClienteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ViewPessoaClienteDTO.cs
+END
+ViewPessoaClienteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/ViewPessoaClienteDTO.hbm.xml
+END
+FinParcelaReceberDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinParcelaReceberDTO.cs
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/EmpresaDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/IDAL.cs
+END
+FinConfiguracaoBoletoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/FinConfiguracaoBoletoDTO.cs
+END
+PlanoNaturezaFinanceiraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/PlanoNaturezaFinanceiraDTO.hbm.xml
+END
+PlanoNaturezaFinanceiraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Model/PlanoNaturezaFinanceiraDTO.cs
+END

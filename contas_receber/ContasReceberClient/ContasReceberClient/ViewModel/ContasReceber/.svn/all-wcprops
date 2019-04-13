@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber
+END
+ContasReceberViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/ContasReceberViewModel.cs
+END
+ViewFinLancamentoReceberViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/ViewFinLancamentoReceberViewModel.cs
+END
+FinConfiguracaoBoletoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/FinConfiguracaoBoletoViewModel.cs
+END
+PlanoNaturezaFinanceiraViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/PlanoNaturezaFinanceiraViewModel.cs
+END
+FinTipoRecebimentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/FinTipoRecebimentoViewModel.cs
+END
+FinLancamentoReceberViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/FinLancamentoReceberViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/UsuarioViewModel.cs
+END
+FinStatusParcelaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/FinStatusParcelaViewModel.cs
+END
+NaturezaFinanceiraViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/ViewModel/ContasReceber/NaturezaFinanceiraViewModel.cs
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService
+END
+ConciliacaoContabilService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/ConciliacaoContabilService.csproj
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Web.config
+END
+ServicoConciliacaoContabil.svc
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/ServicoConciliacaoContabil.svc
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Web.Debug.config
+END
+IServicoConciliacaoContabil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/IServicoConciliacaoContabil.cs
+END
+ServicoConciliacaoContabil.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/ServicoConciliacaoContabil.svc.cs
+END
+ConciliacaoContabilService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/ConciliacaoContabilService.csproj.user
+END

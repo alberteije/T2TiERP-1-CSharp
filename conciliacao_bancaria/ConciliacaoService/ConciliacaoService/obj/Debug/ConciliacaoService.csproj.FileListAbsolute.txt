@@ -1,0 +1,34 @@
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\ConciliacaoService.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\ConciliacaoService.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\Antlr3.Runtime.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\Iesi.Collections.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\LinFu.DynamicProxy.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\log4net.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\NHibernate.ByteCode.LinFu.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\NHibernate.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\Remotion.Data.Linq.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\Iesi.Collections.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\Iesi.Collections.xml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\NHibernate.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\NHibernate.xml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\NHibernate.ByteCode.LinFu.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\bin\NHibernate.ByteCode.LinFu.xml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\obj\Debug\ConciliacaoService.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ConciliacaoService\ConciliacaoService\obj\Debug\ConciliacaoService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\obj\Debug\ConciliacaoService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\obj\Debug\ConciliacaoService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\ConciliacaoService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\ConciliacaoService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\Antlr3.Runtime.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\Iesi.Collections.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\LinFu.DynamicProxy.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\log4net.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\Remotion.Data.Linq.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\Iesi.Collections.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\Iesi.Collections.xml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\NHibernate.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\NHibernate.xml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\NHibernate.ByteCode.LinFu.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ConciliacaoService\ConciliacaoService\bin\NHibernate.ByteCode.LinFu.xml

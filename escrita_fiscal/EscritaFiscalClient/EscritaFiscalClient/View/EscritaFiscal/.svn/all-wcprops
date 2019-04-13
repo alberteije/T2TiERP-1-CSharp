@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal
+END
+TipoNotaFiscal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/TipoNotaFiscal.xaml
+END
+FiscalParametro.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalParametro.xaml.cs
+END
+TipoNotaFiscalLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/TipoNotaFiscalLista.xaml.cs
+END
+FiscalParametroPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalParametroPrincipal.xaml.cs
+END
+FiscalLivroPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalLivroPrincipal.xaml.cs
+END
+TipoNotaFiscalPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/TipoNotaFiscalPrincipal.xaml.cs
+END
+FiscalApuracaoIcmsLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalApuracaoIcmsLista.xaml
+END
+FiscalApuracaoIcmsLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalApuracaoIcmsLista.xaml.cs
+END
+FiscalApuracaoIcmsPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalApuracaoIcmsPrincipal.xaml.cs
+END
+RegistroCartorioPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/RegistroCartorioPrincipal.xaml
+END
+RegistroCartorio.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/RegistroCartorio.xaml.cs
+END
+FiscalTermoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalTermoLista.xaml
+END
+SimplesNacionalCabecalhoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalCabecalhoPrincipal.xaml
+END
+SimplesNacionalDetalheLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalDetalheLista.xaml
+END
+SimplesNacionalCabecalho.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalCabecalho.xaml.cs
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/Login.xaml
+END
+FiscalParametroLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalParametroLista.xaml
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/Login.xaml.cs
+END
+EscritaFiscalPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/EscritaFiscalPrincipal.xaml
+END
+InformativosGuiasPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/InformativosGuiasPrincipal.xaml.cs
+END
+FiscalLivroPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalLivroPrincipal.xaml
+END
+FiscalLivro.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalLivro.xaml.cs
+END
+TipoNotaFiscalPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/TipoNotaFiscalPrincipal.xaml
+END
+EscritaFiscalPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/EscritaFiscalPrincipal.xaml.cs
+END
+TipoNotaFiscal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/TipoNotaFiscal.xaml.cs
+END
+FiscalApuracaoIcmsPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalApuracaoIcmsPrincipal.xaml
+END
+RegistroCartorioLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/RegistroCartorioLista.xaml
+END
+SimplesNacionalCabecalhoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalCabecalhoLista.xaml
+END
+RegistroCartorio.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/RegistroCartorio.xaml
+END
+RegistroCartorioLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/RegistroCartorioLista.xaml.cs
+END
+SimplesNacionalCabecalho.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalCabecalho.xaml
+END
+SimplesNacionalCabecalhoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalCabecalhoLista.xaml.cs
+END
+RegistroCartorioPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/RegistroCartorioPrincipal.xaml.cs
+END
+FiscalTermo.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalTermo.xaml
+END
+SimplesNacionalDetalhe.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalDetalhe.xaml
+END
+FiscalTermoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalTermoLista.xaml.cs
+END
+SimplesNacionalCabecalhoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalCabecalhoPrincipal.xaml.cs
+END
+SimplesNacionalDetalheLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalDetalheLista.xaml.cs
+END
+FiscalTermoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalTermoPrincipal.xaml
+END
+FiscalLivroLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalLivroLista.xaml
+END
+SimplesNacionalDetalhePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalDetalhePrincipal.xaml
+END
+InformativosGuiasPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/InformativosGuiasPrincipal.xaml
+END
+FiscalTermo.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalTermo.xaml.cs
+END
+FiscalParametro.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalParametro.xaml
+END
+SimplesNacionalDetalhe.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalDetalhe.xaml.cs
+END
+TipoNotaFiscalLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/TipoNotaFiscalLista.xaml
+END
+FiscalParametroLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalParametroLista.xaml.cs
+END
+FiscalLivro.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalLivro.xaml
+END
+FiscalTermoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalTermoPrincipal.xaml.cs
+END
+FiscalParametroPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalParametroPrincipal.xaml
+END
+FiscalLivroLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/FiscalLivroLista.xaml.cs
+END
+SimplesNacionalDetalhePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/View/EscritaFiscal/SimplesNacionalDetalhePrincipal.xaml.cs
+END

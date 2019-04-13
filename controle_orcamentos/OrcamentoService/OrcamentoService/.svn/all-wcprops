@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Web.config
+END
+OrcamentoService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/OrcamentoService.csproj.user
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Web.Debug.config
+END
+OrcamentoService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/OrcamentoService.csproj
+END
+Service.svc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Service.svc
+END
+IService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/IService.cs
+END
+Service.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Service.svc.cs
+END

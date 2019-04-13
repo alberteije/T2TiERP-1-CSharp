@@ -1,0 +1,1577 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase
+END
+ConvenioPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ConvenioPrincipal.xaml
+END
+ConvenioPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ConvenioPrincipal.xaml.cs
+END
+AtividadeForCli.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AtividadeForCli.xaml
+END
+CstIpi.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIpi.xaml.cs
+END
+BaseCreditoPis.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/BaseCreditoPis.xaml
+END
+CstIcmsBLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsBLista.xaml
+END
+TipoCreditoPis.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoCreditoPis.xaml.cs
+END
+OperadoraCartao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraCartao.xaml
+END
+ContadorLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContadorLista.xaml
+END
+TipoDesligamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoDesligamento.xaml.cs
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Login.xaml.cs
+END
+EstadoCivilPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/EstadoCivilPrincipal.xaml.cs
+END
+SituacaoColaboradorLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoColaboradorLista.xaml.cs
+END
+SindicatoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SindicatoPrincipal.xaml.cs
+END
+ProdutoSubGrupoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoSubGrupoPrincipal.xaml
+END
+Setor.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Setor.xaml
+END
+TipoDesligamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoDesligamento.xaml
+END
+TipoCreditoPisPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoCreditoPisPrincipal.xaml.cs
+END
+CstIcmsB.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsB.xaml.cs
+END
+CodigoGps.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CodigoGps.xaml
+END
+CodigoGpsPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CodigoGpsPrincipal.xaml
+END
+CsosnBLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnBLista.xaml
+END
+TalonarioCheque.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TalonarioCheque.xaml.cs
+END
+ColaboradorLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ColaboradorLista.xaml.cs
+END
+TipoRelacionamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoRelacionamentoLista.xaml
+END
+ProdutoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoLista.xaml.cs
+END
+BaseCreditoPisPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/BaseCreditoPisPrincipal.xaml
+END
+CstPisLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstPisLista.xaml
+END
+SalarioMinimo.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SalarioMinimo.xaml
+END
+Cbo.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cbo.xaml
+END
+SefipCodigoMovimentacaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SefipCodigoMovimentacaoPrincipal.xaml.cs
+END
+ProdutoMarca.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoMarca.xaml.cs
+END
+BaseCreditoPisPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/BaseCreditoPisPrincipal.xaml.cs
+END
+CstPisLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstPisLista.xaml.cs
+END
+CstIcmsB.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsB.xaml
+END
+EstadoCivilLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/EstadoCivilLista.xaml.cs
+END
+TipoDesligamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoDesligamentoPrincipal.xaml
+END
+EstadoCivil.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/EstadoCivil.xaml.cs
+END
+CodigoGpsLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CodigoGpsLista.xaml
+END
+Sindicato.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Sindicato.xaml
+END
+ProdutoGrupoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoGrupoPrincipal.xaml.cs
+END
+NcmPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/NcmPrincipal.xaml
+END
+TipoColaboradorLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoColaboradorLista.xaml
+END
+TalonarioChequeLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TalonarioChequeLista.xaml.cs
+END
+AtividadeForCliPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AtividadeForCliPrincipal.xaml
+END
+Cargo.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cargo.xaml
+END
+CsosnB.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnB.xaml.cs
+END
+TipoAdmissaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoAdmissaoLista.xaml.cs
+END
+ProdutoMarcaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoMarcaLista.xaml
+END
+TipoCreditoPisLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoCreditoPisLista.xaml
+END
+CstCofins.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstCofins.xaml.cs
+END
+TipoCreditoPis.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoCreditoPis.xaml
+END
+SetorPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SetorPrincipal.xaml.cs
+END
+AlmoxarifadoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AlmoxarifadoPrincipal.xaml
+END
+CstIcmsBPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsBPrincipal.xaml
+END
+CadastrosBasePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CadastrosBasePrincipal.xaml
+END
+Sindicato.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Sindicato.xaml.cs
+END
+ProdutoSubGrupo.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoSubGrupo.xaml
+END
+CfopLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CfopLista.xaml
+END
+CsosnB.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnB.xaml
+END
+AtividadeForCliLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AtividadeForCliLista.xaml.cs
+END
+FeriadosLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/FeriadosLista.xaml.cs
+END
+ColaboradorPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ColaboradorPrincipal.xaml.cs
+END
+ProdutoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoPrincipal.xaml
+END
+SefipCodigoMovimentacaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SefipCodigoMovimentacaoLista.xaml.cs
+END
+Produto.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Produto.xaml.cs
+END
+ProdutoMarcaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoMarcaLista.xaml.cs
+END
+AlmoxarifadoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AlmoxarifadoLista.xaml
+END
+SituacaoForCliLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoForCliLista.xaml
+END
+ProdutoGrupo.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoGrupo.xaml
+END
+Cheque.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cheque.xaml.cs
+END
+SituacaoColaborador.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoColaborador.xaml
+END
+SituacaoDocumentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoDocumentoPrincipal.xaml
+END
+CargoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CargoLista.xaml
+END
+TalonarioChequePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TalonarioChequePrincipal.xaml.cs
+END
+CsosnBPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnBPrincipal.xaml
+END
+Cfop.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cfop.xaml.cs
+END
+CstIpi.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIpi.xaml
+END
+AtividadeForCli.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AtividadeForCli.xaml.cs
+END
+TipoAdmissaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoAdmissaoPrincipal.xaml
+END
+TipoAdmissao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoAdmissao.xaml.cs
+END
+SalarioMinimo.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SalarioMinimo.xaml.cs
+END
+Cbo.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cbo.xaml.cs
+END
+TipoDesligamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoDesligamentoLista.xaml.cs
+END
+CstIcmsAPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsAPrincipal.xaml
+END
+SituacaoForCli.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoForCli.xaml.cs
+END
+AlmoxarifadoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AlmoxarifadoPrincipal.xaml.cs
+END
+CodigoGps.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CodigoGps.xaml.cs
+END
+SituacaoDocumentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoDocumentoLista.xaml
+END
+TipoColaboradorPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoColaboradorPrincipal.xaml
+END
+Cfop.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cfop.xaml
+END
+UnidadeProdutoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/UnidadeProdutoPrincipal.xaml
+END
+OperadoraPlanoSaudePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraPlanoSaudePrincipal.xaml
+END
+Produto.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Produto.xaml
+END
+FeriadosPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/FeriadosPrincipal.xaml
+END
+Feriados.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Feriados.xaml.cs
+END
+CstIcmsALista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsALista.xaml
+END
+SalarioMinimoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SalarioMinimoLista.xaml.cs
+END
+CboLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CboLista.xaml.cs
+END
+EstadoCivil.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/EstadoCivil.xaml
+END
+SituacaoForCli.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoForCli.xaml
+END
+CstIcmsBLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsBLista.xaml.cs
+END
+SindicatoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SindicatoLista.xaml.cs
+END
+ContaCaixa.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContaCaixa.xaml.cs
+END
+ContadorPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContadorPrincipal.xaml.cs
+END
+ChequePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ChequePrincipal.xaml.cs
+END
+SituacaoColaboradorPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoColaboradorPrincipal.xaml
+END
+UnidadeProdutoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/UnidadeProdutoLista.xaml
+END
+SituacaoColaboradorPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoColaboradorPrincipal.xaml.cs
+END
+ProdutoSubGrupo.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoSubGrupo.xaml.cs
+END
+CsosnAPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnAPrincipal.xaml
+END
+CstIpiLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIpiLista.xaml
+END
+CfopPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CfopPrincipal.xaml
+END
+TipoAdmissao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoAdmissao.xaml
+END
+SituacaoDocumentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoDocumentoPrincipal.xaml.cs
+END
+CargoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CargoLista.xaml.cs
+END
+TipoRelacionamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoRelacionamentoLista.xaml.cs
+END
+TipoCreditoPisLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoCreditoPisLista.xaml.cs
+END
+CepLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CepLista.xaml
+END
+AlmoxarifadoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AlmoxarifadoLista.xaml.cs
+END
+SituacaoForCliPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoForCliPrincipal.xaml
+END
+CstPis.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstPis.xaml.cs
+END
+NcmLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/NcmLista.xaml
+END
+Almoxarifado.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Almoxarifado.xaml.cs
+END
+ProdutoGrupoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoGrupoPrincipal.xaml
+END
+CstIcmsAPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsAPrincipal.xaml.cs
+END
+TipoDesligamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoDesligamentoPrincipal.xaml.cs
+END
+CsosnALista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnALista.xaml
+END
+ProdutoSubGrupoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoSubGrupoLista.xaml.cs
+END
+Convenio.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Convenio.xaml.cs
+END
+AtividadeForCliLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AtividadeForCliLista.xaml
+END
+CsosnBLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnBLista.xaml.cs
+END
+SetorLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SetorLista.xaml
+END
+OperadoraPlanoSaudeLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraPlanoSaudeLista.xaml.cs
+END
+CstCofins.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstCofins.xaml
+END
+Feriados.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Feriados.xaml
+END
+UnidadeProdutoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/UnidadeProdutoPrincipal.xaml.cs
+END
+CargoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CargoPrincipal.xaml
+END
+SefipCodigoMovimentacao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SefipCodigoMovimentacao.xaml
+END
+SefipCodigoMovimentacaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SefipCodigoMovimentacaoPrincipal.xaml
+END
+ProdutoMarca.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoMarca.xaml
+END
+ProdutoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoPrincipal.xaml.cs
+END
+OperadoraCartaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraCartaoPrincipal.xaml
+END
+SalarioMinimoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SalarioMinimoPrincipal.xaml.cs
+END
+CboPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CboPrincipal.xaml.cs
+END
+Contador.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Contador.xaml
+END
+ProdutoGrupoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoGrupoLista.xaml.cs
+END
+ChequeLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ChequeLista.xaml.cs
+END
+Cep.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cep.xaml.cs
+END
+ChequePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ChequePrincipal.xaml
+END
+ConvenioLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ConvenioLista.xaml
+END
+CstIcmsBPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsBPrincipal.xaml.cs
+END
+TalonarioChequeLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TalonarioChequeLista.xaml
+END
+ContaCaixaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContaCaixaPrincipal.xaml.cs
+END
+TipoColaborador.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoColaborador.xaml
+END
+SituacaoDocumentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoDocumentoLista.xaml.cs
+END
+SituacaoDocumento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoDocumento.xaml.cs
+END
+SefipCodigoMovimentacaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SefipCodigoMovimentacaoLista.xaml
+END
+CsosnAPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnAPrincipal.xaml.cs
+END
+CstIpiLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIpiLista.xaml.cs
+END
+TipoRelacionamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoRelacionamentoPrincipal.xaml
+END
+TipoRelacionamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoRelacionamento.xaml.cs
+END
+CargoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CargoPrincipal.xaml.cs
+END
+TipoAdmissaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoAdmissaoPrincipal.xaml.cs
+END
+OperadoraCartaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraCartaoLista.xaml
+END
+ChequeLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ChequeLista.xaml
+END
+Cep.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cep.xaml
+END
+CstIcmsALista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsALista.xaml.cs
+END
+CstIcmsA.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsA.xaml.cs
+END
+ProdutoGrupo.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoGrupo.xaml.cs
+END
+SindicatoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SindicatoPrincipal.xaml
+END
+ConvenioLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ConvenioLista.xaml.cs
+END
+NcmPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/NcmPrincipal.xaml.cs
+END
+UnidadeProdutoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/UnidadeProdutoLista.xaml.cs
+END
+CfopLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CfopLista.xaml.cs
+END
+CstCofinsLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstCofinsLista.xaml
+END
+ProdutoSubGrupoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoSubGrupoPrincipal.xaml.cs
+END
+UnidadeProduto.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/UnidadeProduto.xaml.cs
+END
+CsosnBPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnBPrincipal.xaml.cs
+END
+CstIpiPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIpiPrincipal.xaml
+END
+ProdutoMarcaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoMarcaPrincipal.xaml
+END
+FeriadosPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/FeriadosPrincipal.xaml.cs
+END
+BaseCreditoPis.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/BaseCreditoPis.xaml.cs
+END
+ProdutoMarcaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoMarcaPrincipal.xaml.cs
+END
+SituacaoForCliLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoForCliLista.xaml.cs
+END
+CepPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CepPrincipal.xaml
+END
+ContaCaixaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContaCaixaLista.xaml.cs
+END
+OperadoraCartaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraCartaoPrincipal.xaml.cs
+END
+ContaCaixaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContaCaixaPrincipal.xaml
+END
+CsosnALista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnALista.xaml.cs
+END
+CsosnA.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnA.xaml.cs
+END
+TipoRelacionamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoRelacionamento.xaml
+END
+BaseCreditoPisLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/BaseCreditoPisLista.xaml
+END
+CstIpiPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIpiPrincipal.xaml.cs
+END
+Almoxarifado.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Almoxarifado.xaml
+END
+ContaCaixaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContaCaixaLista.xaml
+END
+ContadorPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContadorPrincipal.xaml
+END
+Ncm.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Ncm.xaml
+END
+ColaboradorLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ColaboradorLista.xaml
+END
+CodigoGpsPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CodigoGpsPrincipal.xaml.cs
+END
+TalonarioChequePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TalonarioChequePrincipal.xaml
+END
+TipoColaborador.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoColaborador.xaml.cs
+END
+OperadoraPlanoSaude.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraPlanoSaude.xaml
+END
+CstCofinsLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstCofinsLista.xaml.cs
+END
+CfopPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CfopPrincipal.xaml.cs
+END
+SalarioMinimoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SalarioMinimoLista.xaml
+END
+CboLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CboLista.xaml
+END
+BaseCreditoPisLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/BaseCreditoPisLista.xaml.cs
+END
+SefipCodigoMovimentacao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SefipCodigoMovimentacao.xaml.cs
+END
+ProdutoGrupoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoGrupoLista.xaml
+END
+OperadoraCartaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraCartaoLista.xaml.cs
+END
+OperadoraCartao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraCartao.xaml.cs
+END
+Cheque.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cheque.xaml
+END
+ContadorLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContadorLista.xaml.cs
+END
+CstPisPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstPisPrincipal.xaml.cs
+END
+SituacaoForCliPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoForCliPrincipal.xaml.cs
+END
+Ncm.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Ncm.xaml.cs
+END
+TipoColaboradorLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoColaboradorLista.xaml.cs
+END
+SituacaoDocumento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoDocumento.xaml
+END
+ProdutoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoLista.xaml
+END
+Colaborador.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Colaborador.xaml.cs
+END
+SetorLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SetorLista.xaml.cs
+END
+CstCofinsPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstCofinsPrincipal.xaml
+END
+TipoRelacionamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoRelacionamentoPrincipal.xaml.cs
+END
+CstIcmsA.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstIcmsA.xaml
+END
+CstPisPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstPisPrincipal.xaml
+END
+CepLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CepLista.xaml.cs
+END
+Contador.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Contador.xaml.cs
+END
+CodigoGpsLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CodigoGpsLista.xaml.cs
+END
+ProdutoSubGrupoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ProdutoSubGrupoLista.xaml
+END
+Convenio.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Convenio.xaml
+END
+CadastrosBasePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CadastrosBasePrincipal.xaml.cs
+END
+UnidadeProduto.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/UnidadeProduto.xaml
+END
+Colaborador.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Colaborador.xaml
+END
+TipoAdmissaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoAdmissaoLista.xaml
+END
+OperadoraPlanoSaude.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraPlanoSaude.xaml.cs
+END
+OperadoraPlanoSaudePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraPlanoSaudePrincipal.xaml.cs
+END
+AtividadeForCliPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/AtividadeForCliPrincipal.xaml.cs
+END
+Cargo.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Cargo.xaml.cs
+END
+CstCofinsPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstCofinsPrincipal.xaml.cs
+END
+TipoCreditoPisPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoCreditoPisPrincipal.xaml
+END
+CstPis.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CstPis.xaml
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Login.xaml
+END
+EstadoCivilPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/EstadoCivilPrincipal.xaml
+END
+SindicatoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SindicatoLista.xaml
+END
+ContaCaixa.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ContaCaixa.xaml
+END
+TalonarioCheque.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TalonarioCheque.xaml
+END
+SituacaoColaborador.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoColaborador.xaml.cs
+END
+OperadoraPlanoSaudeLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/OperadoraPlanoSaudeLista.xaml
+END
+CsosnA.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CsosnA.xaml
+END
+TipoColaboradorPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoColaboradorPrincipal.xaml.cs
+END
+FeriadosLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/FeriadosLista.xaml
+END
+ColaboradorPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/ColaboradorPrincipal.xaml
+END
+SetorPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SetorPrincipal.xaml
+END
+Setor.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/Setor.xaml.cs
+END
+EstadoCivilLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/EstadoCivilLista.xaml
+END
+TipoDesligamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/TipoDesligamentoLista.xaml
+END
+SalarioMinimoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SalarioMinimoPrincipal.xaml
+END
+CboPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CboPrincipal.xaml
+END
+SituacaoColaboradorLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/SituacaoColaboradorLista.xaml
+END
+CepPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/CepPrincipal.xaml.cs
+END
+NcmLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/View/CadastrosBase/NcmLista.xaml.cs
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Util
+END
+RadioStringConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Util/RadioStringConverter.cs
+END
+MoedaFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Util/MoedaFormat.cs
+END
+CloseableTabItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Util/CloseableTabItem.cs
+END
+BooleanCharConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Util/BooleanCharConverter.cs
+END

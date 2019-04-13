@@ -1,0 +1,20 @@
+﻿VendasClient
+
+
+winexe
+C#
+.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\VendasClient\VendasClient\obj\x86\Debug\
+VendasClient
+none
+false
+DEBUG;TRACE
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\VendasClient\VendasClient\App.xaml
+28735345846
+
+48192944566
+211182743460
+themes\generic.xaml;View\ERPClient.xaml;View\Vendas\Login.xaml;View\Vendas\OrcamentoPedidoVendaDet.xaml;View\Vendas\OrcamentoPedidoVendaDetLista.xaml;View\Vendas\OrcamentoPedidoVendaDetPrincipal.xaml;View\Vendas\CondicoesPagamento.xaml;View\Vendas\CondicoesPagamentoLista.xaml;View\Vendas\CondicoesPagamentoPrincipal.xaml;View\Vendas\CondicoesParcela.xaml;View\Vendas\CondicoesParcelaLista.xaml;View\Vendas\CondicoesParcelaPrincipal.xaml;View\Vendas\FreteVenda.xaml;View\Vendas\FreteVendaLista.xaml;View\Vendas\FreteVendaPrincipal.xaml;View\Vendas\OrcamentoPedidoVendaCab.xaml;View\Vendas\OrcamentoPedidoVendaCabLista.xaml;View\Vendas\OrcamentoPedidoVendaCabPrincipal.xaml;View\Vendas\VendasPrincipal.xaml;View\Vendas\TipoNotaFiscal.xaml;View\Vendas\TipoNotaFiscalLista.xaml;View\Vendas\TipoNotaFiscalPrincipal.xaml;View\Vendas\VendaCabecalho.xaml;View\Vendas\VendaCabecalhoLista.xaml;View\Vendas\VendaCabecalhoPrincipal.xaml;View\Vendas\VendaDetalhe.xaml;View\Vendas\VendaDetalheLista.xaml;View\Vendas\VendaDetalhePrincipal.xaml;
+
+True
+

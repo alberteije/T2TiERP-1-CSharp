@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model
+END
+CompraRequisicaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraRequisicaoDTO.hbm.xml
+END
+CompraPedidoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraPedidoDTO.hbm.xml
+END
+ProdutoGrupoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ProdutoGrupoDTO.cs
+END
+ProdutoGrupoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ProdutoGrupoDTO.hbm.xml
+END
+CompraReqCotacaoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraReqCotacaoDetalheDTO.hbm.xml
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ViewControleAcessoDTO.cs
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ContabilContaDTO.cs
+END
+CompraFornecedorCotacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraFornecedorCotacaoDTO.hbm.xml
+END
+UnidadeProdutoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/UnidadeProdutoDTO.cs
+END
+CompraCotacaoPedidoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraCotacaoPedidoDetalheDTO.cs
+END
+CompraCotacaoPedidoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraCotacaoPedidoDetalheDTO.hbm.xml
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/NHibernateDAL.cs
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/PessoaDTO.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/EmpresaDTO.hbm.xml
+END
+ProdutoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ProdutoDTO.cs
+END
+ViewPessoaFornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ViewPessoaFornecedorDTO.hbm.xml
+END
+CompraTipoRequisicaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraTipoRequisicaoDTO.hbm.xml
+END
+CompraTipoPedidoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraTipoPedidoDTO.hbm.xml
+END
+CompraCotacaoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraCotacaoDetalheDTO.cs
+END
+CompraRequisicaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraRequisicaoDTO.cs
+END
+CompraPedidoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraPedidoDTO.cs
+END
+CompraReqCotacaoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraReqCotacaoDetalheDTO.cs
+END
+CompraCotacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraCotacaoDTO.cs
+END
+CompraCotacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraCotacaoDTO.hbm.xml
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ContabilContaDTO.hbm.xml
+END
+CompraRequisicaoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraRequisicaoDAL.cs
+END
+CompraFornecedorCotacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraFornecedorCotacaoDTO.cs
+END
+ProdutoSubGrupoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ProdutoSubGrupoDTO.cs
+END
+ProdutoSubGrupoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ProdutoSubGrupoDTO.hbm.xml
+END
+UnidadeProdutoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/UnidadeProdutoDTO.hbm.xml
+END
+ColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ColaboradorDTO.cs
+END
+ColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ColaboradorDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/UsuarioDTO.hbm.xml
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/PessoaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/EmpresaDTO.cs
+END
+ProdutoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ProdutoDTO.hbm.xml
+END
+ViewPessoaFornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/ViewPessoaFornecedorDTO.cs
+END
+CompraRequisicaoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraRequisicaoDetalheDTO.hbm.xml
+END
+CompraRequisicaoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraRequisicaoDetalheDTO.cs
+END
+CompraPedidoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraPedidoDetalheDTO.cs
+END
+CompraPedidoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraPedidoDetalheDTO.hbm.xml
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/IDAL.cs
+END
+CompraTipoRequisicaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraTipoRequisicaoDTO.cs
+END
+CompraTipoPedidoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraTipoPedidoDTO.cs
+END
+CompraCotacaoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Model/CompraCotacaoDetalheDTO.hbm.xml
+END

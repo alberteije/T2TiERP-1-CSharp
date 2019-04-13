@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model
+END
+LancamentoPagarDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/LancamentoPagarDAL.cs
+END
+NaturezaFinanceiraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/NaturezaFinanceiraDTO.hbm.xml
+END
+NaturezaFinanceiraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/NaturezaFinanceiraDTO.cs
+END
+LancamentoReceberDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/LancamentoReceberDTO.hbm.xml
+END
+LancamentoReceberDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/LancamentoReceberDTO.cs
+END
+OrcamentoPeriodoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/OrcamentoPeriodoDTO.cs
+END
+OrcamentoPeriodoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/OrcamentoPeriodoDTO.hbm.xml
+END
+ContaCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/ContaCaixaDTO.hbm.xml
+END
+ContaCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/ContaCaixaDTO.cs
+END
+OrcamentoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/OrcamentoDetalheDTO.cs
+END
+OrcamentoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/OrcamentoDetalheDTO.hbm.xml
+END
+ParcelaPagarDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/ParcelaPagarDTO.cs
+END
+ParcelaPagarDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/ParcelaPagarDTO.hbm.xml
+END
+OrcamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/OrcamentoDTO.hbm.xml
+END
+OrcamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/OrcamentoDTO.cs
+END
+OrcamentoDetalheDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/OrcamentoDetalheDAL.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/NHibernateDAL.cs
+END
+LancamentoPagarDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/LancamentoPagarDTO.hbm.xml
+END
+LancamentoPagarDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/LancamentoPagarDTO.cs
+END
+ParcelaReceberDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/ParcelaReceberDTO.cs
+END
+ParcelaReceberDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/ParcelaReceberDTO.hbm.xml
+END
+DocumentoOrigemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/DocumentoOrigemDTO.hbm.xml
+END
+DocumentoOrigemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/DocumentoOrigemDTO.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_controle_orcamentos/!svn/ver/2/trunk/OrcamentoService/OrcamentoService/Model/IDAL.cs
+END

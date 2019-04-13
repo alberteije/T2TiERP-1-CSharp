@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c3750ac3-906e-41a1-adbd-634657f4b733" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/CaixaBancosService/CaixaBancosService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CaixaBancosService.xsd" MetadataType="Schema" ID="f333f553-7812-4478-9ff4-b376065615df" SourceId="1" SourceUrl="http://localhost/CaixaBancosService/CaixaBancosService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CaixaBancosService1.xsd" MetadataType="Schema" ID="2afb8d5b-46f0-4431-8389-442cde79e90b" SourceId="1" SourceUrl="http://localhost/CaixaBancosService/CaixaBancosService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CaixaBancosService2.xsd" MetadataType="Schema" ID="d762a96c-5c73-4be6-bc9d-577293205544" SourceId="1" SourceUrl="http://localhost/CaixaBancosService/CaixaBancosService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CaixaBancosService.disco" MetadataType="Disco" ID="c3c10ee7-543c-4020-a139-b1301f54ba16" SourceId="1" SourceUrl="http://localhost/CaixaBancosService/CaixaBancosService.svc?disco" />
+    <MetadataFile FileName="CaixaBancosService.wsdl" MetadataType="Wsdl" ID="33a97997-0164-4cf1-9b56-47566c0c525e" SourceId="1" SourceUrl="http://localhost/CaixaBancosService/CaixaBancosService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

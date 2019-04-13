@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED
+END
+GedDocumentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GedDocumentoPrincipal.xaml
+END
+GedTipoDocumentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GedTipoDocumentoPrincipal.xaml.cs
+END
+DocumentoIncluirView.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/DocumentoIncluirView.xaml.cs
+END
+ModuloVisualizarDocumentoView.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/ModuloVisualizarDocumentoView.xaml
+END
+GedDocumentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GedDocumentoPrincipal.xaml.cs
+END
+DocumentoExcluirView.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/DocumentoExcluirView.xaml
+END
+ModuloVisualizarDocumentoView.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/ModuloVisualizarDocumentoView.xaml.cs
+END
+DocumentoExcluirView.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/DocumentoExcluirView.xaml.cs
+END
+ModuloIncluirDocumentoView.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/ModuloIncluirDocumentoView.xaml
+END
+GEDPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GEDPrincipal.xaml
+END
+ModuloIncluirDocumentoView.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/ModuloIncluirDocumentoView.xaml.cs
+END
+DocumentoAlterarView.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/DocumentoAlterarView.xaml
+END
+GEDPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GEDPrincipal.xaml.cs
+END
+GedTipoDocumentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GedTipoDocumentoLista.xaml
+END
+DocumentoAlterarView.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/DocumentoAlterarView.xaml.cs
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/Login.xaml
+END
+GedTipoDocumento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GedTipoDocumento.xaml
+END
+GedTipoDocumentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GedTipoDocumentoLista.xaml.cs
+END
+GedTipoDocumentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GedTipoDocumentoPrincipal.xaml
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/Login.xaml.cs
+END
+GedTipoDocumento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/GedTipoDocumento.xaml.cs
+END
+DocumentoIncluirView.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/View/GED/DocumentoIncluirView.xaml
+END

@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal
+END
+SimplesNacionalDetalheLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalheLista.baml
+END
+SimplesNacionalCabecalhoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalhoLista.g.i.cs
+END
+Login.baml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/Login.baml
+END
+SimplesNacionalCabecalho.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalho.g.i.cs
+END
+FiscalParametroLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametroLista.baml
+END
+FiscalApuracaoIcmsPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalApuracaoIcmsPrincipal.g.cs
+END
+RegistroCartorioLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorioLista.g.cs
+END
+EscritaFiscalPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/EscritaFiscalPrincipal.baml
+END
+FiscalTermo.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermo.g.i.cs
+END
+SimplesNacionalCabecalhoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalhoLista.g.cs
+END
+FiscalLivroPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivroPrincipal.baml
+END
+RegistroCartorio.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorio.g.cs
+END
+SimplesNacionalDetalhePrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalhePrincipal.g.i.cs
+END
+TipoNotaFiscalPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscalPrincipal.baml
+END
+FiscalLivro.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivro.g.i.cs
+END
+FiscalParametroPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametroPrincipal.g.i.cs
+END
+FiscalTermo.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermo.g.cs
+END
+SimplesNacionalDetalhePrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalhePrincipal.g.cs
+END
+InformativosGuiasPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/InformativosGuiasPrincipal.g.cs
+END
+FiscalApuracaoIcmsLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalApuracaoIcmsLista.g.i.cs
+END
+FiscalParametroPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametroPrincipal.g.cs
+END
+TipoNotaFiscal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscal.g.cs
+END
+SimplesNacionalCabecalho.baml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalho.baml
+END
+FiscalApuracaoIcmsLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalApuracaoIcmsLista.g.cs
+END
+SimplesNacionalDetalhe.baml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalhe.baml
+END
+RegistroCartorioPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorioPrincipal.g.i.cs
+END
+FiscalTermoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermoPrincipal.baml
+END
+FiscalLivroLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivroLista.baml
+END
+SimplesNacionalCabecalhoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalhoPrincipal.g.i.cs
+END
+FiscalTermoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermoLista.g.i.cs
+END
+FiscalParametro.baml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametro.baml
+END
+TipoNotaFiscalLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscalLista.baml
+END
+FiscalLivro.baml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivro.baml
+END
+Login.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/Login.g.i.cs
+END
+EscritaFiscalPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/EscritaFiscalPrincipal.g.i.cs
+END
+SimplesNacionalDetalheLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalheLista.g.cs
+END
+Login.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/Login.g.cs
+END
+FiscalParametroLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametroLista.g.cs
+END
+EscritaFiscalPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/EscritaFiscalPrincipal.g.cs
+END
+FiscalLivroPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivroPrincipal.g.cs
+END
+TipoNotaFiscalPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscalPrincipal.g.cs
+END
+FiscalApuracaoIcmsPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalApuracaoIcmsPrincipal.g.i.cs
+END
+RegistroCartorioPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorioPrincipal.baml
+END
+SimplesNacionalCabecalhoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalhoPrincipal.baml
+END
+FiscalTermoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermoLista.baml
+END
+RegistroCartorio.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorio.g.i.cs
+END
+SimplesNacionalDetalhe.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalhe.g.i.cs
+END
+FiscalTermoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermoPrincipal.g.i.cs
+END
+FiscalLivroLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivroLista.g.i.cs
+END
+InformativosGuiasPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/InformativosGuiasPrincipal.g.i.cs
+END
+SimplesNacionalCabecalho.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalho.g.cs
+END
+FiscalParametro.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametro.g.i.cs
+END
+TipoNotaFiscalLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscalLista.g.i.cs
+END
+TipoNotaFiscal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscal.g.i.cs
+END
+SimplesNacionalDetalhe.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalhe.g.cs
+END
+FiscalTermoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermoPrincipal.g.cs
+END
+FiscalLivroLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivroLista.g.cs
+END
+FiscalApuracaoIcmsPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalApuracaoIcmsPrincipal.baml
+END
+FiscalParametro.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametro.g.cs
+END
+TipoNotaFiscalLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscalLista.g.cs
+END
+FiscalLivro.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivro.g.cs
+END
+RegistroCartorioLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorioLista.baml
+END
+SimplesNacionalCabecalhoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalhoLista.baml
+END
+RegistroCartorio.baml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorio.baml
+END
+FiscalTermo.baml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermo.baml
+END
+SimplesNacionalDetalhePrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalhePrincipal.baml
+END
+InformativosGuiasPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/InformativosGuiasPrincipal.baml
+END
+SimplesNacionalDetalheLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalDetalheLista.g.i.cs
+END
+FiscalParametroPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametroPrincipal.baml
+END
+FiscalParametroLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalParametroLista.g.i.cs
+END
+TipoNotaFiscal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscal.baml
+END
+RegistroCartorioPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorioPrincipal.g.cs
+END
+SimplesNacionalCabecalhoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/SimplesNacionalCabecalhoPrincipal.g.cs
+END
+FiscalTermoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalTermoLista.g.cs
+END
+FiscalLivroPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalLivroPrincipal.g.i.cs
+END
+FiscalApuracaoIcmsLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/FiscalApuracaoIcmsLista.baml
+END
+TipoNotaFiscalPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/TipoNotaFiscalPrincipal.g.i.cs
+END
+RegistroCartorioLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/obj/x86/Debug/View/EscritaFiscal/RegistroCartorioLista.g.i.cs
+END

@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model
+END
+ViewSpedNfeDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/ViewSpedNfeDetalheDTO.hbm.xml
+END
+NFeFaturaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeFaturaDTO.hbm.xml
+END
+NFeFaturaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeFaturaDTO.cs
+END
+NfeDetalheImpostoCofinsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoCofinsDTO.cs
+END
+NfeDetalheImpostoIpiDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoIpiDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/ViewControleAcessoDTO.cs
+END
+ClienteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/ClienteDTO.cs
+END
+ClienteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/ClienteDTO.hbm.xml
+END
+EnderecoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/EnderecoDTO.cs
+END
+FornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/FornecedorDTO.cs
+END
+NfeDetalheImpostoIcmsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoIcmsDTO.cs
+END
+NfeDetalheImpostoPisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoPisDTO.hbm.xml
+END
+NfeDetalheImpostoIssqnDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoIssqnDTO.hbm.xml
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NHibernateDAL.cs
+END
+NFeLocalEntregaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeLocalEntregaDTO.hbm.xml
+END
+NFeLocalEntregaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeLocalEntregaDTO.cs
+END
+NFeTransporteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeTransporteDTO.hbm.xml
+END
+NFeCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeCabecalhoDTO.cs
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/PessoaDTO.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/EmpresaDTO.hbm.xml
+END
+NfeDetalheImpostoIiDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoIiDTO.cs
+END
+NFeCupomFiscalDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeCupomFiscalDTO.cs
+END
+NFeLocalRetiradaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeLocalRetiradaDTO.hbm.xml
+END
+NFeLocalRetiradaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeLocalRetiradaDTO.cs
+END
+NFeDuplicataDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeDuplicataDTO.hbm.xml
+END
+NFeDuplicataDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeDuplicataDTO.cs
+END
+ViewSpedNfeDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/ViewSpedNfeDetalheDTO.cs
+END
+NfeDetalheImpostoCofinsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoCofinsDTO.hbm.xml
+END
+NfeDetalheImpostoIpiDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoIpiDTO.hbm.xml
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/ViewControleAcessoDTO.hbm.xml
+END
+NFeDestinatarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeDestinatarioDTO.cs
+END
+NFeDestinatarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeDestinatarioDTO.hbm.xml
+END
+EnderecoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/EnderecoDTO.hbm.xml
+END
+FornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/FornecedorDTO.hbm.xml
+END
+NfeDetalheImpostoIcmsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoIcmsDTO.hbm.xml
+END
+NfeDetalheImpostoPisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoPisDTO.cs
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/UsuarioDTO.hbm.xml
+END
+NfeDetalheImpostoIssqnDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoIssqnDTO.cs
+END
+NFeTransporteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeTransporteDTO.cs
+END
+NFeCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeCabecalhoDTO.hbm.xml
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/PessoaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/EmpresaDTO.cs
+END
+NfeDetalheImpostoIiDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NfeDetalheImpostoIiDTO.hbm.xml
+END
+NFeCupomFiscalDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeCupomFiscalDTO.hbm.xml
+END
+NFeDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeDetalheDTO.hbm.xml
+END
+NFeDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeDetalheDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/IDAL.cs
+END
+NFeEmitenteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeEmitenteDTO.hbm.xml
+END
+NFeEmitenteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Model/NFeEmitenteDTO.cs
+END

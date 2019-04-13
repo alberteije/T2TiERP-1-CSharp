@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/Util
+END
+RadioStringConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/Util/RadioStringConverter.cs
+END
+MoedaFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/Util/MoedaFormat.cs
+END
+CloseableTabItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/Util/CloseableTabItem.cs
+END
+BooleanCharConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/Util/BooleanCharConverter.cs
+END

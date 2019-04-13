@@ -1,0 +1,32 @@
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\bin\Debug\OrcamentoClient.exe.config
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\bin\Debug\OrcamentoClient.exe
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\bin\Debug\OrcamentoClient.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\bin\Debug\ExportarParaArquivo.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\bin\Debug\NPOI.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\bin\Debug\NRtfTree.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\bin\Debug\SearchWindow.exe
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\App.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\View\ERPClient.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\View\Orcamento\OrcamentoDetalhe.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\View\Orcamento\OrcamentoGrid.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\View\Orcamento\Orcamento.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\OrcamentoClient_MarkupCompile.cache
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\OrcamentoClient_MarkupCompile.lref
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\View\ERPClient.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\View\Orcamento\OrcamentoDetalhe.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\View\Orcamento\OrcamentoGrid.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\View\Orcamento\Orcamento.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\OrcamentoClient.g.resources
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\OrcamentoClient.Properties.Resources.resources
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\OrcamentoClient.exe
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoClient\OrcamentoClient\obj\x86\Debug\OrcamentoClient.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoClient\OrcamentoClient\bin\Debug\OrcamentoClient.exe.config
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoClient\OrcamentoClient\obj\x86\Debug\OrcamentoClient.exe
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoClient\OrcamentoClient\obj\x86\Debug\OrcamentoClient.pdb

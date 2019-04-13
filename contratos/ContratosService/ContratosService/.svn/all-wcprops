@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Web.Release.config
+END
+ServicoContratos.svc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/ServicoContratos.svc
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Web.config
+END
+IServicoContratos.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/IServicoContratos.cs
+END
+ServicoContratos.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/ServicoContratos.svc.cs
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Web.Debug.config
+END
+ContratosService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/ContratosService.csproj.user
+END
+ContratosService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/ContratosService.csproj
+END

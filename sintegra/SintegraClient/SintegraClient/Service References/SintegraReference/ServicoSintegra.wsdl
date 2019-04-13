@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicoSintegra" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/SintegraService/ServicoSintegra.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/SintegraService/ServicoSintegra.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost/SintegraService/ServicoSintegra.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SintegraService.Model" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicoSintegra_selectEmpresaId_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEmpresaId" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectEmpresaId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEmpresaIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectNFeCabecalho_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNFeCabecalho" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectNFeCabecalho_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNFeCabecalhoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectNFeCabecalhoId_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNFeCabecalhoId" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectNFeCabecalhoId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNFeCabecalhoIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectViewSpedNfeDetalhe_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDetalhe" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectViewSpedNfeDetalhe_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDetalheResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectViewSpedNfeDetalhePagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDetalhePagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectViewSpedNfeDetalhePagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDetalhePaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectControleAcesso_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectControleAcesso" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSintegra_selectControleAcesso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectControleAcessoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServicoSintegra">
+    <wsdl:operation name="selectEmpresaId">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSintegra/selectEmpresaId" message="tns:IServicoSintegra_selectEmpresaId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSintegra/selectEmpresaIdResponse" message="tns:IServicoSintegra_selectEmpresaId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNFeCabecalho">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSintegra/selectNFeCabecalho" message="tns:IServicoSintegra_selectNFeCabecalho_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSintegra/selectNFeCabecalhoResponse" message="tns:IServicoSintegra_selectNFeCabecalho_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNFeCabecalhoId">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSintegra/selectNFeCabecalhoId" message="tns:IServicoSintegra_selectNFeCabecalhoId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSintegra/selectNFeCabecalhoIdResponse" message="tns:IServicoSintegra_selectNFeCabecalhoId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDetalhe">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSintegra/selectViewSpedNfeDetalhe" message="tns:IServicoSintegra_selectViewSpedNfeDetalhe_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSintegra/selectViewSpedNfeDetalheResponse" message="tns:IServicoSintegra_selectViewSpedNfeDetalhe_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDetalhePagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSintegra/selectViewSpedNfeDetalhePagina" message="tns:IServicoSintegra_selectViewSpedNfeDetalhePagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSintegra/selectViewSpedNfeDetalhePaginaResponse" message="tns:IServicoSintegra_selectViewSpedNfeDetalhePagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSintegra/selectUsuario" message="tns:IServicoSintegra_selectUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSintegra/selectUsuarioResponse" message="tns:IServicoSintegra_selectUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectControleAcesso">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSintegra/selectControleAcesso" message="tns:IServicoSintegra_selectControleAcesso_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSintegra/selectControleAcessoResponse" message="tns:IServicoSintegra_selectControleAcesso_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicoSintegra" type="tns:IServicoSintegra">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="selectEmpresaId">
+      <soap:operation soapAction="http://tempuri.org/IServicoSintegra/selectEmpresaId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNFeCabecalho">
+      <soap:operation soapAction="http://tempuri.org/IServicoSintegra/selectNFeCabecalho" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNFeCabecalhoId">
+      <soap:operation soapAction="http://tempuri.org/IServicoSintegra/selectNFeCabecalhoId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDetalhe">
+      <soap:operation soapAction="http://tempuri.org/IServicoSintegra/selectViewSpedNfeDetalhe" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDetalhePagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSintegra/selectViewSpedNfeDetalhePagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectUsuario">
+      <soap:operation soapAction="http://tempuri.org/IServicoSintegra/selectUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectControleAcesso">
+      <soap:operation soapAction="http://tempuri.org/IServicoSintegra/selectControleAcesso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicoSintegra">
+    <wsdl:port name="BasicHttpBinding_IServicoSintegra" binding="tns:BasicHttpBinding_IServicoSintegra">
+      <soap:address location="http://localhost/SintegraService/ServicoSintegra.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

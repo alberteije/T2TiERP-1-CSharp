@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto
+END
+CodigoBarra.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoBarra.cs
+END
+Boleto.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Boleto.cs
+END
+Endereco.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Endereco.cs
+END
+ContaBancaria.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/ContaBancaria.cs
+END
+Boletos.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Boletos.cs
+END
+Cedente.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Cedente.cs
+END

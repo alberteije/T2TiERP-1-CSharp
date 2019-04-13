@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade
+END
+RegistroCartorioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/RegistroCartorioViewModel.cs
+END
+AidfAimdfViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/AidfAimdfViewModel.cs
+END
+FapViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/FapViewModel.cs
+END
+ContabilEncerramentoExeCabViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilEncerramentoExeCabViewModel.cs
+END
+ContabilLivroViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilLivroViewModel.cs
+END
+ContabilIndiceViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilIndiceViewModel.cs
+END
+PlanoContaRefSpedViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/PlanoContaRefSpedViewModel.cs
+END
+ContabilDreCabecalhoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilDreCabecalhoViewModel.cs
+END
+ContabilLoteViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilLoteViewModel.cs
+END
+ContabilLancamentoCabecalhoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilLancamentoCabecalhoViewModel.cs
+END
+ContabilHistoricoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilHistoricoViewModel.cs
+END
+ContabilContaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilContaViewModel.cs
+END
+ContabilidadeViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilidadeViewModel.cs
+END
+ContabilLancamentoPadraoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilLancamentoPadraoViewModel.cs
+END
+ContabilLancamentoOrcadoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilLancamentoOrcadoViewModel.cs
+END
+ContabilFechamentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilFechamentoViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/UsuarioViewModel.cs
+END
+ContabilParametrosViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/ContabilParametrosViewModel.cs
+END
+PlanoContaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/ViewModel/Contabilidade/PlanoContaViewModel.cs
+END

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="28221795-223e-41c7-85c2-06483ec85a07" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/TesourariaService/TesourariaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TesourariaService.wsdl" MetadataType="Wsdl" ID="d96ee18e-dac0-40c9-8791-eb4db179c41d" SourceId="1" SourceUrl="http://localhost/TesourariaService/TesourariaService.svc?wsdl" />
+    <MetadataFile FileName="TesourariaService.disco" MetadataType="Disco" ID="067a45b5-b280-4ba8-9512-5c89258e3de4" SourceId="1" SourceUrl="http://localhost/TesourariaService/TesourariaService.svc?disco" />
+    <MetadataFile FileName="TesourariaService.xsd" MetadataType="Schema" ID="6afc1478-7311-4de9-b9cb-bf897f72f07c" SourceId="1" SourceUrl="http://localhost/TesourariaService/TesourariaService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TesourariaService1.xsd" MetadataType="Schema" ID="34b5b185-6862-4d66-8a8a-aad64701fd23" SourceId="1" SourceUrl="http://localhost/TesourariaService/TesourariaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TesourariaService2.xsd" MetadataType="Schema" ID="12e4ceac-17c8-44a6-be5d-c4e2af8be531" SourceId="1" SourceUrl="http://localhost/TesourariaService/TesourariaService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

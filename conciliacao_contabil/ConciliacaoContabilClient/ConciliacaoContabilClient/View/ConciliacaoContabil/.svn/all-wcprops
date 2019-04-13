@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil
+END
+ContabilLancamentoDetalheLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoDetalheLista.xaml
+END
+ContabilLancamentoCabecalhoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoCabecalhoPrincipal.xaml
+END
+ConciliacaoContabilPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ConciliacaoContabilPrincipal.xaml
+END
+ContabilLancamentoCabecalho.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoCabecalho.xaml.cs
+END
+ClientePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ClientePrincipal.xaml
+END
+ViewConciliaFornecedorPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ViewConciliaFornecedorPrincipal.xaml
+END
+Fornecedor.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/Fornecedor.xaml
+END
+ConciliacaoContabilPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ConciliacaoContabilPrincipal.xaml.cs
+END
+Cliente.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/Cliente.xaml.cs
+END
+FornecedorLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/FornecedorLista.xaml.cs
+END
+FornecedorPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/FornecedorPrincipal.xaml
+END
+Fornecedor.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/Fornecedor.xaml.cs
+END
+FornecedorPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/FornecedorPrincipal.xaml.cs
+END
+LancamentoConciliadoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/LancamentoConciliadoLista.xaml
+END
+FinExtratoContaBancoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/FinExtratoContaBancoLista.xaml
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/Login.xaml
+END
+ContaCaixa.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContaCaixa.xaml
+END
+ContaCaixaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContaCaixaLista.xaml.cs
+END
+FinExtratoContaBancoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/FinExtratoContaBancoLista.xaml.cs
+END
+ContabilLancamentoCabecalhoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoCabecalhoLista.xaml
+END
+ContaCaixaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContaCaixaPrincipal.xaml
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/Login.xaml.cs
+END
+ContaCaixa.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContaCaixa.xaml.cs
+END
+ContabilLancamentoCabecalho.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoCabecalho.xaml
+END
+ContabilLancamentoCabecalhoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoCabecalhoLista.xaml.cs
+END
+ClienteLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ClienteLista.xaml
+END
+ContaCaixaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContaCaixaPrincipal.xaml.cs
+END
+ViewConciliaFornecedorLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ViewConciliaFornecedorLista.xaml
+END
+FinExtratoContaBancoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/FinExtratoContaBancoPrincipal.xaml.cs
+END
+ViewConciliaClienteLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ViewConciliaClienteLista.xaml.cs
+END
+ViewConciliaClientePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ViewConciliaClientePrincipal.xaml
+END
+FornecedorLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/FornecedorLista.xaml
+END
+Cliente.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/Cliente.xaml
+END
+ClienteLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ClienteLista.xaml.cs
+END
+ViewConciliaFornecedorLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ViewConciliaFornecedorLista.xaml.cs
+END
+ContabilLancamentoDetalheLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoDetalheLista.xaml.cs
+END
+ContabilLancamentoCabecalhoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoCabecalhoPrincipal.xaml.cs
+END
+ContabilLancamentoDetalhePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoDetalhePrincipal.xaml
+END
+ViewConciliaClientePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ViewConciliaClientePrincipal.xaml.cs
+END
+ClientePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ClientePrincipal.xaml.cs
+END
+ViewConciliaFornecedorPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ViewConciliaFornecedorPrincipal.xaml.cs
+END
+ContabilLancamentoDetalhePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContabilLancamentoDetalhePrincipal.xaml.cs
+END
+ContaCaixaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ContaCaixaLista.xaml
+END
+LancamentoConciliadoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/LancamentoConciliadoLista.xaml.cs
+END
+LancamentoConciliadoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/LancamentoConciliadoPrincipal.xaml
+END
+LancamentoConciliadoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/LancamentoConciliadoPrincipal.xaml.cs
+END
+FinExtratoContaBancoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/FinExtratoContaBancoPrincipal.xaml
+END
+ViewConciliaClienteLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/View/ConciliacaoContabil/ViewConciliaClienteLista.xaml
+END

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.Colaborador" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" mc:Ignorable="d" d:DesignHeight="529" d:DesignWidth="844">
+	<DockPanel LastChildFill="True">
+		<StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal">
+			<Button Name="btSalvar" Width="100" Click="btSalvar_Click">
+				<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+					<Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+					<TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+				</StackPanel>
+			</Button>
+			<Button Name="btSair" Width="100" Click="btSair_Click">
+				<StackPanel Orientation="Horizontal">
+					<Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+					<TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+				</StackPanel>
+			</Button>
+		</StackPanel>
+		<Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="14*" />
+                <RowDefinition Height="451*" />
+            </Grid.RowDefinitions>
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ColaboradorSelected.ContabilConta.Id}" Height="23" Width="200" Margin="6,109,0,0" Grid.Row="1" />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarContabilConta" Click="btPesquisarContabilConta_Click" Margin="212,109,0,0" Grid.Row="1" />
+            <Label Content="Conta Contabil" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,90,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ColaboradorSelected.Sindicato.Id}" Height="23" Width="200" Margin="6,61,0,0" Grid.Row="1" />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarSindicato" Click="btPesquisarSindicato_Click" Margin="212,61,0,0" Grid.Row="1" />
+			<Label Content="Sindicato" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,42,0,0" Grid.Row="1" />
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ColaboradorSelected.SituacaoColaborador.Id}" Height="23" Width="340" Margin="462,11,0,0" Grid.Row="1" />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarSituacaoColaborador" Click="btPesquisarSituacaoColaborador_Click" Margin="808,9,0,0" Grid.Row="1" />
+			<Label Content="Situacao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="462,6,0,0" Grid.RowSpan="2" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ColaboradorSelected.Pessoa.Id}" Height="23" Width="200" Margin="6,11,0,0" Grid.Row="1" />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarPessoa" Click="btPesquisarPessoa_Click" Margin="212,11,0,0" Grid.Row="1" />
+			<Label Content="Pessoa" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,6,0,0" Grid.RowSpan="2" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ColaboradorSelected.TipoColaborador.Id}" Height="23" Width="172" Margin="248,11,0,0" Grid.Row="1" />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarTipoColaborador" Click="btPesquisarTipoColaborador_Click" Margin="426,11,0,0" Grid.Row="1" />
+			<Label Content="Tipo" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="248,4,0,0" Grid.RowSpan="2" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ColaboradorSelected.NivelFormacao.Id}" Height="23" Width="170" Margin="250,61,0,0" Grid.Row="1" />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarNivelFormacao" Click="btPesquisarNivelFormacao_Click" Margin="426,61,0,0" Grid.Row="1" />
+			<Label Content="Nivel Formacao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="250,42,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ColaboradorSelected.Cargo.Id}" Height="23" Width="339" Margin="463,61,0,0" Grid.Row="1" />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarCargo" Click="btPesquisarCargo_Click" Margin="808,59,0,0" Grid.Row="1" />
+			<Label Content="Cargo" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="463,42,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ColaboradorSelected.Setor.Id}" Height="23" Width="170" Margin="250,111,0,0" Grid.Row="1" />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarSetor" Click="btPesquisarSetor_Click" Margin="426,111,0,0" Grid.Row="1" />
+			<Label Content="Setor" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="250,92,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.Matricula}" Height="23" Width="373" Margin="465,109,0,0" Grid.Row="1" />
+			<Label Content="Matricula" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="465,90,0,0" Grid.Row="1" />
+            <DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.DataCadastro}" Margin="6,159,0,0" Grid.Row="1" />
+			<Label Content="Data Cadastro" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,140,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.DataAdmissao}" Margin="112,159,0,0" Grid.Row="1" />
+			<Label Content="Data Admissao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,140,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.VencimentoFerias}" Margin="218,159,0,0" Grid.Row="1" />
+			<Label Content="Vencimento Ferias" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="218,140,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.DataTransferencia}" Margin="324,159,0,0" Grid.Row="1" />
+			<Label Content="Transferencia" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,140,0,0" Grid.Row="1" />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedValue="{Binding ColaboradorSelected.FgtsOptante}" SelectedValuePath="Tag" Margin="578,227,0,0" Grid.Row="1">
+				<ComboBoxItem Content="Sim" Tag="S" />
+				<ComboBoxItem Content="Não" Tag="N" />
+			</ComboBox>
+			<Label Content="Optante" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="578,209,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.FgtsDataOpcao}" Margin="684,227,0,0" Grid.Row="1" />
+			<Label Content="Data Opcao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="684,208,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.FgtsConta}" Height="23" Width="49" Margin="789,227,0,0" Grid.Row="1" />
+			<Label Content="Conta" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="789,208,0,0" Grid.Row="1" />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="299" SelectedValue="{Binding ColaboradorSelected.PagamentoForma}" SelectedValuePath="Tag" Margin="8,438,0,0" Grid.Row="1">
+				<ComboBoxItem Content="Dinheiro" Tag="1" />
+				<ComboBoxItem Content="Cheque" Tag="2" />
+                <ComboBoxItem Content="Conta" Tag="3" />
+            </ComboBox>
+			<Label Content="Forma" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="8,419,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.PagamentoBanco}" Height="23" Width="100" Margin="311,438,0,0" Grid.Row="1" />
+			<Label Content="Banco" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="311,419,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.PagamentoAgencia}" Height="23" Width="100" Margin="419,438,0,0" Grid.Row="1" />
+			<Label Content="Agencia" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="419,419,0,0" Grid.Row="1" />
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.PagamentoAgenciaDigito}" Height="23" Width="100" Margin="525,438,0,0" Grid.Row="1" />
+			<Label Content="Digito" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="525,419,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.PagamentoConta}" Height="23" Width="100" Margin="631,438,0,0" Grid.Row="1" />
+			<Label Content="Conta" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="631,419,0,0" Grid.Row="1" />
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.PagamentoContaDigito}" Height="23" Width="100" Margin="737,438,0,0" Grid.Row="1" />
+			<Label Content="Digito" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="737,419,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.ExameMedicoUltimo}" Margin="6,227,0,0" Grid.Row="1" />
+			<Label Content="Ultimo Exame" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,208,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.ExameMedicoVencimento}" Margin="112,227,0,0" Grid.Row="1" />
+			<Label Content="Vencimento" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,208,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.PisDataCadastro}" Margin="324,296,0,0" Grid.Row="1" />
+			<Label Content="Cadastro" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,277,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.PisNumero}" Height="23" Width="100" Margin="430,294,0,0" Grid.Row="1" />
+			<Label Content="Numero" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="430,275,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.PisBanco}" Height="23" Width="100" Margin="536,294,0,0" Grid.Row="1" />
+			<Label Content="Banco" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="536,275,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.PisAgencia}" Height="23" Width="100" Margin="644,294,0,0" Grid.Row="1" />
+			<Label Content="Agencia" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="644,275,0,0" Grid.Row="1" />
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="88" Text="{Binding ColaboradorSelected.PisAgenciaDigito}"  Margin="750,294,0,0" Grid.Row="1" />
+			<Label Content="Digito" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="750,275,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.CtpsNumero}" Height="23" Width="100" Margin="8,369,0,0" Grid.Row="1" />
+			<Label Content="Numero" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="8,350,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.CtpsSerie}" Height="23" Width="100" Margin="114,369,0,0" Grid.Row="1" />
+			<Label Content="Serie" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="114,350,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.CtpsDataExpedicao}" Margin="222,371,0,0" Grid.Row="1" />
+			<Label Content="Expedicao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="222,352,0,0" Grid.Row="1" />
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" Text="{Binding ColaboradorSelected.CtpsUf}" Margin="328,371,0,0" Grid.Row="1" />
+			<Label Content="UF" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="328,352,0,0" Grid.Row="1" />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="139" SelectedValue="{Binding ColaboradorSelected.DescontoPlanoSaude}" SelectedValuePath="Tag" Margin="533,159,0,0" Grid.Row="1">
+				<ComboBoxItem Content="Sim" Tag="S" />
+				<ComboBoxItem Content="Não" Tag="N" />
+			</ComboBox>
+			<Label Content="Desconto Plano Saude" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="533,140,0,0" Grid.Row="1" />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="87" SelectedValue="{Binding ColaboradorSelected.SaiNaRais}" SelectedValuePath="Tag" Margin="678,159,0,0" Grid.Row="1">
+				<ComboBoxItem Content="Sim" Tag="S" />
+				<ComboBoxItem Content="Não" Tag="N" />
+			</ComboBox>
+			<Label Content="Sai Na Rais" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="678,140,0,0" Grid.Row="1" />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedValue="{Binding ColaboradorSelected.CategoriaSefip}" SelectedValuePath="Tag" Margin="240,227,0,0" Grid.Row="1">
+				<ComboBoxItem Content="Sim" Tag="S" />
+				<ComboBoxItem Content="Não" Tag="N" />
+			</ComboBox>
+			<Label Content="Categoria" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="240,208,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.Observacao}" Height="23" TextWrapping="Wrap" VerticalContentAlignment="Top" AcceptsReturn="True" Width="404" Margin="434,369,0,0" Grid.Row="1" />
+			<Label Content="Observacões" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="434,350,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.OcorrenciaSefip}" Height="23" Width="100" Margin="346,227,0,0" Grid.Row="1" />
+			<Label Content="Ocorrencia" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="346,208,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.CodigoAdmissaoCaged}" Height="23" Width="100" Margin="8,296,0,0" Grid.Row="1" />
+			<Label Content="Codigo Admissao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="8,277,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.CodigoDemissaoCaged}" Height="23" Width="100" Margin="114,296,0,0" Grid.Row="1" />
+			<Label Content="Codigo Demissao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="114,277,0,0" Grid.Row="1" />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ColaboradorSelected.CodigoDemissaoSefip}" Height="23" Width="100" Margin="454,227,0,0" Grid.Row="1" />
+			<Label Content="Codigo Demissao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="454,208,0,0" Grid.Row="1" />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ColaboradorSelected.DataDemissao}" Margin="426,159,0,0" Grid.Row="1" />
+			<Label Content="Data Demissao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="426,140,0,0" Grid.Row="1" />
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="64" Text="{Binding ColaboradorSelected.CodigoTurmaPonto}" Margin="774,159,0,0" Grid.Row="1" />
+			<Label Content="Turma" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="774,140,0,0" Grid.Row="1" />
+            <Label Content="Exame Médico:" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Margin="6,188,0,0" VerticalAlignment="Top" Grid.Row="1" />
+            <Label Content="Sefip:" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Margin="240,188,0,0" VerticalAlignment="Top" Grid.Row="1" />
+            <Label Content="FGTS:" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Margin="578,188,0,0" VerticalAlignment="Top" Grid.Row="1" />
+            <Label Content="Caged:" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Margin="8,259,0,0" VerticalAlignment="Top" Grid.Row="1" />
+            <Label Content="PIS:" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Margin="324,259,0,0" VerticalAlignment="Top" Grid.Row="1" />
+            <Label Content="Carteira Profissional:" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Margin="8,331,0,0" VerticalAlignment="Top" Grid.Row="1" />
+            <Label Content="Pagamento:" FontSize="12" FontWeight="Bold" HorizontalAlignment="Left" Margin="8,399,0,0" VerticalAlignment="Top" Grid.Row="1" />
+        </Grid>
+	</DockPanel>
+</UserControl>

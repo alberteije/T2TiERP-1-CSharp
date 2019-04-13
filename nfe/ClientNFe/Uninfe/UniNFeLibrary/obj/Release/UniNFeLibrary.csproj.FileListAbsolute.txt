@@ -1,0 +1,46 @@
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.dll.config
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.dll
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.pdb
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.dll
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.pdb
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.csproj.GenerateResource.Cache
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Properties.Resources.resources
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.Configuracao.resources
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\obj\Release\uninfe.Formulario.FormConsultaCadastroResult.resources
+C:\projetos\uninfe\fontes\uninfe\UniNFeLibrary\obj\Release\uninfe.Formulario.retConsCad.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.dll.config
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.dll
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.pdb
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.Configuracao.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Properties.Resources.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.csproj.GenerateResource.Cache
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.dll
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.pdb
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormEmpresa.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormUpdate.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormCNPJ.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormWait.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormConsultaCadastro.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormConsultaCadastroResult.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.retConsCad.resources
+C:\projetos\uninfe\fontesrelease\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.ValidarXML.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.dll.config
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.dll
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\bin\Release\UniNFeLibrary.pdb
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.Configuracao.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormCNPJ.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormConsultaCadastro.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormConsultaCadastroResult.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormEmpresa.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormUpdate.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.FormWait.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.retConsCad.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Formulario.ValidarXML.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.Properties.Resources.resources
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.dll
+C:\Documents and Settings\T2Ti\Desktop\uninfe\UniNFeLibrary\obj\Release\UniNFeLibrary.pdb

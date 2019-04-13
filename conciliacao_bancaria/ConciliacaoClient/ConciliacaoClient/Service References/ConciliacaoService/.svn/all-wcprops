@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService
+END
+ConciliacaoClient.ConciliacaoService.ContaCaixaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoClient.ConciliacaoService.ContaCaixaDTO.datasource
+END
+ConciliacaoClient.ConciliacaoService.EmpresaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoClient.ConciliacaoService.EmpresaDTO.datasource
+END
+ConciliacaoService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoService.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/Reference.cs
+END
+ConciliacaoService1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoService1.xsd
+END
+ConciliacaoClient.ConciliacaoService.ExtratoContaBancoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoClient.ConciliacaoService.ExtratoContaBancoDTO.datasource
+END
+ConciliacaoClient.ConciliacaoService.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoClient.ConciliacaoService.ViewControleAcessoDTO.datasource
+END
+ConciliacaoService2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoService2.xsd
+END
+ConciliacaoService.disco
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoService.disco
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/configuration91.svcinfo
+END
+ConciliacaoClient.ConciliacaoService.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoClient.ConciliacaoService.UsuarioDTO.datasource
+END
+ConciliacaoService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/ConciliacaoService.wsdl
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/Service%20References/ConciliacaoService/configuration.svcinfo
+END

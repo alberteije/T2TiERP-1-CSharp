@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService
+END
+ContasReceberClient.ContasReceberService.PlanoNaturezaFinanceiraDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.PlanoNaturezaFinanceiraDTO.datasource
+END
+ContasReceberService2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberService2.xsd
+END
+ContasReceberService3.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberService3.xsd
+END
+ContasReceberClient.ContasReceberService.FinLancamentoReceberDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.FinLancamentoReceberDTO.datasource
+END
+ContasReceberClient.ContasReceberService.FinStatusParcelaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.FinStatusParcelaDTO.datasource
+END
+ContasReceberClient.ContasReceberService.NaturezaFinanceiraDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.NaturezaFinanceiraDTO.datasource
+END
+ContasReceberClient.ContasReceberService.ContaCaixaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.ContaCaixaDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/configuration91.svcinfo
+END
+ContasReceberClient.ContasReceberService.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.ViewControleAcessoDTO.datasource
+END
+ContasReceberClient.ContasReceberService.ContabilContaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.ContabilContaDTO.datasource
+END
+ContasReceberService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberService.xsd
+END
+ContasReceberService.disco
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberService.disco
+END
+ContasReceberClient.ContasReceberService.FinTipoRecebimentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.FinTipoRecebimentoDTO.datasource
+END
+ContasReceberService31.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberService31.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/Reference.cs
+END
+ContasReceberClient.ContasReceberService.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.UsuarioDTO.datasource
+END
+ContasReceberClient.ContasReceberService.ViewPessoaClienteDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.ViewPessoaClienteDTO.datasource
+END
+ContasReceberClient.ContasReceberService.FinParcelaReceberDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.FinParcelaReceberDTO.datasource
+END
+ContasReceberService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberService.wsdl
+END
+ContasReceberClient.ContasReceberService.FinDocumentoOrigemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.FinDocumentoOrigemDTO.datasource
+END
+ContasReceberClient.ContasReceberService.ViewFinLancamentoReceberDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.ViewFinLancamentoReceberDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/configuration.svcinfo
+END
+ContasReceberClient.ContasReceberService.FinConfiguracaoBoletoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberClient.ContasReceberService.FinConfiguracaoBoletoDTO.datasource
+END
+ContasReceberService1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/Service%20References/ContasReceberService/ContasReceberService1.xsd
+END

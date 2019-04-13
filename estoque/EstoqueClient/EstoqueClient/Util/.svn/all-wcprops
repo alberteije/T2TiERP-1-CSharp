@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Util
+END
+Biblioteca.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Util/Biblioteca.cs
+END
+RadioStringConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Util/RadioStringConverter.cs
+END
+MoedaFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Util/MoedaFormat.cs
+END
+CloseableTabItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Util/CloseableTabItem.cs
+END
+BooleanCharConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Util/BooleanCharConverter.cs
+END

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.PessoaJuridica" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" mc:Ignorable="d" d:DesignHeight="500" d:DesignWidth="700">
+	<DockPanel LastChildFill="True">
+		<StackPanel DockPanel.Dock="Top" HorizontalAlignment="Left" Orientation="Horizontal">
+			<Button Name="btGravar" Width="70" Height="20">
+				<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+					<TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+				</StackPanel>
+			</Button>
+			<Button Name="btSair" Width="70" Height="20">
+				<StackPanel Orientation="Horizontal">
+					<TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+				</StackPanel>
+			</Button>
+		</StackPanel>
+		<Grid>
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding PessoaSelected.PessoaJuridicaSelected.Cnpj}" Height="23" Width="146" Margin="6,25,0,0"  />
+			<Label Content="Cnpj" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,6,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding PessoaJuridicaSelected.Fantasia}" Height="23" Width="536" Margin="158,25,0,0"  />
+			<Label Content="Fantasia" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="158,6,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding PessoaJuridicaSelected.InscricaoMunicipal}" Height="23" Width="167" Margin="6,80,0,0"  />
+			<Label Content="Inscricao Municipal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,61,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding PessoaJuridicaSelected.InscricaoEstadual}" Height="23" Width="139" Margin="179,80,0,0"  />
+			<Label Content="Inscricao Estadual" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="179,61,0,0"  />
+            <DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding PessoaJuridicaSelected.DataConstituicao}" Margin="324,80,0,0"  />
+            <Label Content="Data Constituicao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,61,0,0"  />
+            <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="247" SelectedValue="{Binding PessoaJuridicaSelected.TipoRegime}" SelectedValuePath="Tag" Margin="6,128,0,0" >
+				<ComboBoxItem Content="Lucro Real" Tag="1" />
+                <ComboBoxItem Content="Lucro Presumido" Tag="2" />
+                <ComboBoxItem Content="Simples Nacional" Tag="3" />
+            </ComboBox>
+			<Label Content="Tipo Regime" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,109,0,0"  />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="435" SelectedValue="{Binding PessoaJuridicaSelected.Crt}" SelectedValuePath="Tag" Margin="259,128,0,0" >
+                <ComboBoxItem Content="Simples Nacional" Tag="1" />
+                <ComboBoxItem Content="Simples Nacional - Excesso" Tag="2" />
+                <ComboBoxItem Content="Regime Normal" Tag="3" />
+            </ComboBox>
+			<Label Content="Crt" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="259,109,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding PessoaJuridicaSelected.Suframa}" Height="23" Width="100" Margin="430,80,0,0"  />
+			<Label Content="Suframa" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="430,61,0,0"  />
+		</Grid>
+	</DockPanel>
+</UserControl>

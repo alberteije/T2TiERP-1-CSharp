@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService
+END
+CaixaBancosClient.CaixaBancosService.ViewFinMovimentoCaixaBancoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosClient.CaixaBancosService.ViewFinMovimentoCaixaBancoDTO.datasource
+END
+CaixaBancosClient.CaixaBancosService.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosClient.CaixaBancosService.ViewControleAcessoDTO.datasource
+END
+CaixaBancosClient.CaixaBancosService.FinFechamentoCaixaBancoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosClient.CaixaBancosService.FinFechamentoCaixaBancoDTO.datasource
+END
+CaixaBancosClient.CaixaBancosService.ContabilContaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosClient.CaixaBancosService.ContabilContaDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/configuration91.svcinfo
+END
+CaixaBancosService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosService.xsd
+END
+CaixaBancosClient.CaixaBancosService.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosClient.CaixaBancosService.UsuarioDTO.datasource
+END
+CaixaBancosService.disco
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosService.disco
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/Reference.cs
+END
+CaixaBancosService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosService.wsdl
+END
+CaixaBancosService1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosService1.xsd
+END
+CaixaBancosService2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosService2.xsd
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/configuration.svcinfo
+END
+CaixaBancosClient.CaixaBancosService.ViewFinChequeNaoCompensadoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosClient.CaixaBancosService.ViewFinChequeNaoCompensadoDTO.datasource
+END
+CaixaBancosClient.CaixaBancosService.ContaCaixaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/t2tierp_c_caixa_bancos/!svn/ver/4/trunk/CaixaBancosClient/CaixaBancosClient/Service%20References/CaixaBancosService/CaixaBancosClient.CaixaBancosService.ContaCaixaDTO.datasource
+END

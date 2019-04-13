@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento
+END
+EspecieDocumento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento.cs
+END
+EspecieDocumento_BankBoston.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_BankBoston.cs
+END
+EspecieDocumento_Bradesco.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_Bradesco.cs
+END
+EspecieDocumento_Itau.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_Itau.cs
+END
+EspecieDocumento_Real.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_Real.cs
+END
+EspeciesDocumento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspeciesDocumento.cs
+END
+AbstractEspecieDocumento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/AbstractEspecieDocumento.cs
+END
+EspecieDocumento_Caixa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_Caixa.cs
+END
+IEspecieDocumento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/IEspecieDocumento.cs
+END
+EspecieDocumento_Sudameris.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_Sudameris.cs
+END
+EspecieDocumento_BancoBrasil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_BancoBrasil.cs
+END
+EspecieDocumento_HSBC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_HSBC.cs
+END
+EspecieDocumento_Santander.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/EspecieDocumento/EspecieDocumento_Santander.cs
+END

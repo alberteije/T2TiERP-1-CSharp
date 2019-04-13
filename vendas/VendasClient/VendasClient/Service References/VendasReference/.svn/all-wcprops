@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference
+END
+VendasClient.VendasReference.TransportadoraDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.TransportadoraDTO.datasource
+END
+VendasClient.VendasReference.VendedorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.VendedorDTO.datasource
+END
+ServicoVendas.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/ServicoVendas.wsdl
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/configuration91.svcinfo
+END
+ServicoVendas1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/ServicoVendas1.xsd
+END
+ServicoVendas2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/ServicoVendas2.xsd
+END
+VendasClient.VendasReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.ViewControleAcessoDTO.datasource
+END
+VendasClient.VendasReference.TipoNotaFiscalDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.TipoNotaFiscalDTO.datasource
+END
+VendasClient.VendasReference.VendaCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.VendaCabecalhoDTO.datasource
+END
+VendasClient.VendasReference.FreteVendaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.FreteVendaDTO.datasource
+END
+VendasClient.VendasReference.ClienteDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.ClienteDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/Reference.cs
+END
+VendasClient.VendasReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.UsuarioDTO.datasource
+END
+VendasClient.VendasReference.ProdutoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.ProdutoDTO.datasource
+END
+ServicoVendas.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/ServicoVendas.xsd
+END
+ServicoVendas.disco
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/ServicoVendas.disco
+END
+VendasClient.VendasReference.OrcamentoPedidoVendaCabDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.OrcamentoPedidoVendaCabDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/configuration.svcinfo
+END
+VendasClient.VendasReference.CondicoesPagamentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Service%20References/VendasReference/VendasClient.VendasReference.CondicoesPagamentoDTO.datasource
+END

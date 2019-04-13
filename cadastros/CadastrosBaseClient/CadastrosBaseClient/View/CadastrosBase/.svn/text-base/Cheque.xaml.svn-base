@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.Cheque"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="625">
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal" >
+            <Button Name="btnSalvar" Width="100" Click="btnSalvar_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+                    <TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+
+            <Button Name="btnVoltar" Width="100" Click="btnVoltar_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+                    <TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Grid>
+            <Label Content="Talonário Cheque:" Height="28" HorizontalAlignment="Left" Margin="6,12,0,0" Name="lblIdTalonarioCheque" VerticalAlignment="Top" />
+            <Label Content="Número:" Height="28" HorizontalAlignment="Left" Margin="101,13,0,0" Name="lblNumero" VerticalAlignment="Top" />
+            <Label Content="Status Cheque:" Height="28" HorizontalAlignment="Left" Margin="197,13,0,0" Name="lblStatusCheque" VerticalAlignment="Top" />
+            <Label Content="Data:" Height="28" HorizontalAlignment="Left" Margin="293,13,0,0" Name="lblDataStatus" VerticalAlignment="Top" />
+            <TextBox Text="{Binding chequeSelected.IdTalonarioCheque}" Height="23" HorizontalAlignment="Left" Margin="6,28,0,0" Name="txtIdTalonarioCheque" VerticalAlignment="Top" Width="90" TabIndex="1" />
+            <TextBox Text="{Binding chequeSelected.Numero}" Height="23" HorizontalAlignment="Left" Margin="101,28,0,0" Name="txtNumero" VerticalAlignment="Top" Width="90" TabIndex="2" />
+            <TextBox Text="{Binding chequeSelected.StatusCheque}" Height="23" HorizontalAlignment="Left" Margin="197,28,0,0" Name="txtStatusCheque" VerticalAlignment="Top" Width="90" TextWrapping="Wrap" VerticalContentAlignment="Top" TabIndex="3" />
+            <TextBox Text="{Binding chequeSelected.DataStatus}" Height="23" HorizontalAlignment="Left" Margin="293,28,0,0" Name="txtDataStatus" VerticalAlignment="Top" Width="90" TabIndex="4" />
+        </Grid>
+    </DockPanel>
+</UserControl>

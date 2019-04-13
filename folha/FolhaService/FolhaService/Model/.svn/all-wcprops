@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model
+END
+EmpresaTransporteItinerarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/EmpresaTransporteItinerarioDTO.cs
+END
+GuiasAcumuladasDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/GuiasAcumuladasDTO.cs
+END
+FolhaAfastamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaAfastamentoDTO.cs
+END
+EmpresaTransporteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/EmpresaTransporteDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/ViewControleAcessoDTO.cs
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/ContabilContaDTO.cs
+END
+FolhaInssServicoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaInssServicoDTO.hbm.xml
+END
+FolhaInssServicoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaInssServicoDTO.cs
+END
+FolhaRescisaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaRescisaoDTO.cs
+END
+FolhaLancamentoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaLancamentoDetalheDTO.hbm.xml
+END
+FolhaValeTransporteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaValeTransporteDTO.cs
+END
+FolhaFechamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaFechamentoDTO.hbm.xml
+END
+FolhaPppAtividadeDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppAtividadeDTO.hbm.xml
+END
+EnderecoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/EnderecoDTO.cs
+END
+FolhaInssDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaInssDTO.cs
+END
+FolhaParametrosDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaParametrosDTO.cs
+END
+CargoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/CargoDTO.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/EmpresaDTO.hbm.xml
+END
+FolhaFeriasColetivasDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaFeriasColetivasDTO.cs
+END
+FolhaFeriasColetivasDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaFeriasColetivasDTO.hbm.xml
+END
+PlanoContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/PlanoContaDTO.hbm.xml
+END
+FolhaPppCatDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppCatDTO.hbm.xml
+END
+FolhaPppCatDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppCatDTO.cs
+END
+FolhaPppFatorRiscoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppFatorRiscoDTO.hbm.xml
+END
+FolhaPppFatorRiscoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppFatorRiscoDTO.cs
+END
+FolhaInssRetencaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaInssRetencaoDTO.cs
+END
+PlanoContaRefSpedDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/PlanoContaRefSpedDTO.hbm.xml
+END
+FolhaEventoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaEventoDTO.cs
+END
+EmpresaTransporteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/EmpresaTransporteDTO.hbm.xml
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/ViewControleAcessoDTO.hbm.xml
+END
+FolhaRescisaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaRescisaoDTO.hbm.xml
+END
+FolhaPppDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppDAL.cs
+END
+FolhaPppAtividadeDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppAtividadeDTO.cs
+END
+FolhaInssDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaInssDTO.hbm.xml
+END
+ColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/ColaboradorDTO.hbm.xml
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/UsuarioDTO.hbm.xml
+END
+OperadoraPlanoSaudeDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/OperadoraPlanoSaudeDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/EmpresaDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/IDAL.cs
+END
+FolhaPlanoSaudeDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPlanoSaudeDTO.hbm.xml
+END
+FolhaPlanoSaudeDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPlanoSaudeDTO.cs
+END
+FolhaLancamentoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaLancamentoDAL.cs
+END
+FolhaTipoAfastamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaTipoAfastamentoDTO.hbm.xml
+END
+FeriasPeriodoAquisitivoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FeriasPeriodoAquisitivoDTO.cs
+END
+FeriasPeriodoAquisitivoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FeriasPeriodoAquisitivoDTO.hbm.xml
+END
+FolhaPppExameMedicoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppExameMedicoDTO.cs
+END
+FolhaEventoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaEventoDTO.hbm.xml
+END
+FolhaLancamentoCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaLancamentoCabecalhoDTO.hbm.xml
+END
+FolhaLancamentoCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaLancamentoCabecalhoDTO.cs
+END
+FolhaValeTransporteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaValeTransporteDTO.hbm.xml
+END
+FolhaFechamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaFechamentoDTO.cs
+END
+FolhaHistoricoSalarialDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaHistoricoSalarialDTO.cs
+END
+FolhaParametrosDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaParametrosDTO.hbm.xml
+END
+OperadoraPlanoSaudeDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/OperadoraPlanoSaudeDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/NHibernateDAL.cs
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/PessoaDTO.cs
+END
+CargoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/CargoDTO.hbm.xml
+END
+SetorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/SetorDTO.hbm.xml
+END
+FolhaInssDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaInssDAL.cs
+END
+EmpresaTransporteItinerarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/EmpresaTransporteItinerarioDTO.hbm.xml
+END
+FolhaInssRetencaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaInssRetencaoDTO.hbm.xml
+END
+PlanoContaRefSpedDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/PlanoContaRefSpedDTO.cs
+END
+GuiasAcumuladasDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/GuiasAcumuladasDTO.hbm.xml
+END
+FolhaTipoAfastamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaTipoAfastamentoDTO.cs
+END
+FolhaPppDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppDTO.hbm.xml
+END
+FolhaPppDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppDTO.cs
+END
+FolhaPppExameMedicoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaPppExameMedicoDTO.hbm.xml
+END
+FolhaAfastamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaAfastamentoDTO.hbm.xml
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/ContabilContaDTO.hbm.xml
+END
+FolhaLancamentoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaLancamentoDetalheDTO.cs
+END
+EnderecoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/EnderecoDTO.hbm.xml
+END
+FolhaHistoricoSalarialDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/FolhaHistoricoSalarialDTO.hbm.xml
+END
+ColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/ColaboradorDTO.cs
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/UsuarioDTO.cs
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/PessoaDTO.hbm.xml
+END
+SetorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/SetorDTO.cs
+END
+PlanoContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Model/PlanoContaDTO.cs
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService
+END
+PontoService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/PontoService.csproj
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Web.config
+END
+ServicoPonto.svc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/ServicoPonto.svc
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Web.Debug.config
+END
+IServicoPonto.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/IServicoPonto.cs
+END
+ServicoPonto.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/ServicoPonto.svc.cs
+END
+PontoService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/PontoService.csproj.user
+END

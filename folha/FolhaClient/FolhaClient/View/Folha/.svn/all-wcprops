@@ -1,0 +1,833 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha
+END
+FolhaLancamentoDetalheLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoDetalheLista.xaml
+END
+FolhaAfastamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaAfastamento.xaml.cs
+END
+FolhaLancamentoCabecalho.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoCabecalho.xaml.cs
+END
+FolhaRescisaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaRescisaoLista.xaml.cs
+END
+FolhaInssServicoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssServicoPrincipal.xaml
+END
+FolhaRescisaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaRescisaoPrincipal.xaml
+END
+FolhaValeTransportePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaValeTransportePrincipal.xaml
+END
+FolhaFechamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFechamento.xaml.cs
+END
+FolhaInssLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssLista.xaml.cs
+END
+FolhaParametrosPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaParametrosPrincipal.xaml
+END
+FolhaInss.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInss.xaml.cs
+END
+FolhaHistoricoSalarialPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaHistoricoSalarialPrincipal.xaml.cs
+END
+FolhaTipoAfastamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaTipoAfastamentoLista.xaml.cs
+END
+FolhaAfastamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaAfastamentoLista.xaml
+END
+FolhaInssRetencaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssRetencaoPrincipal.xaml
+END
+FolhaEvento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaEvento.xaml
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/Login.xaml.cs
+END
+FolhaPpp.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPpp.xaml.cs
+END
+FolhaEvento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaEvento.xaml.cs
+END
+FolhaRescisaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaRescisaoLista.xaml
+END
+FeriasPeriodoAquisitivoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FeriasPeriodoAquisitivoPrincipal.xaml.cs
+END
+FolhaInssServicoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssServicoLista.xaml.cs
+END
+FolhaFechamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFechamentoLista.xaml.cs
+END
+FolhaValeTransportePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaValeTransportePrincipal.xaml.cs
+END
+FolhaPppAtividadePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppAtividadePrincipal.xaml.cs
+END
+FolhaFeriasColetivasLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFeriasColetivasLista.xaml
+END
+FolhaPppCatLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppCatLista.xaml
+END
+FolhaFeriasColetivasLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFeriasColetivasLista.xaml.cs
+END
+FolhaPppCat.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppCat.xaml
+END
+FolhaPppFatorRiscoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppFatorRiscoLista.xaml
+END
+FolhaPppFatorRiscoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppFatorRiscoLista.xaml.cs
+END
+GuiasAcumuladas.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/GuiasAcumuladas.xaml
+END
+FolhaPppExameMedico.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppExameMedico.xaml
+END
+InformativosGuiasPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/InformativosGuiasPrincipal.xaml
+END
+FolhaAfastamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaAfastamento.xaml
+END
+FolhaPppExameMedico.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppExameMedico.xaml.cs
+END
+FolhaPppPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppPrincipal.xaml.cs
+END
+FolhaFechamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFechamentoPrincipal.xaml
+END
+FolhaInssServico.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssServico.xaml.cs
+END
+FolhaHistoricoSalarialLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaHistoricoSalarialLista.xaml.cs
+END
+FolhaHistoricoSalarial.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaHistoricoSalarial.xaml.cs
+END
+FolhaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPrincipal.xaml.cs
+END
+FolhaPlanoSaudeLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPlanoSaudeLista.xaml
+END
+FolhaPlanoSaudeLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPlanoSaudeLista.xaml.cs
+END
+FeriasPeriodoAquisitivoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FeriasPeriodoAquisitivoLista.xaml
+END
+FeriasPeriodoAquisitivo.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FeriasPeriodoAquisitivo.xaml
+END
+FolhaLancamentoCabecalhoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoCabecalhoLista.xaml
+END
+FolhaLancamentoCabecalhoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoCabecalhoLista.xaml.cs
+END
+FolhaEventoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaEventoPrincipal.xaml.cs
+END
+FolhaLancamentoDetalhe.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoDetalhe.xaml
+END
+FolhaValeTransporte.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaValeTransporte.xaml
+END
+FolhaPppAtividadeLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppAtividadeLista.xaml.cs
+END
+FolhaLancamentoDetalhe.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoDetalhe.xaml.cs
+END
+FolhaInssServicoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssServicoPrincipal.xaml.cs
+END
+FolhaParametrosLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaParametrosLista.xaml.cs
+END
+FolhaFechamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFechamentoPrincipal.xaml.cs
+END
+FolhaFeriasColetivasPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFeriasColetivasPrincipal.xaml.cs
+END
+FolhaPppLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppLista.xaml
+END
+FolhaInssRetencaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssRetencaoLista.xaml.cs
+END
+FolhaPpp.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPpp.xaml
+END
+GuiasAcumuladasPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/GuiasAcumuladasPrincipal.xaml
+END
+FolhaPppFatorRiscoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppFatorRiscoPrincipal.xaml.cs
+END
+GuiasAcumuladas.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/GuiasAcumuladas.xaml.cs
+END
+GuiasAcumuladasPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/GuiasAcumuladasPrincipal.xaml.cs
+END
+FolhaPppExameMedicoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppExameMedicoPrincipal.xaml.cs
+END
+FolhaRescisao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaRescisao.xaml
+END
+FolhaAfastamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaAfastamentoPrincipal.xaml.cs
+END
+FolhaRescisao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaRescisao.xaml.cs
+END
+FolhaInss.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInss.xaml
+END
+FolhaInssPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssPrincipal.xaml
+END
+FolhaFeriasColetivasPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFeriasColetivasPrincipal.xaml
+END
+FolhaPppCatPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppCatPrincipal.xaml
+END
+GuiasAcumuladasLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/GuiasAcumuladasLista.xaml
+END
+FolhaPppFatorRiscoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppFatorRiscoPrincipal.xaml
+END
+FolhaTipoAfastamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaTipoAfastamento.xaml
+END
+FolhaPlanoSaudePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPlanoSaudePrincipal.xaml.cs
+END
+FolhaEventoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaEventoLista.xaml.cs
+END
+FolhaEventoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaEventoPrincipal.xaml
+END
+FolhaInssServicoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssServicoLista.xaml
+END
+InformativosGuiasPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/InformativosGuiasPrincipal.xaml.cs
+END
+FolhaValeTransporteLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaValeTransporteLista.xaml
+END
+FolhaInssServico.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssServico.xaml
+END
+FolhaFechamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFechamento.xaml
+END
+FolhaInssLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssLista.xaml
+END
+FolhaLancamentoCabecalhoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoCabecalhoPrincipal.xaml.cs
+END
+FolhaParametrosLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaParametrosLista.xaml
+END
+FolhaPppAtividadePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppAtividadePrincipal.xaml
+END
+FolhaPppAtividade.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppAtividade.xaml.cs
+END
+FolhaLancamentoDetalhePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoDetalhePrincipal.xaml.cs
+END
+FolhaParametrosPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaParametrosPrincipal.xaml.cs
+END
+FolhaFeriasColetivas.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFeriasColetivas.xaml
+END
+FolhaPppCatLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppCatLista.xaml.cs
+END
+FolhaInssRetencaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssRetencaoLista.xaml
+END
+FolhaPppFatorRisco.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppFatorRisco.xaml
+END
+FolhaPlanoSaudePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPlanoSaudePrincipal.xaml
+END
+FolhaEventoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaEventoLista.xaml
+END
+GuiasAcumuladasLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/GuiasAcumuladasLista.xaml.cs
+END
+FolhaPppExameMedicoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppExameMedicoLista.xaml.cs
+END
+FeriasPeriodoAquisitivoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FeriasPeriodoAquisitivoPrincipal.xaml
+END
+FolhaPppExameMedicoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppExameMedicoPrincipal.xaml
+END
+FolhaAfastamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaAfastamentoLista.xaml.cs
+END
+FolhaInssRetencaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssRetencaoPrincipal.xaml.cs
+END
+FolhaLancamentoCabecalhoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoCabecalhoPrincipal.xaml
+END
+FolhaPppAtividadeLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppAtividadeLista.xaml
+END
+FolhaHistoricoSalarial.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaHistoricoSalarial.xaml
+END
+FolhaValeTransporte.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaValeTransporte.xaml.cs
+END
+FolhaRescisaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaRescisaoPrincipal.xaml.cs
+END
+FolhaHistoricoSalarialPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaHistoricoSalarialPrincipal.xaml
+END
+FolhaParametros.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaParametros.xaml.cs
+END
+FolhaInssPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssPrincipal.xaml.cs
+END
+FolhaFeriasColetivas.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFeriasColetivas.xaml.cs
+END
+FolhaPppCat.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppCat.xaml.cs
+END
+FolhaPlanoSaude.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPlanoSaude.xaml
+END
+FolhaPppExameMedicoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppExameMedicoLista.xaml
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/Login.xaml
+END
+FolhaPppFatorRisco.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppFatorRisco.xaml.cs
+END
+FolhaTipoAfastamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaTipoAfastamentoPrincipal.xaml
+END
+FeriasPeriodoAquisitivoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FeriasPeriodoAquisitivoLista.xaml.cs
+END
+FolhaPppPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppPrincipal.xaml
+END
+FolhaInssRetencao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssRetencao.xaml.cs
+END
+FolhaTipoAfastamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaTipoAfastamento.xaml.cs
+END
+FolhaLancamentoCabecalho.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoCabecalho.xaml
+END
+FolhaTipoAfastamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaTipoAfastamentoPrincipal.xaml.cs
+END
+FolhaFechamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaFechamentoLista.xaml
+END
+FolhaLancamentoDetalheLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoDetalheLista.xaml.cs
+END
+FolhaHistoricoSalarialLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaHistoricoSalarialLista.xaml
+END
+FolhaValeTransporteLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaValeTransporteLista.xaml.cs
+END
+FolhaPppAtividade.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppAtividade.xaml
+END
+FolhaLancamentoDetalhePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaLancamentoDetalhePrincipal.xaml
+END
+FolhaParametros.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaParametros.xaml
+END
+FolhaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPrincipal.xaml
+END
+FolhaTipoAfastamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaTipoAfastamentoLista.xaml
+END
+FolhaPppCatPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppCatPrincipal.xaml.cs
+END
+FolhaInssRetencao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaInssRetencao.xaml
+END
+FolhaPlanoSaude.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPlanoSaude.xaml.cs
+END
+FolhaPppLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaPppLista.xaml.cs
+END
+FeriasPeriodoAquisitivo.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FeriasPeriodoAquisitivo.xaml.cs
+END
+FolhaAfastamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/View/Folha/FolhaAfastamentoPrincipal.xaml
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao
+END
+Instrucao_Caixa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_Caixa.cs
+END
+IInstrucao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/IInstrucao.cs
+END
+Instrucao_Sudameris.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_Sudameris.cs
+END
+Instrucao_Safra.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_Safra.cs
+END
+Instrucao_BankBoston.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_BankBoston.cs
+END
+Instrucao_Itau.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_Itau.cs
+END
+AbstractInstrucao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/AbstractInstrucao.cs
+END
+Instrucao_BRB.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_BRB.cs
+END
+Instrucoes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucoes.cs
+END
+Instrucao_Santander.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_Santander.cs
+END
+Instrucao_Banrisul.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_Banrisul.cs
+END
+Instrucao_BancoBrasil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_BancoBrasil.cs
+END
+Instrucao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao.cs
+END
+Instrucao_Bradesco.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_Bradesco.cs
+END
+Instrucao_Real.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/Instrucao/Instrucao_Real.cs
+END

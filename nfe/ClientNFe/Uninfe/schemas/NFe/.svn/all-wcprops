@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe
+END
+cancNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/cancNFe_v2.00.xsd
+END
+consStatServ_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/consStatServ_v2.00.xsd
+END
+consReciNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/consReciNFe_v2.00.xsd
+END
+retEnviNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/retEnviNFe_v2.00.xsd
+END
+leiauteCancNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/leiauteCancNFe_v2.00.xsd
+END
+leiauteConsStatServ_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/leiauteConsStatServ_v2.00.xsd
+END
+inutNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/inutNFe_v2.00.xsd
+END
+nfe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/nfe_v2.00.xsd
+END
+retCancNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/retCancNFe_v2.00.xsd
+END
+retConsReciNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/retConsReciNFe_v2.00.xsd
+END
+retConsStatServ_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/retConsStatServ_v2.00.xsd
+END
+consCad_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/consCad_v2.00.xsd
+END
+consSitNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/consSitNFe_v2.00.xsd
+END
+consSitNFe_v2.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/consSitNFe_v2.01.xsd
+END
+leiauteNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/leiauteNFe_v2.00.xsd
+END
+leiauteInutNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/leiauteInutNFe_v2.00.xsd
+END
+procCancNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/procCancNFe_v2.00.xsd
+END
+tiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/tiposBasico_v1.03.xsd
+END
+leiauteConsultaCadastro_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/leiauteConsultaCadastro_v2.00.xsd
+END
+retInutNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/retInutNFe_v2.00.xsd
+END
+leiauteConsSitNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/leiauteConsSitNFe_v2.00.xsd
+END
+leiauteConsSitNFe_v2.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/leiauteConsSitNFe_v2.01.xsd
+END
+retConsCad_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/retConsCad_v2.00.xsd
+END
+retConsSitNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/retConsSitNFe_v2.00.xsd
+END
+retConsSitNFe_v2.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/retConsSitNFe_v2.01.xsd
+END
+enviNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/enviNFe_v2.00.xsd
+END
+xmldsig-core-schema_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/xmldsig-core-schema_v1.01.xsd
+END
+procInutNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/procInutNFe_v2.00.xsd
+END
+procNFe_v2.00.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/schemas/NFe/procNFe_v2.00.xsd
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/BoletoImpressao
+END
+BoletoNet.css
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/BoletoImpressao/BoletoNet.css
+END
+BoletoBancario.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/BoletoImpressao/BoletoBancario.cs
+END
+BoletoBancarioDesigner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/BoletoImpressao/BoletoBancarioDesigner.cs
+END
+ImagemCodigoBarraHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/BoletoImpressao/ImagemCodigoBarraHandler.cs
+END

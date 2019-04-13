@@ -1,0 +1,1253 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha
+END
+FolhaPppAtividadePrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividadePrincipal.g.cs
+END
+FeriasPeriodoAquisitivoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivoLista.baml
+END
+FeriasPeriodoAquisitivo.baml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivo.baml
+END
+FolhaLancamentoCabecalhoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalhoLista.baml
+END
+FolhaTipoAfastamentoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamentoLista.g.i.cs
+END
+FolhaFeriasColetivas.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivas.g.cs
+END
+GuiasAcumuladas.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladas.g.i.cs
+END
+FolhaLancamentoDetalhe.baml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalhe.baml
+END
+FolhaAfastamento.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamento.g.i.cs
+END
+FolhaInssRetencaoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencaoLista.g.cs
+END
+FolhaValeTransporte.baml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransporte.baml
+END
+FolhaPppFatorRisco.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRisco.g.cs
+END
+FolhaPlanoSaudePrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaudePrincipal.g.cs
+END
+FolhaEventoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEventoLista.g.cs
+END
+FeriasPeriodoAquisitivoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivoPrincipal.g.cs
+END
+FolhaPppExameMedicoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedicoPrincipal.g.cs
+END
+FolhaValeTransportePrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransportePrincipal.g.i.cs
+END
+FolhaHistoricoSalarial.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarial.g.i.cs
+END
+FolhaLancamentoCabecalhoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalhoPrincipal.g.cs
+END
+FolhaParametrosPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametrosPrincipal.g.i.cs
+END
+FolhaPppAtividadeLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividadeLista.g.cs
+END
+AdministrativoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/AdministrativoPrincipal.g.i.cs
+END
+FolhaFeriasColetivasPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivasPrincipal.g.i.cs
+END
+FolhaHistoricoSalarial.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarial.g.cs
+END
+FolhaPppLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppLista.baml
+END
+FolhaHistoricoSalarialPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarialPrincipal.g.cs
+END
+FolhaPpp.baml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPpp.baml
+END
+FolhaPppCatPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCatPrincipal.g.i.cs
+END
+GuiasAcumuladasPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladasPrincipal.baml
+END
+FolhaPppFatorRiscoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRiscoPrincipal.g.i.cs
+END
+FolhaInssRetencaoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencaoPrincipal.g.i.cs
+END
+FolhaAfastamentoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamentoLista.g.i.cs
+END
+FolhaTipoAfastamentoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamentoPrincipal.g.i.cs
+END
+FolhaRescisao.baml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisao.baml
+END
+FolhaPlanoSaude.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaude.g.cs
+END
+FolhaInss.baml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInss.baml
+END
+FolhaPppExameMedicoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedicoLista.g.cs
+END
+Login.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/Login.g.cs
+END
+FolhaInssPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssPrincipal.baml
+END
+FolhaFechamento.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamento.g.i.cs
+END
+FolhaInssLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssLista.g.i.cs
+END
+FolhaTipoAfastamentoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamentoPrincipal.g.cs
+END
+FolhaPppPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppPrincipal.g.cs
+END
+FolhaLancamentoCabecalho.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalho.g.cs
+END
+FolhaFechamentoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamentoLista.g.cs
+END
+FolhaFeriasColetivasPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivasPrincipal.baml
+END
+FolhaHistoricoSalarialLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarialLista.g.cs
+END
+FolhaPppAtividade.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividade.g.cs
+END
+FolhaLancamentoDetalhePrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalhePrincipal.g.cs
+END
+FolhaPppCatPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCatPrincipal.baml
+END
+GuiasAcumuladasLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladasLista.baml
+END
+FolhaParametros.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametros.g.cs
+END
+FolhaPppCat.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCat.g.i.cs
+END
+FolhaPppFatorRiscoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRiscoPrincipal.baml
+END
+FolhaTipoAfastamento.baml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamento.baml
+END
+FolhaPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPrincipal.g.cs
+END
+FolhaEventoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEventoPrincipal.baml
+END
+FolhaPlanoSaudePrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaudePrincipal.g.i.cs
+END
+FolhaEventoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEventoLista.g.i.cs
+END
+FolhaInssServicoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServicoLista.baml
+END
+FolhaValeTransporteLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransporteLista.baml
+END
+FolhaInssServico.baml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServico.baml
+END
+FeriasPeriodoAquisitivoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivoPrincipal.g.i.cs
+END
+FolhaFechamento.baml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamento.baml
+END
+FolhaInssLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssLista.baml
+END
+FolhaParametrosLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametrosLista.baml
+END
+FolhaAfastamentoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamentoPrincipal.g.i.cs
+END
+FolhaTipoAfastamentoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamentoLista.g.cs
+END
+FolhaLancamentoCabecalhoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalhoPrincipal.g.i.cs
+END
+FolhaInssRetencao.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencao.g.cs
+END
+FolhaPppAtividadePrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividadePrincipal.baml
+END
+FolhaFechamentoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamentoPrincipal.g.i.cs
+END
+FolhaAfastamentoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamentoPrincipal.g.cs
+END
+FolhaFeriasColetivas.baml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivas.baml
+END
+FolhaLancamentoDetalheLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalheLista.g.cs
+END
+FolhaInssPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssPrincipal.g.i.cs
+END
+FolhaInssServicoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServicoPrincipal.g.cs
+END
+FolhaRescisaoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisaoPrincipal.g.cs
+END
+FolhaInssRetencaoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencaoLista.baml
+END
+FolhaValeTransportePrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransportePrincipal.g.cs
+END
+FolhaPppFatorRisco.baml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRisco.baml
+END
+FolhaPlanoSaudePrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaudePrincipal.baml
+END
+FolhaEventoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEventoLista.baml
+END
+FolhaParametrosPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametrosPrincipal.g.cs
+END
+FeriasPeriodoAquisitivoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivoPrincipal.baml
+END
+FolhaPppExameMedicoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedicoPrincipal.baml
+END
+FolhaPppExameMedicoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedicoLista.g.i.cs
+END
+FolhaTipoAfastamento.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamento.g.i.cs
+END
+FolhaLancamentoCabecalhoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalhoPrincipal.baml
+END
+FeriasPeriodoAquisitivo.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivo.g.i.cs
+END
+FolhaEvento.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEvento.g.i.cs
+END
+FolhaPppAtividadeLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividadeLista.baml
+END
+FolhaPppPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppPrincipal.g.i.cs
+END
+FolhaEventoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEventoPrincipal.g.i.cs
+END
+FolhaHistoricoSalarial.baml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarial.baml
+END
+FolhaValeTransporteLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransporteLista.g.i.cs
+END
+FolhaInssRetencaoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencaoPrincipal.g.cs
+END
+FolhaAfastamentoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamentoLista.g.cs
+END
+FolhaHistoricoSalarialPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarialPrincipal.baml
+END
+FolhaEvento.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEvento.g.cs
+END
+FolhaHistoricoSalarialLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarialLista.g.i.cs
+END
+FolhaParametrosLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametrosLista.g.i.cs
+END
+FolhaParametros.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametros.g.i.cs
+END
+FolhaRescisaoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisaoLista.g.cs
+END
+FolhaFeriasColetivasLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivasLista.g.i.cs
+END
+FolhaPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPrincipal.g.i.cs
+END
+FolhaPppCatLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCatLista.g.i.cs
+END
+FolhaPlanoSaude.baml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaude.baml
+END
+FolhaPppExameMedicoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedicoLista.baml
+END
+FolhaPppFatorRiscoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRiscoLista.g.i.cs
+END
+Login.baml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/Login.baml
+END
+FolhaFeriasColetivasLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivasLista.g.cs
+END
+FolhaInssRetencaoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencaoLista.g.i.cs
+END
+FolhaTipoAfastamentoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamentoPrincipal.baml
+END
+FolhaPppPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppPrincipal.baml
+END
+FolhaLancamentoCabecalho.baml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalho.baml
+END
+FolhaInssRetencao.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencao.g.i.cs
+END
+FolhaPppCatLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCatLista.g.cs
+END
+FolhaPpp.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPpp.g.i.cs
+END
+FolhaFechamentoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamentoLista.baml
+END
+FolhaPppCat.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCat.g.cs
+END
+FolhaPppExameMedico.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedico.g.i.cs
+END
+FolhaPppFatorRiscoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRiscoLista.g.cs
+END
+FolhaPppExameMedicoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedicoPrincipal.g.i.cs
+END
+FolhaHistoricoSalarialLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarialLista.baml
+END
+FolhaPppAtividade.baml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividade.baml
+END
+FolhaLancamentoDetalhePrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalhePrincipal.baml
+END
+FolhaLancamentoDetalheLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalheLista.g.i.cs
+END
+FolhaParametros.baml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametros.baml
+END
+GuiasAcumuladas.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladas.g.cs
+END
+FolhaInssServicoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServicoPrincipal.g.i.cs
+END
+FolhaPppExameMedico.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedico.g.cs
+END
+InformativosGuiasPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/InformativosGuiasPrincipal.g.cs
+END
+FolhaAfastamento.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamento.g.cs
+END
+FolhaPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPrincipal.baml
+END
+FolhaHistoricoSalarialPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaHistoricoSalarialPrincipal.g.i.cs
+END
+FolhaFechamentoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamentoPrincipal.g.cs
+END
+FolhaTipoAfastamentoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamentoLista.baml
+END
+FolhaInssRetencao.baml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencao.baml
+END
+FolhaPlanoSaudeLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaudeLista.g.i.cs
+END
+GuiasAcumuladasLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladasLista.g.i.cs
+END
+FeriasPeriodoAquisitivoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivoLista.g.i.cs
+END
+FolhaAfastamentoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamentoPrincipal.baml
+END
+Login.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/Login.g.i.cs
+END
+FolhaLancamentoDetalheLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalheLista.baml
+END
+FolhaLancamentoCabecalhoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalhoLista.g.i.cs
+END
+FolhaPlanoSaudeLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaudeLista.g.cs
+END
+FolhaInssServicoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServicoPrincipal.baml
+END
+FolhaRescisaoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisaoPrincipal.baml
+END
+FeriasPeriodoAquisitivoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivoLista.g.cs
+END
+FolhaRescisaoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisaoLista.g.i.cs
+END
+FolhaValeTransportePrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransportePrincipal.baml
+END
+FolhaFechamentoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamentoLista.g.i.cs
+END
+FolhaInssServico.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServico.g.i.cs
+END
+FolhaLancamentoDetalhe.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalhe.g.i.cs
+END
+FeriasPeriodoAquisitivo.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FeriasPeriodoAquisitivo.g.cs
+END
+FolhaParametrosPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametrosPrincipal.baml
+END
+FolhaLancamentoCabecalhoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalhoLista.g.cs
+END
+FolhaPppAtividade.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividade.g.i.cs
+END
+FolhaLancamentoDetalhePrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalhePrincipal.g.i.cs
+END
+FolhaLancamentoDetalhe.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoDetalhe.g.cs
+END
+FolhaValeTransporte.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransporte.g.cs
+END
+FolhaFeriasColetivas.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivas.g.i.cs
+END
+FolhaInssRetencaoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssRetencaoPrincipal.baml
+END
+FolhaAfastamentoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamentoLista.baml
+END
+FolhaEvento.baml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEvento.baml
+END
+FolhaPppFatorRisco.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRisco.g.i.cs
+END
+FolhaPppLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppLista.g.i.cs
+END
+FolhaRescisaoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisaoLista.baml
+END
+GuiasAcumuladasPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladasPrincipal.g.i.cs
+END
+InformativosGuiasPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/InformativosGuiasPrincipal.g.i.cs
+END
+FolhaPppLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppLista.g.cs
+END
+FolhaPppAtividadeLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividadeLista.g.i.cs
+END
+FolhaPpp.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPpp.g.cs
+END
+FolhaRescisao.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisao.g.i.cs
+END
+GuiasAcumuladasPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladasPrincipal.g.cs
+END
+FolhaFeriasColetivasLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivasLista.baml
+END
+FolhaRescisaoPrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisaoPrincipal.g.i.cs
+END
+FolhaInss.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInss.g.i.cs
+END
+FolhaPppCatLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCatLista.baml
+END
+FolhaPppCat.baml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCat.baml
+END
+FolhaRescisao.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaRescisao.g.cs
+END
+FolhaPppFatorRiscoLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRiscoLista.baml
+END
+FolhaInss.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInss.g.cs
+END
+FolhaInssPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssPrincipal.g.cs
+END
+GuiasAcumuladas.baml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladas.baml
+END
+FolhaPppExameMedico.baml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppExameMedico.baml
+END
+FolhaPlanoSaude.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaude.g.i.cs
+END
+InformativosGuiasPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/InformativosGuiasPrincipal.baml
+END
+FolhaAfastamento.baml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaAfastamento.baml
+END
+FolhaFeriasColetivasPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFeriasColetivasPrincipal.g.cs
+END
+FolhaPppCatPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppCatPrincipal.g.cs
+END
+FolhaLancamentoCabecalho.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaLancamentoCabecalho.g.i.cs
+END
+FolhaInssServicoLista.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServicoLista.g.i.cs
+END
+GuiasAcumuladasLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/GuiasAcumuladasLista.g.cs
+END
+FolhaFechamentoPrincipal.baml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamentoPrincipal.baml
+END
+FolhaPppFatorRiscoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppFatorRiscoPrincipal.g.cs
+END
+FolhaTipoAfastamento.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaTipoAfastamento.g.cs
+END
+FolhaValeTransporte.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransporte.g.i.cs
+END
+FolhaEventoPrincipal.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaEventoPrincipal.g.cs
+END
+FolhaPppAtividadePrincipal.g.i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPppAtividadePrincipal.g.i.cs
+END
+FolhaInssServicoLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServicoLista.g.cs
+END
+FolhaValeTransporteLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaValeTransporteLista.g.cs
+END
+FolhaInssServico.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssServico.g.cs
+END
+FolhaPlanoSaudeLista.baml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaPlanoSaudeLista.baml
+END
+FolhaFechamento.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaFechamento.g.cs
+END
+FolhaInssLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaInssLista.g.cs
+END
+FolhaParametrosLista.g.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/obj/x86/Debug/View/Folha/FolhaParametrosLista.g.cs
+END

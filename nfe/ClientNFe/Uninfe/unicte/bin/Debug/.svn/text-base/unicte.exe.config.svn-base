@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="unicte.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="NfeRecepcaoSoap" closeTimeout="00:01:00" openTimeout="00:01:00"
+                    receiveTimeout="00:10:00" sendTimeout="00:01:00" allowCookies="false"
+                    bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+                    maxBufferSize="65536" maxBufferPoolSize="524288" maxReceivedMessageSize="65536"
+                    messageEncoding="Text" textEncoding="utf-8" transferMode="Buffered"
+                    useDefaultWebProxy="true">
+                    <readerQuotas maxDepth="32" maxStringContentLength="8192" maxArrayLength="16384"
+                        maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+                    <security mode="Transport">
+                        <transport clientCredentialType="None" proxyCredentialType="None"
+                            realm="" />
+                        <message clientCredentialType="UserName" algorithmSuite="Default" />
+                    </security>
+                </binding>
+                <binding name="NfeRecepcaoSoap1" closeTimeout="00:01:00" openTimeout="00:01:00"
+                    receiveTimeout="00:10:00" sendTimeout="00:01:00" allowCookies="false"
+                    bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+                    maxBufferSize="65536" maxBufferPoolSize="524288" maxReceivedMessageSize="65536"
+                    messageEncoding="Text" textEncoding="utf-8" transferMode="Buffered"
+                    useDefaultWebProxy="true">
+                    <readerQuotas maxDepth="32" maxStringContentLength="8192" maxArrayLength="16384"
+                        maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+                    <security mode="None">
+                        <transport clientCredentialType="None" proxyCredentialType="None"
+                            realm="" />
+                        <message clientCredentialType="UserName" algorithmSuite="Default" />
+                    </security>
+                </binding>
+                <binding name="NfeStatusServicoSoap" closeTimeout="00:01:00"
+                    openTimeout="00:01:00" receiveTimeout="00:10:00" sendTimeout="00:01:00"
+                    allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+                    maxBufferSize="65536" maxBufferPoolSize="524288" maxReceivedMessageSize="65536"
+                    messageEncoding="Text" textEncoding="utf-8" transferMode="Buffered"
+                    useDefaultWebProxy="true">
+                    <readerQuotas maxDepth="32" maxStringContentLength="8192" maxArrayLength="16384"
+                        maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+                    <security mode="Transport">
+                        <transport clientCredentialType="None" proxyCredentialType="None"
+                            realm="" />
+                        <message clientCredentialType="UserName" algorithmSuite="Default" />
+                    </security>
+                </binding>
+                <binding name="NfeStatusServicoSoap1" closeTimeout="00:01:00"
+                    openTimeout="00:01:00" receiveTimeout="00:10:00" sendTimeout="00:01:00"
+                    allowCookies="false" bypassProxyOnLocal="false" hostNameComparisonMode="StrongWildcard"
+                    maxBufferSize="65536" maxBufferPoolSize="524288" maxReceivedMessageSize="65536"
+                    messageEncoding="Text" textEncoding="utf-8" transferMode="Buffered"
+                    useDefaultWebProxy="true">
+                    <readerQuotas maxDepth="32" maxStringContentLength="8192" maxArrayLength="16384"
+                        maxBytesPerRead="4096" maxNameTableCharCount="16384" />
+                    <security mode="None">
+                        <transport clientCredentialType="None" proxyCredentialType="None"
+                            realm="" />
+                        <message clientCredentialType="UserName" algorithmSuite="Default" />
+                    </security>
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="https://hom.nfe.fazenda.gov.br/NfeRecepcao/NfeRecepcao.asmx"
+                binding="basicHttpBinding" bindingConfiguration="NfeRecepcaoSoap"
+                contract="WSNfeRecepcao.NfeRecepcaoSoap" name="NfeRecepcaoSoap" />
+            <endpoint address="https://hom.nfe.fazenda.gov.br/NFeStatusServico/NFeStatusServico.asmx"
+                binding="basicHttpBinding" bindingConfiguration="NfeStatusServicoSoap"
+                contract="WSNfeConsultaStatus.NfeStatusServicoSoap" name="NfeStatusServicoSoap" />
+        </client>
+    </system.serviceModel>
+    <applicationSettings>
+        <unicte.Properties.Settings>
+            <setting name="unicte_wsRSHRecepcao_CteRecepcao" serializeAs="String">
+                <value>https://homologacao.cte.sefaz.rs.gov.br/ws/cterecepcao/CteRecepcao.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSHRetRecepcao_CteRetRecepcao" serializeAs="String">
+                <value>https://homologacao.cte.sefaz.rs.gov.br/ws/cteretrecepcao/cteRetRecepcao.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSHCancelamento_CteCancelamento" serializeAs="String">
+                <value>https://homologacao.cte.sefaz.rs.gov.br/ws/ctecancelamento/ctecancelamento.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSHInutilizacao_CteInutilizacao" serializeAs="String">
+                <value>https://homologacao.cte.sefaz.rs.gov.br/ws/cteinutilizacao/cteinutilizacao.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSHConsulta_CteConsulta" serializeAs="String">
+                <value>https://homologacao.cte.sefaz.rs.gov.br/ws/cteconsulta/CteConsulta.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSHStatusServico_CteStatusServico" serializeAs="String">
+                <value>https://homologacao.cte.sefaz.rs.gov.br/ws/ctestatusservico/CteStatusServico.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPHRecepcao_CteRecepcao" serializeAs="String">
+                <value>https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcao.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPHRetRecepcao_CteRetRecepcao" serializeAs="String">
+                <value>https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteRetRecepcao.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPHCancelamento_CteCancelamento" serializeAs="String">
+                <value>https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteCancelamento.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPHInutilizacao_CteInutilizacao" serializeAs="String">
+                <value>https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteInutilizacao.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPHConsulta_CteConsulta" serializeAs="String">
+                <value>https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteConsulta.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPHStatusServico_CteStatusServico" serializeAs="String">
+                <value>https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteStatusServico.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSPRecepcao_CteRecepcao" serializeAs="String">
+                <value>https://cte.sefaz.rs.gov.br/ws/cterecepcao/CteRecepcao.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSPRetRecepcao_CteRetRecepcao" serializeAs="String">
+                <value>https://cte.sefaz.rs.gov.br/ws/cteretrecepcao/cteRetRecepcao.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSPCancelamento_CteCancelamento" serializeAs="String">
+                <value>https://cte.sefaz.rs.gov.br/ws/ctecancelamento/ctecancelamento.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSPInutilizacao_CteInutilizacao" serializeAs="String">
+                <value>https://cte.sefaz.rs.gov.br/ws/cteinutilizacao/cteinutilizacao.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSPConsulta_CteConsulta" serializeAs="String">
+                <value>https://cte.sefaz.rs.gov.br/ws/cteconsulta/CteConsulta.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSPStatusServico_CteStatusServico" serializeAs="String">
+                <value>https://cte.sefaz.rs.gov.br/ws/ctestatusservico/CteStatusServico.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPPRecepcao_CteRecepcao" serializeAs="String">
+                <value>https://nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcao.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPPRetRecepcao_CteRetRecepcao" serializeAs="String">
+                <value>https://nfe.fazenda.sp.gov.br/cteWEB/services/cteRetRecepcao.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPPCancelamento_CteCancelamento" serializeAs="String">
+                <value>https://nfe.fazenda.sp.gov.br/cteWEB/services/cteCancelamento.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPPInutilizacao_CteInutilizacao" serializeAs="String">
+                <value>https://nfe.fazenda.sp.gov.br/cteWEB/services/cteInutilizacao.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPPConsulta_CteConsulta" serializeAs="String">
+                <value>https://nfe.fazenda.sp.gov.br/cteWEB/services/cteConsulta.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPPStatusServico_CteStatusServico" serializeAs="String">
+                <value>https://nfe.fazenda.sp.gov.br/cteWEB/services/cteStatusServico.asmx</value>
+            </setting>
+            <setting name="unicte_wsRSPConsultaCadastro_CadConsultaCadastro"
+                serializeAs="String">
+                <value>https://sef.sefaz.rs.gov.br/ws/CadConsultaCadastro/CadConsultaCadastro.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPPConsultaCadastro_CadConsultaCadastro"
+                serializeAs="String">
+                <value>https://nfe.fazenda.sp.gov.br/nfeweb/services/cadconsultacadastro.asmx</value>
+            </setting>
+            <setting name="unicte_wsSPHConsultaCadastro_CadConsultaCadastro"
+                serializeAs="String">
+                <value>https://homologacao.nfe.fazenda.sp.gov.br/nfeWEB/services/cadconsultacadastro.asmx</value>
+            </setting>
+            <setting name="unicte_wsMTHStatusServico_CteStatusServico" serializeAs="String">
+                <value>https://homologacao.sefaz.mt.gov.br/ctews/services/CteStatusServico</value>
+            </setting>
+            <setting name="unicte_wsMTHRecepcao_CteRecepcao" serializeAs="String">
+                <value>https://homologacao.sefaz.mt.gov.br/ctews/services/CteRecepcao</value>
+            </setting>
+            <setting name="unicte_wsMTHRetRecepcao_CteRetRecepcao" serializeAs="String">
+                <value>https://homologacao.sefaz.mt.gov.br/ctews/services/CteRetRecepcao</value>
+            </setting>
+            <setting name="unicte_wsMTHCancelamento_CteCancelamento" serializeAs="String">
+                <value>https://homologacao.sefaz.mt.gov.br/ctews/services/CteCancelamento</value>
+            </setting>
+            <setting name="unicte_wsMTHInutilizacao_CteInutilizacaoService"
+                serializeAs="String">
+                <value>https://homologacao.sefaz.mt.gov.br/ctews/services/CteInutilizacao</value>
+            </setting>
+            <setting name="unicte_wsMTHConsulta_CteConsulta" serializeAs="String">
+                <value>https://homologacao.sefaz.mt.gov.br/ctews/services/CteConsulta</value>
+            </setting>
+            <setting name="unicte_wsMTPRecepcao_CteRecepcao" serializeAs="String">
+                <value>https://cte.sefaz.mt.gov.br/ctews/services/CteRecepcao</value>
+            </setting>
+            <setting name="unicte_wsMTPRetRecepcao_CteRetRecepcao" serializeAs="String">
+                <value>https://cte.sefaz.mt.gov.br/ctews/services/CteRetRecepcao</value>
+            </setting>
+            <setting name="unicte_wsMTPCancelamento_CteCancelamento" serializeAs="String">
+                <value>https://cte.sefaz.mt.gov.br/ctews/services/CteCancelamento</value>
+            </setting>
+            <setting name="unicte_wsMTPInutilizacao_CteInutilizacao" serializeAs="String">
+                <value>https://cte.sefaz.mt.gov.br/ctews/services/CteInutilizacao</value>
+            </setting>
+            <setting name="unicte_wsMTPConsulta_CteConsulta" serializeAs="String">
+                <value>https://cte.sefaz.mt.gov.br/ctews/services/CteConsulta</value>
+            </setting>
+            <setting name="unicte_wsMTPStatusServico_CteStatusServico" serializeAs="String">
+                <value>https://cte.sefaz.mt.gov.br/ctews/services/CteStatusServico</value>
+            </setting>
+        </unicte.Properties.Settings>
+    </applicationSettings>
+</configuration>

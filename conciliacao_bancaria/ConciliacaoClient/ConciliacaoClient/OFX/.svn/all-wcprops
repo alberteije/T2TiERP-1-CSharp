@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/OFX
+END
+OFXTransacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/OFX/OFXTransacaoDTO.cs
+END
+OFXImport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/OFX/OFXImport.cs
+END
+OFXContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_conciliacao_bancaria/!svn/ver/2/trunk/ConciliacaoClient/ConciliacaoClient/OFX/OFXContaDTO.cs
+END

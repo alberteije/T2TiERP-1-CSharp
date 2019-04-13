@@ -1,0 +1,38 @@
+Lista dos Estados com WebServices Próprios
+    Amazonas - AM
+	Bahia - BA
+	Ceará - CE
+	Goias - GO
+	Minas Gerais - MG
+	Mato Grosso do Sul - MS
+	Mato Grosso - MT
+	Pernambuco - PE
+	Paraná - PR
+	Rio Grande do Sul - RS
+	São Paulo - SP			
+
+Lista dos Estados que utilizam os WebServices do Ambiente Virtual Nacional
+    Maranhão - MA
+    Pará - PA
+    Piauí - PI
+    Rio Grande do Norte - RN
+	Espirito Santo - ES		
+
+Lista dos Estados que utilizam os WebServices do Ambiente Virtual do Rio Grande do Sul  
+	Acré - AC
+	Alagoas - AL
+	Amapá - AP
+	Paraíba - PB
+	Rio de Janeiro - RJ
+	Rondônia - RO
+	Roraima - RR
+	Santa Catarina - SC
+	Sergipe - SE
+	Tocantins - TO    
+	Distrito Federal - DF
+
+	
+Teste de controle de versão.
+
+Perfeito teste de controle de versao funcionou.
+.

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CadastrosBaseService"
+                   namespace="CadastrosBaseService.Model" default-lazy="false">
+  <class name="CboDTO" table="cbo">
+    <id name="id" column="ID">
+      <generator class="identity" />
+    </id>
+    <property name="codigo" column="CODIGO" />
+    <property name="codigo1994" column="CODIGO_1994" />
+    <property name="nome" column="NOME" />
+    <property name="observacao" column="OBSERVACAO" />
+    <!--
+    <many-to-one class="UnidadeDTO" name="unidade" column="ID_UNIDADE"/>
+    -->
+  </class>
+</hibernate-mapping>

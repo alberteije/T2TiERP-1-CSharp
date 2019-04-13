@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto
+END
+PontoAbonoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoAbonoLista.xaml.cs
+END
+PontoRelogio.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoRelogio.xaml
+END
+PontoAbonoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoAbonoPrincipal.xaml
+END
+PontoRelogioLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoRelogioLista.xaml.cs
+END
+PontoAbono.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoAbono.xaml.cs
+END
+PontoMarcacaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoMarcacaoLista.xaml.cs
+END
+PontoHorario.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoHorario.xaml.cs
+END
+PontoMarcacaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoMarcacaoPrincipal.xaml
+END
+PontoFechamentoJornadaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoFechamentoJornadaPrincipal.xaml
+END
+PontoFechamentoJornadaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoFechamentoJornadaPrincipal.xaml.cs
+END
+PontoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoPrincipal.xaml
+END
+PontoBancoHoras.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoBancoHoras.xaml.cs
+END
+PontoClassificacaoJornadaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoClassificacaoJornadaPrincipal.xaml
+END
+PontoTurma.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoTurma.xaml
+END
+PontoTurmaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoTurmaLista.xaml.cs
+END
+PontoParametro.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoParametro.xaml
+END
+PontoEscalaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoEscalaPrincipal.xaml
+END
+PontoParametroLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoParametroLista.xaml.cs
+END
+PontoAbonoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoAbonoLista.xaml
+END
+PontoParametroPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoParametroPrincipal.xaml
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/Login.xaml.cs
+END
+PontoEscala.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoEscala.xaml.cs
+END
+PontoParametro.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoParametro.xaml.cs
+END
+PontoEscalaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoEscalaPrincipal.xaml.cs
+END
+PontoGeracaoArquivosPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoGeracaoArquivosPrincipal.xaml.cs
+END
+PontoMarcacaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoMarcacaoLista.xaml
+END
+PontoHorario.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoHorario.xaml
+END
+PontoRegistroPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoRegistroPrincipal.xaml.cs
+END
+PontoHorarioLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoHorarioLista.xaml.cs
+END
+PontoFechamentoJornadaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoFechamentoJornadaLista.xaml
+END
+PontoBancoHoras.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoBancoHoras.xaml
+END
+PontoBancoHorasLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoBancoHorasLista.xaml.cs
+END
+PontoClassificacaoJornadaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoClassificacaoJornadaLista.xaml
+END
+PontoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoPrincipal.xaml.cs
+END
+PontoEscalaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoEscalaLista.xaml
+END
+PontoParametroLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoParametroLista.xaml
+END
+PontoClassificacaoJornadaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoClassificacaoJornadaPrincipal.xaml.cs
+END
+PontoRelogioPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoRelogioPrincipal.xaml
+END
+PontoRelogio.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoRelogio.xaml.cs
+END
+PontoAbonoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoAbonoPrincipal.xaml.cs
+END
+PontoHorarioPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoHorarioPrincipal.xaml
+END
+PontoRelogioPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoRelogioPrincipal.xaml.cs
+END
+PontoFechamentoJornadaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoFechamentoJornadaLista.xaml.cs
+END
+PontoMarcacaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoMarcacaoPrincipal.xaml.cs
+END
+PontoBancoHorasPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoBancoHorasPrincipal.xaml
+END
+PontoClassificacaoJornada.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoClassificacaoJornada.xaml.cs
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/Login.xaml
+END
+PontoEscala.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoEscala.xaml
+END
+PontoEscalaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoEscalaLista.xaml.cs
+END
+PontoTurmaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoTurmaPrincipal.xaml
+END
+PontoTurma.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoTurma.xaml.cs
+END
+PontoRelogioLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoRelogioLista.xaml
+END
+PontoTurmaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoTurmaPrincipal.xaml.cs
+END
+PontoRegistroPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoRegistroPrincipal.xaml
+END
+PontoParametroPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoParametroPrincipal.xaml.cs
+END
+PontoHorarioLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoHorarioLista.xaml
+END
+PontoHorarioPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoHorarioPrincipal.xaml.cs
+END
+PontoBancoHorasLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoBancoHorasLista.xaml
+END
+PontoClassificacaoJornada.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoClassificacaoJornada.xaml
+END
+PontoClassificacaoJornadaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoClassificacaoJornadaLista.xaml.cs
+END
+PontoTurmaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoTurmaLista.xaml
+END
+PontoBancoHorasPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoBancoHorasPrincipal.xaml.cs
+END
+PontoGeracaoArquivosPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoGeracaoArquivosPrincipal.xaml
+END
+PontoAbono.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/View/Ponto/PontoAbono.xaml
+END

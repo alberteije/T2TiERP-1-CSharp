@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService
+END
+ServicoSped.svc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService/ServicoSped.svc
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService/Web.config
+END
+IServicoSped.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService/IServicoSped.cs
+END
+ServicoSped.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService/ServicoSped.svc.cs
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService/Web.Debug.config
+END
+SpedService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService/SpedService.csproj.user
+END
+SpedService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedService/SpedService/SpedService.csproj
+END

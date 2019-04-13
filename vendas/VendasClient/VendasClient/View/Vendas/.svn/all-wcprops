@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas
+END
+TipoNotaFiscal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/TipoNotaFiscal.xaml
+END
+FreteVendaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/FreteVendaLista.xaml
+END
+TipoNotaFiscalLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/TipoNotaFiscalLista.xaml.cs
+END
+VendaCabecalhoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaCabecalhoPrincipal.xaml
+END
+VendaDetalheLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaDetalheLista.xaml
+END
+FreteVenda.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/FreteVenda.xaml
+END
+VendaCabecalho.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaCabecalho.xaml.cs
+END
+OrcamentoPedidoVendaDetLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaDetLista.xaml
+END
+FreteVendaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/FreteVendaLista.xaml.cs
+END
+TipoNotaFiscalPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/TipoNotaFiscalPrincipal.xaml.cs
+END
+OrcamentoPedidoVendaDet.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaDet.xaml
+END
+OrcamentoPedidoVendaDetLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaDetLista.xaml.cs
+END
+FreteVendaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/FreteVendaPrincipal.xaml.cs
+END
+CondicoesParcelaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesParcelaLista.xaml
+END
+OrcamentoPedidoVendaDetPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaDetPrincipal.xaml.cs
+END
+CondicoesPagamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesPagamentoLista.xaml
+END
+OrcamentoPedidoVendaCab.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaCab.xaml
+END
+OrcamentoPedidoVendaCabLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaCabLista.xaml.cs
+END
+OrcamentoPedidoVendaCabPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaCabPrincipal.xaml
+END
+OrcamentoPedidoVendaCab.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaCab.xaml.cs
+END
+OrcamentoPedidoVendaCabPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaCabPrincipal.xaml.cs
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/Login.xaml
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/Login.xaml.cs
+END
+VendaCabecalhoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaCabecalhoLista.xaml
+END
+VendaCabecalho.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaCabecalho.xaml
+END
+VendaCabecalhoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaCabecalhoLista.xaml.cs
+END
+TipoNotaFiscalPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/TipoNotaFiscalPrincipal.xaml
+END
+VendasPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendasPrincipal.xaml
+END
+TipoNotaFiscal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/TipoNotaFiscal.xaml.cs
+END
+VendaDetalhe.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaDetalhe.xaml
+END
+FreteVendaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/FreteVendaPrincipal.xaml
+END
+VendaCabecalhoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaCabecalhoPrincipal.xaml.cs
+END
+VendaDetalheLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaDetalheLista.xaml.cs
+END
+VendaDetalhePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaDetalhePrincipal.xaml
+END
+VendasPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendasPrincipal.xaml.cs
+END
+FreteVenda.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/FreteVenda.xaml.cs
+END
+VendaDetalhe.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaDetalhe.xaml.cs
+END
+OrcamentoPedidoVendaDetPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaDetPrincipal.xaml
+END
+VendaDetalhePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/VendaDetalhePrincipal.xaml.cs
+END
+OrcamentoPedidoVendaDet.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaDet.xaml.cs
+END
+OrcamentoPedidoVendaCabLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/OrcamentoPedidoVendaCabLista.xaml
+END
+CondicoesParcela.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesParcela.xaml
+END
+CondicoesParcelaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesParcelaLista.xaml.cs
+END
+CondicoesParcelaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesParcelaPrincipal.xaml
+END
+CondicoesPagamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesPagamento.xaml
+END
+CondicoesParcela.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesParcela.xaml.cs
+END
+CondicoesPagamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesPagamentoLista.xaml.cs
+END
+CondicoesPagamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesPagamentoPrincipal.xaml
+END
+CondicoesParcelaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesParcelaPrincipal.xaml.cs
+END
+CondicoesPagamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesPagamento.xaml.cs
+END
+CondicoesPagamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/CondicoesPagamentoPrincipal.xaml.cs
+END
+TipoNotaFiscalLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/View/Vendas/TipoNotaFiscalLista.xaml
+END

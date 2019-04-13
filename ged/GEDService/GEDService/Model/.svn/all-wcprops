@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model
+END
+DocumentoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/DocumentoDAL.cs
+END
+GedTipoDocumentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/GedTipoDocumentoDTO.hbm.xml
+END
+GedTipoDocumentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/GedTipoDocumentoDTO.cs
+END
+GedDocumentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/GedDocumentoDTO.hbm.xml
+END
+GedDocumentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/GedDocumentoDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/ViewControleAcessoDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ArquivoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/ArquivoDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/UsuarioDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/UsuarioDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/NHibernateDAL.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/EmpresaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/EmpresaDTO.cs
+END
+GedVersaoDocumentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/GedVersaoDocumentoDTO.hbm.xml
+END
+GedVersaoDocumentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/GedVersaoDocumentoDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDService/GEDService/Model/IDAL.cs
+END

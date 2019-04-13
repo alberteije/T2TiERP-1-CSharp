@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<wsdl:definitions targetNamespace="http://www.portalfiscal.inf.br/nfe/wsdl/NfeConsulta" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://www.portalfiscal.inf.br/nfe/wsdl/NfeConsulta" xmlns:intf="http://www.portalfiscal.inf.br/nfe/wsdl/NfeConsulta" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--
+WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)
+-->
+<wsdl:types>
+<schema elementFormDefault="qualified" targetNamespace="http://www.portalfiscal.inf.br/nfe/wsdl/NfeConsulta" xmlns="http://www.w3.org/2001/XMLSchema">
+<element name="nfeConsultaNF">
+<complexType>
+<sequence>
+<element name="nfeCabecMsg" type="xsd:string" /> 
+<element name="nfeDadosMsg" type="xsd:string" /> 
+</sequence>
+</complexType>
+</element>
+<element name="nfeConsultaNFResponse">
+<complexType>
+<sequence>
+<element name="nfeConsultaNFResult" type="xsd:string" /> 
+</sequence>
+</complexType>
+</element>
+</schema>
+</wsdl:types>
+<wsdl:message name="nfeConsultaNFResponse">
+<wsdl:part element="impl:nfeConsultaNFResponse" name="parameters" /> 
+</wsdl:message>
+<wsdl:message name="nfeConsultaNFRequest">
+<wsdl:part element="impl:nfeConsultaNF" name="parameters" /> 
+</wsdl:message>
+<wsdl:portType name="NfeConsulta">
+<wsdl:operation name="nfeConsultaNF">
+<wsdl:input message="impl:nfeConsultaNFRequest" name="nfeConsultaNFRequest" /> 
+<wsdl:output message="impl:nfeConsultaNFResponse" name="nfeConsultaNFResponse" /> 
+</wsdl:operation>
+</wsdl:portType>
+<wsdl:binding name="NfeConsultaSoapBinding" type="impl:NfeConsulta">
+<wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http" /> 
+<wsdl:operation name="nfeConsultaNF">
+<wsdlsoap:operation soapAction="nfeConsultaNF" />
+<wsdl:input name="nfeConsultaNFRequest">
+<wsdlsoap:body use="literal" /> 
+</wsdl:input>
+<wsdl:output name="nfeConsultaNFResponse">
+<wsdlsoap:body use="literal" /> 
+</wsdl:output>
+</wsdl:operation>
+</wsdl:binding>
+<wsdl:service name="NfeConsulta">
+<wsdl:port binding="impl:NfeConsultaSoapBinding" name="NfeConsulta">
+<wsdlsoap:address location="https://homolog.sefaz.go.gov.br/nfe/services/NfeConsulta" /> 
+</wsdl:port>
+</wsdl:service>
+</wsdl:definitions>

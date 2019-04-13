@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade
+END
+ContabilLotePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLotePrincipal.xaml
+END
+ContabilLancamentoPadraoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoPadraoLista.xaml
+END
+ContabilLancamentoDetalheLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoDetalheLista.xaml
+END
+ContabilContaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilContaPrincipal.xaml
+END
+ContabilLancamentoCabecalho.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoCabecalho.xaml.cs
+END
+ContabilConta.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilConta.xaml.cs
+END
+ContabilHistoricoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilHistoricoPrincipal.xaml.cs
+END
+ContabilContaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilContaPrincipal.xaml.cs
+END
+PlanoContaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaLista.xaml
+END
+ContabilEncerramentoExeDetPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeDetPrincipal.xaml.cs
+END
+ContabilDreCabecalhoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreCabecalhoLista.xaml
+END
+ContabilEncerramentoExeCab.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeCab.xaml
+END
+ContabilEncerramentoExeCabPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeCabPrincipal.xaml
+END
+ContabilIndiceLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndiceLista.xaml.cs
+END
+ContabilLivro.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLivro.xaml.cs
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/Login.xaml.cs
+END
+FapPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/FapPrincipal.xaml.cs
+END
+ContabilBalancoPatrimonialPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilBalancoPatrimonialPrincipal.xaml
+END
+ContabilContaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilContaLista.xaml
+END
+ContabilLancamentoCabecalho.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoCabecalho.xaml
+END
+ContabilIndiceValorPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndiceValorPrincipal.xaml.cs
+END
+ContabilFechamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilFechamentoLista.xaml
+END
+ContabilHistorico.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilHistorico.xaml.cs
+END
+ContabilidadePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilidadePrincipal.xaml
+END
+ContabilLancamentoPadrao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoPadrao.xaml
+END
+ContabilLancamentoDetalhe.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoDetalhe.xaml
+END
+ContabilFechamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilFechamentoLista.xaml.cs
+END
+ContabilLancamentoOrcadoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoOrcadoPrincipal.xaml.cs
+END
+RegistroCartorioLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/RegistroCartorioLista.xaml
+END
+ContabilEncerramentoExeDetPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeDetPrincipal.xaml
+END
+RegistroCartorio.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/RegistroCartorio.xaml
+END
+ContabilEncerramentoExeCabLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeCabLista.xaml
+END
+PlanoContaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaPrincipal.xaml.cs
+END
+AidfAimdfPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/AidfAimdfPrincipal.xaml
+END
+ContabilLivro.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLivro.xaml
+END
+ContabilTermoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilTermoPrincipal.xaml.cs
+END
+AidfAimdf.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/AidfAimdf.xaml.cs
+END
+PlanoContaRefSpedLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaRefSpedLista.xaml.cs
+END
+ContabilDreCabecalhoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreCabecalhoLista.xaml.cs
+END
+ContabilEmissaoLivrosPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEmissaoLivrosPrincipal.xaml
+END
+ContabilHistorico.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilHistorico.xaml
+END
+ContabilLancamentoCabecalhoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoCabecalhoPrincipal.xaml
+END
+ContabilBalancoPatrimonialPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilBalancoPatrimonialPrincipal.xaml.cs
+END
+ContabilContaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilContaLista.xaml.cs
+END
+ContabilDreDetalhePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreDetalhePrincipal.xaml.cs
+END
+ContabilLancamentoOrcadoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoOrcadoPrincipal.xaml
+END
+ContabilParametrosPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilParametrosPrincipal.xaml
+END
+ContabilEncerramentoExeDet.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeDet.xaml
+END
+AidfAimdfLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/AidfAimdfLista.xaml
+END
+ContabilIndiceLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndiceLista.xaml
+END
+FapLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/FapLista.xaml.cs
+END
+ContabilLivroPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLivroPrincipal.xaml
+END
+Fap.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/Fap.xaml.cs
+END
+ContabilIndiceValor.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndiceValor.xaml
+END
+ContabilEncerramentoExeCabPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeCabPrincipal.xaml.cs
+END
+ContabilIndicePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndicePrincipal.xaml.cs
+END
+ContabilDreDetalhePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreDetalhePrincipal.xaml
+END
+ContabilLoteLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLoteLista.xaml.cs
+END
+ContabilEmissaoLivrosPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEmissaoLivrosPrincipal.xaml.cs
+END
+ContabilHistoricoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilHistoricoPrincipal.xaml
+END
+ContabilLancamentoOrcado.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoOrcado.xaml
+END
+ContabilParametrosLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilParametrosLista.xaml.cs
+END
+ContabilLancamentoPadraoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoPadraoPrincipal.xaml.cs
+END
+ContabilLancamentoDetalhePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoDetalhePrincipal.xaml.cs
+END
+ContabilFechamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilFechamentoPrincipal.xaml.cs
+END
+PlanoContaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaLista.xaml.cs
+END
+ContabilEncerramentoExeDet.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeDet.xaml.cs
+END
+PlanoConta.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoConta.xaml.cs
+END
+ContabilTermoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilTermoLista.xaml.cs
+END
+ContabilTermoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilTermoPrincipal.xaml
+END
+AidfAimdf.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/AidfAimdf.xaml
+END
+PlanoContaRefSpedLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaRefSpedLista.xaml
+END
+ContabilIndice.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndice.xaml.cs
+END
+ContabilDreDetalhe.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreDetalhe.xaml
+END
+PlanoContaRefSpedPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaRefSpedPrincipal.xaml.cs
+END
+ContabilFechamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilFechamentoPrincipal.xaml
+END
+ContabilLancamentoOrcado.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoOrcado.xaml.cs
+END
+ContabilParametros.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilParametros.xaml.cs
+END
+ContabilTermoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilTermoLista.xaml
+END
+RegistroCartorioPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/RegistroCartorioPrincipal.xaml
+END
+ContabilEncerramentoExeCabLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeCabLista.xaml.cs
+END
+ContabilIndice.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndice.xaml
+END
+ContabilIndiceValorLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndiceValorLista.xaml
+END
+ContabilEncerramentoExeCab.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeCab.xaml.cs
+END
+PlanoContaRefSped.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaRefSped.xaml.cs
+END
+ContabilLoteLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLoteLista.xaml
+END
+ContabilLancamentoCabecalhoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoCabecalhoLista.xaml.cs
+END
+ContabilDreDetalhe.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreDetalhe.xaml.cs
+END
+ContabilLotePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLotePrincipal.xaml.cs
+END
+ContabilLancamentoPadraoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoPadraoLista.xaml.cs
+END
+ContabilLancamentoDetalheLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoDetalheLista.xaml.cs
+END
+ContabilFechamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilFechamento.xaml
+END
+ContabilParametrosPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilParametrosPrincipal.xaml.cs
+END
+RegistroCartorioLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/RegistroCartorioLista.xaml.cs
+END
+PlanoContaRefSped.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaRefSped.xaml
+END
+ContabilLivroLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLivroLista.xaml.cs
+END
+ContabilDreCabecalho.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreCabecalho.xaml
+END
+ContabilIndicePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndicePrincipal.xaml
+END
+AidfAimdfPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/AidfAimdfPrincipal.xaml.cs
+END
+ContabilDfcPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDfcPrincipal.xaml
+END
+ContabilDfcPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDfcPrincipal.xaml.cs
+END
+ContabilIndiceValor.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndiceValor.xaml.cs
+END
+ContabilConta.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilConta.xaml
+END
+ContabilHistoricoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilHistoricoLista.xaml.cs
+END
+ContabilLote.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLote.xaml.cs
+END
+ContabilFechamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilFechamento.xaml.cs
+END
+ContabilEncerramentoExeDetLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeDetLista.xaml
+END
+ContabilEncerramentoExeDetLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilEncerramentoExeDetLista.xaml.cs
+END
+RegistroCartorio.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/RegistroCartorio.xaml.cs
+END
+Fap.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/Fap.xaml
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/Login.xaml
+END
+FapPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/FapPrincipal.xaml
+END
+PlanoContaRefSpedPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaRefSpedPrincipal.xaml
+END
+ContabilLancamentoCabecalhoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoCabecalhoLista.xaml
+END
+ContabilIndiceValorLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndiceValorLista.xaml.cs
+END
+ContabilLote.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLote.xaml
+END
+ContabilLancamentoOrcadoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoOrcadoLista.xaml
+END
+ContabilLancamentoCabecalhoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoCabecalhoPrincipal.xaml.cs
+END
+ContabilParametrosLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilParametrosLista.xaml
+END
+ContabilLancamentoPadraoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoPadraoPrincipal.xaml
+END
+ContabilLancamentoOrcadoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoOrcadoLista.xaml.cs
+END
+ContabilLancamentoDetalhePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoDetalhePrincipal.xaml
+END
+ContabilidadePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilidadePrincipal.xaml.cs
+END
+ContabilLancamentoPadrao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoPadrao.xaml.cs
+END
+ContabilLancamentoDetalhe.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLancamentoDetalhe.xaml.cs
+END
+ContabilParametros.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilParametros.xaml
+END
+PlanoConta.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoConta.xaml
+END
+PlanoContaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/PlanoContaPrincipal.xaml
+END
+ContabilTermo.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilTermo.xaml
+END
+FapLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/FapLista.xaml
+END
+ContabilLivroLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLivroLista.xaml
+END
+AidfAimdfLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/AidfAimdfLista.xaml.cs
+END
+ContabilTermo.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilTermo.xaml.cs
+END
+RegistroCartorioPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/RegistroCartorioPrincipal.xaml.cs
+END
+ContabilDreDetalheLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreDetalheLista.xaml
+END
+ContabilDreCabecalhoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreCabecalhoPrincipal.xaml
+END
+ContabilDreCabecalho.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreCabecalho.xaml.cs
+END
+ContabilHistoricoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilHistoricoLista.xaml
+END
+ContabilLivroPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilLivroPrincipal.xaml.cs
+END
+ContabilIndiceValorPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilIndiceValorPrincipal.xaml
+END
+ContabilDreDetalheLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreDetalheLista.xaml.cs
+END
+ContabilDreCabecalhoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/View/Contabilidade/ContabilDreCabecalhoPrincipal.xaml.cs
+END

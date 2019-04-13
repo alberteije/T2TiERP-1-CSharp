@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Web.Release.config
+END
+ServicoEscritaFiscal.svc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/ServicoEscritaFiscal.svc
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Web.config
+END
+IServicoEscritaFiscal.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/IServicoEscritaFiscal.cs
+END
+ServicoEscritaFiscal.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/ServicoEscritaFiscal.svc.cs
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Web.Debug.config
+END
+EscritaFiscalService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/EscritaFiscalService.csproj.user
+END
+EscritaFiscalService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/EscritaFiscalService.csproj
+END

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="19a61e35-18f1-47c6-9c50-b7a664c2cbd6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/PontoService/ServicoPonto.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoPonto.xsd" MetadataType="Schema" ID="0fdd60ab-0059-4afc-a845-163e2dfb1ffd" SourceId="1" SourceUrl="http://localhost/PontoService/ServicoPonto.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicoPonto.disco" MetadataType="Disco" ID="dff07d82-10ae-41a8-870c-fe852aeaccc9" SourceId="1" SourceUrl="http://localhost/PontoService/ServicoPonto.svc?disco" />
+    <MetadataFile FileName="ServicoPonto1.xsd" MetadataType="Schema" ID="6c0b7c99-0faa-41c8-8e2a-d86f0477395d" SourceId="1" SourceUrl="http://localhost/PontoService/ServicoPonto.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicoPonto.wsdl" MetadataType="Wsdl" ID="a3781750-1f13-4ced-9e83-c7cdd6d5c133" SourceId="1" SourceUrl="http://localhost/PontoService/ServicoPonto.svc?wsdl" />
+    <MetadataFile FileName="ServicoPonto2.xsd" MetadataType="Schema" ID="5897870f-d387-4290-9a7f-f943381fb19e" SourceId="1" SourceUrl="http://localhost/PontoService/ServicoPonto.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

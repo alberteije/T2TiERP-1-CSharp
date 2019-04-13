@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.OperadoraCartaoLista"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <DockPanel LastChildFill="True" >
+        <DockPanel LastChildFill="True">
+            <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Margin="4,0" Content="&lt;" Command="{Binding paginaAnteriorCommand}"/>
+                <Button Margin="4,0"  Content="&gt;" Command="{Binding paginaSeguinteCommand}"/>
+            </StackPanel>
+            <DataGrid Name="dataGrid" AutoGenerateColumns="false" IsReadOnly="True" CanUserAddRows="False" CanUserDeleteRows="False" ItemsSource="{Binding listaOperadoraCartao}" SelectedItem="{Binding operadoracartaoSelected}" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Contábil Contal" Width="20*" Binding="{Binding Path=IdContabilConta}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Conta Caixa" Width="50*" Binding="{Binding Path=IdContaCaixa}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Bandeira" Width="30*" Binding="{Binding Path=Bandeira}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Nome" Width="30*" Binding="{Binding Path=Nome}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Taxa Adm" Width="30*" Binding="{Binding Path=TaxaAdm}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Taxa Adm Débito" Width="30*" Binding="{Binding Path=TaxaAdmDebito}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Valor Aluguel" Width="30*" Binding="{Binding Path=ValorAluguelPosPin}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Vencimento" Width="30*" Binding="{Binding Path=VencimentoAluguel}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Telefone 1" Width="30*" Binding="{Binding Path=Fone1}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Telefone 2" Width="30*" Binding="{Binding Path=Fone2}"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+    </DockPanel>
+</UserControl>
+
+    

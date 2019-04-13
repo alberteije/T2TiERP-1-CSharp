@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.Cliente" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" mc:Ignorable="d" d:DesignHeight="500" d:DesignWidth="700">
+	<DockPanel LastChildFill="True">
+		<StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal">
+			<Button Name="btSalvar" Width="100" Click="btSalvar_Click">
+				<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+					<Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+					<TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+				</StackPanel>
+			</Button>
+			<Button Name="btSair" Width="100" Click="btSair_Click">
+				<StackPanel Orientation="Horizontal">
+					<Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+					<TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+				</StackPanel>
+			</Button>
+		</StackPanel>
+		<Grid>
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ClienteSelected.ContabilConta.Id}" Height="23" Width="656" Margin="6,77,0,0"  />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarContabilConta" Click="btPesquisarContabilConta_Click" Margin="664,77,0,0"  />
+            <Label Content="Conta Contabil" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,58,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ClienteSelected.TributOperacaoFiscal.Id}" Height="23" Width="161" Margin="6,125,0,0"  />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarTributOperacaoFiscal" Click="btPesquisarTributOperacaoFiscal_Click" Margin="173,125,0,0"  />
+			<Label Content="Operacao Fiscal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,106,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ClienteSelected.Pessoa.Id}" Height="23" Width="656" Margin="6,29,0,0"  />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarPessoa" Click="btPesquisarPessoa_Click" Margin="664,29,0,0"  />
+			<Label Content="Pessoa" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,10,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ClienteSelected.AtividadeForCli.Id}" Height="23" Width="201" Margin="209,125,0,0"  />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarAtividadeForCli" Click="btPesquisarAtividadeForCli_Click" Margin="410,125,0,0"  />
+			<Label Content="Atividade" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="342,106,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding ClienteSelected.SituacaoForCli.Id}" Height="23" Width="216" Margin="446,125,0,0"  />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarSituacaoForCli" Click="btPesquisarSituacaoForCli_Click" Margin="664,125,0,0"  />
+			<Label Content="Situacao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="594,106,0,0"  />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ClienteSelected.Desde}" Margin="6,174,0,0"  />
+			<Label Content="Desde" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,155,0,0"  />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding ClienteSelected.DataCadastro}" Margin="112,174,0,0"  />
+			<Label Content="Data Cadastro" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,155,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ClienteSelected.Observacao}" Height="23" TextWrapping="Wrap" VerticalContentAlignment="Top" AcceptsReturn="True" Width="100" Margin="218,174,0,0"  />
+			<Label Content="Observacao" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="218,155,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ClienteSelected.ContaTomador}" Height="23" Width="100" Margin="324,174,0,0"  />
+			<Label Content="Conta Tomador" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,155,0,0"  />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedValue="{Binding ClienteSelected.GeraFinanceiro}" SelectedValuePath="Tag" Margin="430,174,0,0" >
+				<ComboBoxItem Content="Sim" Tag="S" />
+				<ComboBoxItem Content="Não" Tag="N" />
+			</ComboBox>
+			<Label Content="Gera Financeiro" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="430,155,0,0"  />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="158" SelectedValue="{Binding ClienteSelected.IndicadorPreco}" SelectedValuePath="Tag" Margin="536,174,0,0" >
+				<ComboBoxItem Content="Tabela" Tag="T" />
+				<ComboBoxItem Content="Último Pedido" Tag="P" />
+			</ComboBox>
+			<Label Content="Indicador Preco" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="536,155,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ClienteSelected.PorcentoDesconto}" Height="23" Width="100" Margin="6,222,0,0"  />
+			<Label Content="Porcento Desconto" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,203,0,0"  />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="192" SelectedValue="{Binding ClienteSelected.FormaDesconto}" SelectedValuePath="Tag" Margin="112,222,0,0" >
+				<ComboBoxItem Content="Produto" Tag="P" />
+				<ComboBoxItem Content="Fim do Pedido" Tag="F" />
+			</ComboBox>
+			<Label Content="Forma Desconto" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,203,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding ClienteSelected.LimiteCredito}" Height="23" Width="100" Margin="310,222,0,0"  />
+			<Label Content="Limite Credito" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="310,203,0,0"  />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="278" SelectedValue="{Binding ClienteSelected.TipoFrete}" SelectedValuePath="Tag" Margin="416,222,0,0" >
+				<ComboBoxItem Content="Emitente" Tag="E" />
+				<ComboBoxItem Content="Destinatário" Tag="D" />
+                <ComboBoxItem Content="Sem Frete" Tag="S" />
+                <ComboBoxItem Content="Terceiros" Tag="T" />
+            </ComboBox>
+			<Label Content="Tipo Frete" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="416,203,0,0"  />
+		</Grid>
+	</DockPanel>
+</UserControl>

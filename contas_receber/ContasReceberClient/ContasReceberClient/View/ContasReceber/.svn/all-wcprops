@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber
+END
+FinParcelaRecebimentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaRecebimentoPrincipal.xaml
+END
+ContasReceberPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/ContasReceberPrincipal.xaml.cs
+END
+FinTipoRecebimento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinTipoRecebimento.xaml.cs
+END
+ViewFinLancamentoReceberPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/ViewFinLancamentoReceberPrincipal.xaml
+END
+PlanoNaturezaFinanceira.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/PlanoNaturezaFinanceira.xaml
+END
+PlanoNaturezaFinanceiraLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/PlanoNaturezaFinanceiraLista.xaml.cs
+END
+FinLctoReceberNtFinanceiraLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLctoReceberNtFinanceiraLista.xaml
+END
+FinLancamentoReceber.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLancamentoReceber.xaml
+END
+FinLancamentoReceberLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLancamentoReceberLista.xaml.cs
+END
+FinLancamentoReceberPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLancamentoReceberPrincipal.xaml
+END
+FinStatusParcelaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinStatusParcelaPrincipal.xaml
+END
+FinLancamentoReceber.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLancamentoReceber.xaml.cs
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/Login.xaml.cs
+END
+FinStatusParcela.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinStatusParcela.xaml.cs
+END
+FinStatusParcelaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinStatusParcelaPrincipal.xaml.cs
+END
+FinParcelaRecebimentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaRecebimentoLista.xaml
+END
+NaturezaFinanceiraPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/NaturezaFinanceiraPrincipal.xaml.cs
+END
+FinParcelaRecebimento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaRecebimento.xaml
+END
+FinParcelaRecebimentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaRecebimentoLista.xaml.cs
+END
+FinTipoRecebimentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinTipoRecebimentoPrincipal.xaml.cs
+END
+ViewFinLancamentoReceberLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/ViewFinLancamentoReceberLista.xaml
+END
+FinParcelaReceberPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaReceberPrincipal.xaml
+END
+FinParcelaReceber.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaReceber.xaml.cs
+END
+ViewFinLancamentoReceber.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/ViewFinLancamentoReceber.xaml
+END
+ViewFinLancamentoReceberLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/ViewFinLancamentoReceberLista.xaml.cs
+END
+FinConfiguracaoBoleto.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinConfiguracaoBoleto.xaml
+END
+FinParcelaReceberPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaReceberPrincipal.xaml.cs
+END
+FinLancamentoReceberLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLancamentoReceberLista.xaml
+END
+FinConfiguracaoBoletoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinConfiguracaoBoletoLista.xaml.cs
+END
+FinConfiguracaoBoletoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinConfiguracaoBoletoPrincipal.xaml
+END
+PlanoNaturezaFinanceiraPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/PlanoNaturezaFinanceiraPrincipal.xaml
+END
+FinStatusParcelaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinStatusParcelaLista.xaml
+END
+FinConfiguracaoBoleto.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinConfiguracaoBoleto.xaml.cs
+END
+FinLctoReceberNtFinanceira.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLctoReceberNtFinanceira.xaml
+END
+FinLctoReceberNtFinanceiraLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLctoReceberNtFinanceiraLista.xaml.cs
+END
+NaturezaFinanceiraPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/NaturezaFinanceiraPrincipal.xaml
+END
+FinParcelaRecebimento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaRecebimento.xaml.cs
+END
+FinTipoRecebimentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinTipoRecebimentoPrincipal.xaml
+END
+FinParcelaReceberLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaReceberLista.xaml
+END
+FinConfiguracaoBoletoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinConfiguracaoBoletoLista.xaml
+END
+PlanoNaturezaFinanceiraLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/PlanoNaturezaFinanceiraLista.xaml
+END
+ViewFinLancamentoReceber.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/ViewFinLancamentoReceber.xaml.cs
+END
+NaturezaFinanceiraLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/NaturezaFinanceiraLista.xaml
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/Login.xaml
+END
+FinStatusParcela.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinStatusParcela.xaml
+END
+PlanoNaturezaFinanceiraPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/PlanoNaturezaFinanceiraPrincipal.xaml.cs
+END
+NaturezaFinanceira.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/NaturezaFinanceira.xaml
+END
+FinStatusParcelaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinStatusParcelaLista.xaml.cs
+END
+NaturezaFinanceiraLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/NaturezaFinanceiraLista.xaml.cs
+END
+FinLancamentoReceberPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLancamentoReceberPrincipal.xaml.cs
+END
+ContasReceberPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/ContasReceberPrincipal.xaml
+END
+FinTipoRecebimentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinTipoRecebimentoLista.xaml
+END
+FinTipoRecebimento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinTipoRecebimento.xaml
+END
+FinTipoRecebimentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinTipoRecebimentoLista.xaml.cs
+END
+FinParcelaRecebimentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaRecebimentoPrincipal.xaml.cs
+END
+FinParcelaReceber.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaReceber.xaml
+END
+FinParcelaReceberLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinParcelaReceberLista.xaml.cs
+END
+PlanoNaturezaFinanceira.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/PlanoNaturezaFinanceira.xaml.cs
+END
+ViewFinLancamentoReceberPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/ViewFinLancamentoReceberPrincipal.xaml.cs
+END
+FinConfiguracaoBoletoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinConfiguracaoBoletoPrincipal.xaml.cs
+END
+FinLctoReceberNtFinanceiraPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLctoReceberNtFinanceiraPrincipal.xaml
+END
+FinLctoReceberNtFinanceira.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLctoReceberNtFinanceira.xaml.cs
+END
+NaturezaFinanceira.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/NaturezaFinanceira.xaml.cs
+END
+FinLctoReceberNtFinanceiraPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/ContasReceberClient/View/ContasReceber/FinLctoReceberNtFinanceiraPrincipal.xaml.cs
+END

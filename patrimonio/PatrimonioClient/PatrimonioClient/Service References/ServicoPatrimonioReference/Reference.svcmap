@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4a321a23-a8db-49d7-95da-75431e1908cd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/PatrimonioService/ServicoPatrimonio.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoPatrimonio.xsd" MetadataType="Schema" ID="e9d9795e-3c6c-4ace-b1f5-d8d587c7700a" SourceId="1" SourceUrl="http://localhost/PatrimonioService/ServicoPatrimonio.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicoPatrimonio1.xsd" MetadataType="Schema" ID="595f71aa-6349-414a-9bae-dfab2f8b0d8d" SourceId="1" SourceUrl="http://localhost/PatrimonioService/ServicoPatrimonio.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicoPatrimonio.disco" MetadataType="Disco" ID="f52fd26c-90fd-4a91-8f94-894fb7b94b3b" SourceId="1" SourceUrl="http://localhost/PatrimonioService/ServicoPatrimonio.svc?disco" />
+    <MetadataFile FileName="ServicoPatrimonio.wsdl" MetadataType="Wsdl" ID="4aaeaad7-b9dc-4cd0-841b-15a64cf83097" SourceId="1" SourceUrl="http://localhost/PatrimonioService/ServicoPatrimonio.svc?wsdl" />
+    <MetadataFile FileName="ServicoPatrimonio2.xsd" MetadataType="Schema" ID="da37380e-60ff-4fa6-a467-1e7e0e09fd53" SourceId="1" SourceUrl="http://localhost/PatrimonioService/ServicoPatrimonio.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

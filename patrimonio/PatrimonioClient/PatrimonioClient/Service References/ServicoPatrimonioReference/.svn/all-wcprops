@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimTipoAquisicaoBemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimTipoAquisicaoBemDTO.datasource
+END
+ServicoPatrimonio.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/ServicoPatrimonio.wsdl
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/Reference.svcmap
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimApoliceSeguroDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimApoliceSeguroDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.ViewControleAcessoDTO.datasource
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/configuration91.svcinfo
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimEstadoConservacaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimEstadoConservacaoDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimBemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimBemDTO.datasource
+END
+ServicoPatrimonio1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/ServicoPatrimonio1.xsd
+END
+ServicoPatrimonio2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/ServicoPatrimonio2.xsd
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimMovimentacaoBemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimMovimentacaoBemDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimIndiceAtualizacaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimIndiceAtualizacaoDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.FornecedorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.FornecedorDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.ColaboradorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.ColaboradorDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.UsuarioDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/Reference.cs
+END
+PatrimonioClient.ServicoPatrimonioReference.PessoaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PessoaDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimTaxaDepreciacaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimTaxaDepreciacaoDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimTipoMovimentacaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimTipoMovimentacaoDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.SetorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.SetorDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.SeguradoraDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.SeguradoraDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimGrupoBemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimGrupoBemDTO.datasource
+END
+PatrimonioClient.ServicoPatrimonioReference.PatrimDepreciacaoBemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/PatrimonioClient.ServicoPatrimonioReference.PatrimDepreciacaoBemDTO.datasource
+END
+ServicoPatrimonio.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/ServicoPatrimonio.xsd
+END
+ServicoPatrimonio.disco
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/ServicoPatrimonio.disco
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Service%20References/ServicoPatrimonioReference/configuration.svcinfo
+END

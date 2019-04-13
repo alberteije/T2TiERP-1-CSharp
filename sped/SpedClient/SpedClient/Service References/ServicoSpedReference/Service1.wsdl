@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicoSped" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/SpedService/ServicoSped.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/SpedService/ServicoSped.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost/SpedService/ServicoSped.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SpedService.Model" />
+      <xsd:import schemaLocation="http://localhost/SpedService/ServicoSped.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.IO" />
+      <xsd:import schemaLocation="http://localhost/SpedService/ServicoSped.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/System" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicoSped_selectNfeTransportePagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeTransportePagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeTransportePagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeTransportePaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeDetalhe_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDetalhe" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeDetalhe_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDetalheResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeDetalhePagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDetalhePagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeDetalhePagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDetalhePaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewPessoaContador_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewPessoaContador" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewPessoaContador_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewPessoaContadorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewPessoaContadorPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewPessoaContadorPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewPessoaContadorPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewPessoaContadorPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectUsuario" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectControleAcesso_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectControleAcesso" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectControleAcesso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectControleAcessoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC390Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC390Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC390Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC390PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC425_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC425" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC425_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC425Response" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC425Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC425Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC425Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC425PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC490_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC490" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC490_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC490Response" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC490Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC490Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC490Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC490PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfR02_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfR02" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfR02_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfR02Response" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfR02Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfR02Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfR02Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfR02PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfR03_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfR03" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfR03_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfR03Response" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfR03Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfR03Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfR03Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfR03PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfVendaCabecalho_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfVendaCabecalho" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfVendaCabecalho_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfVendaCabecalhoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfVendaCabecalhoPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfVendaCabecalhoPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfVendaCabecalhoPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfVendaCabecalhoPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfVendaDetalhe_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfVendaDetalhe" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfVendaDetalhe_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfVendaDetalheResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfVendaDetalhePagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfVendaDetalhePagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfVendaDetalhePagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfVendaDetalhePaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectFiscalApuracaoIcms_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectFiscalApuracaoIcms" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectFiscalApuracaoIcms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectFiscalApuracaoIcmsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectFiscalApuracaoIcmsPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectFiscalApuracaoIcmsPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectFiscalApuracaoIcmsPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectFiscalApuracaoIcmsPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectProdutoAlteracaoItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectProdutoAlteracaoItem" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectProdutoAlteracaoItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectProdutoAlteracaoItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectProdutoAlteracaoItemPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectProdutoAlteracaoItemPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectProdutoAlteracaoItemPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectProdutoAlteracaoItemPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeEmitente_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeEmitente" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeEmitente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeEmitenteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeEmitentePagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeEmitentePagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeEmitentePagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeEmitentePaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeDestinatario_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDestinatario" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeDestinatario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDestinatarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeDestinatarioPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDestinatarioPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeDestinatarioPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeDestinatarioPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeItem" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeItemPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeItemPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedNfeItemPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedNfeItemPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUnidadeConversao_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectUnidadeConversao" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUnidadeConversao_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectUnidadeConversaoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUnidadeConversaoPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectUnidadeConversaoPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUnidadeConversaoPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectUnidadeConversaoPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectTributOperacaoFiscal_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectTributOperacaoFiscal" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectTributOperacaoFiscal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectTributOperacaoFiscalResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectTributOperacaoFiscalPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectTributOperacaoFiscalPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectTributOperacaoFiscalPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectTributOperacaoFiscalPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeTransporte_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeTransporte" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeTransporte_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeTransporteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_gerarSped_InputMessage">
+    <wsdl:part name="parameters" element="tns:gerarSped" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_gerarSped_OutputMessage">
+    <wsdl:part name="parameters" element="tns:gerarSpedResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEmpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEmpresa" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEmpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEmpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEmpresaPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEmpresaPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEmpresaPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEmpresaPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectContador_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectContador" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectContador_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectContadorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectContadorPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectContadorPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectContadorPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectContadorPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUnidadeProduto_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectUnidadeProduto" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUnidadeProduto_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectUnidadeProdutoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUnidadeProdutoPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectUnidadeProdutoPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectUnidadeProdutoPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectUnidadeProdutoPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectProduto_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectProduto" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectProduto_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectProdutoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectProdutoPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectProdutoPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectProdutoPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectProdutoPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectCliente" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectClientePagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectClientePagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectClientePagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectClientePaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfImpressora_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfImpressora" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfImpressora_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfImpressoraResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfImpressoraPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfImpressoraPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfImpressoraPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfImpressoraPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfNotaFiscalCabecalho_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfNotaFiscalCabecalho" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfNotaFiscalCabecalho_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfNotaFiscalCabecalhoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfNotaFiscalCabecalhoPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfNotaFiscalCabecalhoPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectEcfNotaFiscalCabecalhoPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEcfNotaFiscalCabecalhoPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeCabecalho_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeCabecalho" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeCabecalho_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeCabecalhoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeCabecalhoPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeCabecalhoPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeCabecalhoPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeCabecalhoPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeCupomFiscalReferenciado_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeCupomFiscalReferenciado" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeCupomFiscalReferenciado_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeCupomFiscalReferenciadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeCupomFiscalReferenciadoPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeCupomFiscalReferenciadoPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectNfeCupomFiscalReferenciadoPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNfeCupomFiscalReferenciadoPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC190_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC190" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC190_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC190Response" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC190Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC190Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC190Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC190PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC300_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC300" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC300_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC300Response" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC300Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC300Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC300Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC300PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC321_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC321" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC321_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC321Response" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC321Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC321Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC321Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC321PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC370_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC370" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC370_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC370Response" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC370Pagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC370Pagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC370Pagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC370PaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC390_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC390" />
+  </wsdl:message>
+  <wsdl:message name="IServicoSped_selectViewSpedC390_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewSpedC390Response" />
+  </wsdl:message>
+  <wsdl:portType name="IServicoSped">
+    <wsdl:operation name="selectNfeTransportePagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectNfeTransportePagina" message="tns:IServicoSped_selectNfeTransportePagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectNfeTransportePaginaResponse" message="tns:IServicoSped_selectNfeTransportePagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDetalhe">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeDetalhe" message="tns:IServicoSped_selectViewSpedNfeDetalhe_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeDetalheResponse" message="tns:IServicoSped_selectViewSpedNfeDetalhe_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDetalhePagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeDetalhePagina" message="tns:IServicoSped_selectViewSpedNfeDetalhePagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeDetalhePaginaResponse" message="tns:IServicoSped_selectViewSpedNfeDetalhePagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewPessoaContador">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewPessoaContador" message="tns:IServicoSped_selectViewPessoaContador_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewPessoaContadorResponse" message="tns:IServicoSped_selectViewPessoaContador_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewPessoaContadorPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewPessoaContadorPagina" message="tns:IServicoSped_selectViewPessoaContadorPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewPessoaContadorPaginaResponse" message="tns:IServicoSped_selectViewPessoaContadorPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectUsuario" message="tns:IServicoSped_selectUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectUsuarioResponse" message="tns:IServicoSped_selectUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectControleAcesso">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectControleAcesso" message="tns:IServicoSped_selectControleAcesso_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectControleAcessoResponse" message="tns:IServicoSped_selectControleAcesso_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC390Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC390Pagina" message="tns:IServicoSped_selectViewSpedC390Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC390PaginaResponse" message="tns:IServicoSped_selectViewSpedC390Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC425">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC425" message="tns:IServicoSped_selectViewSpedC425_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC425Response" message="tns:IServicoSped_selectViewSpedC425_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC425Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC425Pagina" message="tns:IServicoSped_selectViewSpedC425Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC425PaginaResponse" message="tns:IServicoSped_selectViewSpedC425Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC490">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC490" message="tns:IServicoSped_selectViewSpedC490_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC490Response" message="tns:IServicoSped_selectViewSpedC490_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC490Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC490Pagina" message="tns:IServicoSped_selectViewSpedC490Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC490PaginaResponse" message="tns:IServicoSped_selectViewSpedC490Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfR02">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfR02" message="tns:IServicoSped_selectEcfR02_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfR02Response" message="tns:IServicoSped_selectEcfR02_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfR02Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfR02Pagina" message="tns:IServicoSped_selectEcfR02Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfR02PaginaResponse" message="tns:IServicoSped_selectEcfR02Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfR03">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfR03" message="tns:IServicoSped_selectEcfR03_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfR03Response" message="tns:IServicoSped_selectEcfR03_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfR03Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfR03Pagina" message="tns:IServicoSped_selectEcfR03Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfR03PaginaResponse" message="tns:IServicoSped_selectEcfR03Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfVendaCabecalho">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfVendaCabecalho" message="tns:IServicoSped_selectEcfVendaCabecalho_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfVendaCabecalhoResponse" message="tns:IServicoSped_selectEcfVendaCabecalho_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfVendaCabecalhoPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfVendaCabecalhoPagina" message="tns:IServicoSped_selectEcfVendaCabecalhoPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfVendaCabecalhoPaginaResponse" message="tns:IServicoSped_selectEcfVendaCabecalhoPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfVendaDetalhe">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfVendaDetalhe" message="tns:IServicoSped_selectEcfVendaDetalhe_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfVendaDetalheResponse" message="tns:IServicoSped_selectEcfVendaDetalhe_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfVendaDetalhePagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfVendaDetalhePagina" message="tns:IServicoSped_selectEcfVendaDetalhePagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfVendaDetalhePaginaResponse" message="tns:IServicoSped_selectEcfVendaDetalhePagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectFiscalApuracaoIcms">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectFiscalApuracaoIcms" message="tns:IServicoSped_selectFiscalApuracaoIcms_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectFiscalApuracaoIcmsResponse" message="tns:IServicoSped_selectFiscalApuracaoIcms_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectFiscalApuracaoIcmsPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectFiscalApuracaoIcmsPagina" message="tns:IServicoSped_selectFiscalApuracaoIcmsPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectFiscalApuracaoIcmsPaginaResponse" message="tns:IServicoSped_selectFiscalApuracaoIcmsPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectProdutoAlteracaoItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectProdutoAlteracaoItem" message="tns:IServicoSped_selectProdutoAlteracaoItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectProdutoAlteracaoItemResponse" message="tns:IServicoSped_selectProdutoAlteracaoItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectProdutoAlteracaoItemPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectProdutoAlteracaoItemPagina" message="tns:IServicoSped_selectProdutoAlteracaoItemPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectProdutoAlteracaoItemPaginaResponse" message="tns:IServicoSped_selectProdutoAlteracaoItemPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeEmitente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeEmitente" message="tns:IServicoSped_selectViewSpedNfeEmitente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeEmitenteResponse" message="tns:IServicoSped_selectViewSpedNfeEmitente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeEmitentePagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeEmitentePagina" message="tns:IServicoSped_selectViewSpedNfeEmitentePagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeEmitentePaginaResponse" message="tns:IServicoSped_selectViewSpedNfeEmitentePagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDestinatario">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeDestinatario" message="tns:IServicoSped_selectViewSpedNfeDestinatario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeDestinatarioResponse" message="tns:IServicoSped_selectViewSpedNfeDestinatario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDestinatarioPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeDestinatarioPagina" message="tns:IServicoSped_selectViewSpedNfeDestinatarioPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeDestinatarioPaginaResponse" message="tns:IServicoSped_selectViewSpedNfeDestinatarioPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeItem" message="tns:IServicoSped_selectViewSpedNfeItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeItemResponse" message="tns:IServicoSped_selectViewSpedNfeItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeItemPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeItemPagina" message="tns:IServicoSped_selectViewSpedNfeItemPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedNfeItemPaginaResponse" message="tns:IServicoSped_selectViewSpedNfeItemPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectUnidadeConversao">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectUnidadeConversao" message="tns:IServicoSped_selectUnidadeConversao_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectUnidadeConversaoResponse" message="tns:IServicoSped_selectUnidadeConversao_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectUnidadeConversaoPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectUnidadeConversaoPagina" message="tns:IServicoSped_selectUnidadeConversaoPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectUnidadeConversaoPaginaResponse" message="tns:IServicoSped_selectUnidadeConversaoPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectTributOperacaoFiscal">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectTributOperacaoFiscal" message="tns:IServicoSped_selectTributOperacaoFiscal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectTributOperacaoFiscalResponse" message="tns:IServicoSped_selectTributOperacaoFiscal_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectTributOperacaoFiscalPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectTributOperacaoFiscalPagina" message="tns:IServicoSped_selectTributOperacaoFiscalPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectTributOperacaoFiscalPaginaResponse" message="tns:IServicoSped_selectTributOperacaoFiscalPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeTransporte">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectNfeTransporte" message="tns:IServicoSped_selectNfeTransporte_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectNfeTransporteResponse" message="tns:IServicoSped_selectNfeTransporte_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="gerarSped">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/gerarSped" message="tns:IServicoSped_gerarSped_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/gerarSpedResponse" message="tns:IServicoSped_gerarSped_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEmpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEmpresa" message="tns:IServicoSped_selectEmpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEmpresaResponse" message="tns:IServicoSped_selectEmpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEmpresaPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEmpresaPagina" message="tns:IServicoSped_selectEmpresaPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEmpresaPaginaResponse" message="tns:IServicoSped_selectEmpresaPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectContador">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectContador" message="tns:IServicoSped_selectContador_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectContadorResponse" message="tns:IServicoSped_selectContador_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectContadorPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectContadorPagina" message="tns:IServicoSped_selectContadorPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectContadorPaginaResponse" message="tns:IServicoSped_selectContadorPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectUnidadeProduto">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectUnidadeProduto" message="tns:IServicoSped_selectUnidadeProduto_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectUnidadeProdutoResponse" message="tns:IServicoSped_selectUnidadeProduto_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectUnidadeProdutoPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectUnidadeProdutoPagina" message="tns:IServicoSped_selectUnidadeProdutoPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectUnidadeProdutoPaginaResponse" message="tns:IServicoSped_selectUnidadeProdutoPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectProduto">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectProduto" message="tns:IServicoSped_selectProduto_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectProdutoResponse" message="tns:IServicoSped_selectProduto_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectProdutoPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectProdutoPagina" message="tns:IServicoSped_selectProdutoPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectProdutoPaginaResponse" message="tns:IServicoSped_selectProdutoPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectCliente" message="tns:IServicoSped_selectCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectClienteResponse" message="tns:IServicoSped_selectCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectClientePagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectClientePagina" message="tns:IServicoSped_selectClientePagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectClientePaginaResponse" message="tns:IServicoSped_selectClientePagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfImpressora">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfImpressora" message="tns:IServicoSped_selectEcfImpressora_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfImpressoraResponse" message="tns:IServicoSped_selectEcfImpressora_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfImpressoraPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfImpressoraPagina" message="tns:IServicoSped_selectEcfImpressoraPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfImpressoraPaginaResponse" message="tns:IServicoSped_selectEcfImpressoraPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfNotaFiscalCabecalho">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfNotaFiscalCabecalho" message="tns:IServicoSped_selectEcfNotaFiscalCabecalho_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfNotaFiscalCabecalhoResponse" message="tns:IServicoSped_selectEcfNotaFiscalCabecalho_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfNotaFiscalCabecalhoPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectEcfNotaFiscalCabecalhoPagina" message="tns:IServicoSped_selectEcfNotaFiscalCabecalhoPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectEcfNotaFiscalCabecalhoPaginaResponse" message="tns:IServicoSped_selectEcfNotaFiscalCabecalhoPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeCabecalho">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectNfeCabecalho" message="tns:IServicoSped_selectNfeCabecalho_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectNfeCabecalhoResponse" message="tns:IServicoSped_selectNfeCabecalho_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeCabecalhoPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectNfeCabecalhoPagina" message="tns:IServicoSped_selectNfeCabecalhoPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectNfeCabecalhoPaginaResponse" message="tns:IServicoSped_selectNfeCabecalhoPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeCupomFiscalReferenciado">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectNfeCupomFiscalReferenciado" message="tns:IServicoSped_selectNfeCupomFiscalReferenciado_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectNfeCupomFiscalReferenciadoResponse" message="tns:IServicoSped_selectNfeCupomFiscalReferenciado_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeCupomFiscalReferenciadoPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectNfeCupomFiscalReferenciadoPagina" message="tns:IServicoSped_selectNfeCupomFiscalReferenciadoPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectNfeCupomFiscalReferenciadoPaginaResponse" message="tns:IServicoSped_selectNfeCupomFiscalReferenciadoPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC190">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC190" message="tns:IServicoSped_selectViewSpedC190_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC190Response" message="tns:IServicoSped_selectViewSpedC190_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC190Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC190Pagina" message="tns:IServicoSped_selectViewSpedC190Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC190PaginaResponse" message="tns:IServicoSped_selectViewSpedC190Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC300">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC300" message="tns:IServicoSped_selectViewSpedC300_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC300Response" message="tns:IServicoSped_selectViewSpedC300_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC300Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC300Pagina" message="tns:IServicoSped_selectViewSpedC300Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC300PaginaResponse" message="tns:IServicoSped_selectViewSpedC300Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC321">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC321" message="tns:IServicoSped_selectViewSpedC321_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC321Response" message="tns:IServicoSped_selectViewSpedC321_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC321Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC321Pagina" message="tns:IServicoSped_selectViewSpedC321Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC321PaginaResponse" message="tns:IServicoSped_selectViewSpedC321Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC370">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC370" message="tns:IServicoSped_selectViewSpedC370_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC370Response" message="tns:IServicoSped_selectViewSpedC370_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC370Pagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC370Pagina" message="tns:IServicoSped_selectViewSpedC370Pagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC370PaginaResponse" message="tns:IServicoSped_selectViewSpedC370Pagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC390">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC390" message="tns:IServicoSped_selectViewSpedC390_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoSped/selectViewSpedC390Response" message="tns:IServicoSped_selectViewSpedC390_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicoSped" type="tns:IServicoSped">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="selectNfeTransportePagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectNfeTransportePagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDetalhe">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedNfeDetalhe" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDetalhePagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedNfeDetalhePagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewPessoaContador">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewPessoaContador" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewPessoaContadorPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewPessoaContadorPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectUsuario">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectControleAcesso">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectControleAcesso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC390Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC390Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC425">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC425" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC425Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC425Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC490">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC490" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC490Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC490Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfR02">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfR02" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfR02Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfR02Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfR03">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfR03" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfR03Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfR03Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfVendaCabecalho">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfVendaCabecalho" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfVendaCabecalhoPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfVendaCabecalhoPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfVendaDetalhe">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfVendaDetalhe" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfVendaDetalhePagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfVendaDetalhePagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectFiscalApuracaoIcms">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectFiscalApuracaoIcms" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectFiscalApuracaoIcmsPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectFiscalApuracaoIcmsPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectProdutoAlteracaoItem">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectProdutoAlteracaoItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectProdutoAlteracaoItemPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectProdutoAlteracaoItemPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeEmitente">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedNfeEmitente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeEmitentePagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedNfeEmitentePagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDestinatario">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedNfeDestinatario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeDestinatarioPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedNfeDestinatarioPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeItem">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedNfeItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedNfeItemPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedNfeItemPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectUnidadeConversao">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectUnidadeConversao" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectUnidadeConversaoPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectUnidadeConversaoPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectTributOperacaoFiscal">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectTributOperacaoFiscal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectTributOperacaoFiscalPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectTributOperacaoFiscalPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeTransporte">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectNfeTransporte" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="gerarSped">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/gerarSped" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEmpresa">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEmpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEmpresaPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEmpresaPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectContador">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectContador" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectContadorPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectContadorPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectUnidadeProduto">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectUnidadeProduto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectUnidadeProdutoPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectUnidadeProdutoPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectProduto">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectProduto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectProdutoPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectProdutoPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectCliente">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectClientePagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectClientePagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfImpressora">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfImpressora" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfImpressoraPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfImpressoraPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfNotaFiscalCabecalho">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfNotaFiscalCabecalho" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectEcfNotaFiscalCabecalhoPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectEcfNotaFiscalCabecalhoPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeCabecalho">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectNfeCabecalho" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeCabecalhoPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectNfeCabecalhoPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeCupomFiscalReferenciado">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectNfeCupomFiscalReferenciado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNfeCupomFiscalReferenciadoPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectNfeCupomFiscalReferenciadoPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC190">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC190" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC190Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC190Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC300">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC300" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC300Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC300Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC321">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC321" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC321Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC321Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC370">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC370" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC370Pagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC370Pagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewSpedC390">
+      <soap:operation soapAction="http://tempuri.org/IServicoSped/selectViewSpedC390" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicoSped">
+    <wsdl:port name="BasicHttpBinding_IServicoSped" binding="tns:BasicHttpBinding_IServicoSped">
+      <soap:address location="http://localhost/SpedService/ServicoSped.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

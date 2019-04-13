@@ -1,0 +1,15 @@
+C:\Documents and Settings\T2Ti\Desktop\VS2010\NFeService\NFeService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Desktop\VS2010\NFeService\NFeService\bin\NFeService.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\NFeService\NFeService\bin\NFeService.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\NFeService\NFeService\obj\Debug\NFeService.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\NFeService\NFeService\obj\Debug\NFeService.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\NFeService\NFeService\bin\NFeService.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\NFeService\NFeService\bin\NFeService.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\NFeService\NFeService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\NFeService\NFeService\obj\Debug\NFeService.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\NFeService\NFeService\obj\Debug\NFeService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\NFeService\NFeService\bin\NFeService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\NFeService\NFeService\bin\NFeService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\NFeService\NFeService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\NFeService\NFeService\obj\Debug\NFeService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\NFeService\NFeService\obj\Debug\NFeService.pdb

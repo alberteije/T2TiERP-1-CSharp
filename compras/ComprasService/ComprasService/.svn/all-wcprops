@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService
+END
+ComprasService.svc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/ComprasService.svc
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Web.Release.config
+END
+ComprasService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/ComprasService.csproj.user
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Web.config
+END
+IComprasService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/IComprasService.cs
+END
+ComprasService.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/ComprasService.svc.cs
+END
+ComprasService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/ComprasService.csproj
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasService/ComprasService/Web.Debug.config
+END

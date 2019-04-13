@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model
+END
+ViewTributacaoPisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ViewTributacaoPisDTO.hbm.xml
+END
+AlmoxarifadoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/AlmoxarifadoDTO.cs
+END
+ProdutoGrupoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ProdutoGrupoDTO.cs
+END
+ProdutoGrupoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ProdutoGrupoDTO.hbm.xml
+END
+NFeFaturaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeFaturaDTO.cs
+END
+NfeDetalheImpostoCofinsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoCofinsDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ViewControleAcessoDTO.cs
+END
+EstoqueReajusteDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueReajusteDetalheDTO.cs
+END
+ClienteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ClienteDTO.hbm.xml
+END
+EnderecoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EnderecoDTO.cs
+END
+NfeDetalheImpostoIcmsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoIcmsDTO.cs
+END
+FornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/FornecedorDTO.cs
+END
+TributIcmsCustomCabDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/TributIcmsCustomCabDTO.cs
+END
+NfeDetalheImpostoIssqnDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoIssqnDTO.hbm.xml
+END
+EstoqueContagemDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueContagemDetalheDTO.hbm.xml
+END
+TributGrupoTributarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/TributGrupoTributarioDTO.cs
+END
+ProdutoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ProdutoDTO.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EmpresaDTO.hbm.xml
+END
+NFeCupomFiscalDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeCupomFiscalDTO.cs
+END
+NFeLocalRetiradaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeLocalRetiradaDTO.hbm.xml
+END
+NFeDuplicataDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeDuplicataDTO.cs
+END
+ViewTributacaoIcmsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ViewTributacaoIcmsDTO.hbm.xml
+END
+ViewTributacaoPisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ViewTributacaoPisDTO.cs
+END
+TributOperacaoFiscalDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/TributOperacaoFiscalDTO.cs
+END
+TributOperacaoFiscalDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/TributOperacaoFiscalDTO.hbm.xml
+END
+AlmoxarifadoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/AlmoxarifadoDTO.hbm.xml
+END
+RequisicaoInternaCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/RequisicaoInternaCabecalhoDTO.cs
+END
+EstoqueReajusteCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueReajusteCabecalhoDTO.cs
+END
+NfeDetalheImpostoIpiDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoIpiDTO.hbm.xml
+END
+RequisicaoInternaDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/RequisicaoInternaDetalheDTO.hbm.xml
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ViewControleAcessoDTO.hbm.xml
+END
+NFeDestinatarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeDestinatarioDTO.cs
+END
+ProdutoSubGrupoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ProdutoSubGrupoDTO.cs
+END
+NfeDetalheImpostoPisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoPisDTO.cs
+END
+NfeDetalheImpostoIcmsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoIcmsDTO.hbm.xml
+END
+FornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/FornecedorDTO.hbm.xml
+END
+TributIcmsCustomCabDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/TributIcmsCustomCabDTO.hbm.xml
+END
+ColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ColaboradorDTO.hbm.xml
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/UsuarioDTO.hbm.xml
+END
+NfeDetalheImpostoIssqnDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoIssqnDTO.cs
+END
+NFeTransporteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeTransporteDTO.cs
+END
+ViewTributacaoCofinsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ViewTributacaoCofinsDTO.cs
+END
+NfeDetalheImpostoIiDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoIiDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EmpresaDTO.cs
+END
+NFeCupomFiscalDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeCupomFiscalDTO.hbm.xml
+END
+NFeDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeDetalheDTO.cs
+END
+ProdutoMarcaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ProdutoMarcaDTO.hbm.xml
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/IDAL.cs
+END
+NFeEmitenteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeEmitenteDTO.hbm.xml
+END
+ViewTributacaoIcmsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ViewTributacaoIcmsDTO.cs
+END
+EstoqueReajusteCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueReajusteCabecalhoDTO.hbm.xml
+END
+NFeFaturaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeFaturaDTO.hbm.xml
+END
+NfeDetalheImpostoIpiDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoIpiDTO.cs
+END
+RequisicaoInternaDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/RequisicaoInternaDetalheDTO.cs
+END
+EstoqueReajusteDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueReajusteDetalheDTO.hbm.xml
+END
+ClienteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ClienteDTO.cs
+END
+EstoqueContagemCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueContagemCabecalhoDTO.hbm.xml
+END
+EstoqueContagemCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueContagemCabecalhoDTO.cs
+END
+NfeDetalheImpostoPisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoPisDTO.hbm.xml
+END
+UnidadeProdutoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/UnidadeProdutoDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NHibernateDAL.cs
+END
+NFeLocalEntregaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeLocalEntregaDTO.hbm.xml
+END
+NFeLocalEntregaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeLocalEntregaDTO.cs
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/PessoaDTO.cs
+END
+NFeTransporteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeTransporteDTO.hbm.xml
+END
+NFeCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeCabecalhoDTO.cs
+END
+ViewTributacaoCofinsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ViewTributacaoCofinsDTO.hbm.xml
+END
+TributGrupoTributarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/TributGrupoTributarioDTO.hbm.xml
+END
+NfeDetalheImpostoIiDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoIiDTO.cs
+END
+NFeLocalRetiradaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeLocalRetiradaDTO.cs
+END
+NFeDuplicataDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeDuplicataDTO.hbm.xml
+END
+ProdutoMarcaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ProdutoMarcaDTO.cs
+END
+RequisicaoInternaCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/RequisicaoInternaCabecalhoDTO.hbm.xml
+END
+NfeDetalheImpostoCofinsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NfeDetalheImpostoCofinsDTO.hbm.xml
+END
+NcmDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NcmDTO.hbm.xml
+END
+NcmDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NcmDTO.cs
+END
+NFeDestinatarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeDestinatarioDTO.hbm.xml
+END
+ProdutoSubGrupoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ProdutoSubGrupoDTO.hbm.xml
+END
+EnderecoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EnderecoDTO.hbm.xml
+END
+EstoqueDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueDTO.cs
+END
+EstoqueDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueDTO.hbm.xml
+END
+UnidadeProdutoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/UnidadeProdutoDTO.hbm.xml
+END
+ColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ColaboradorDTO.cs
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/UsuarioDTO.cs
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/PessoaDTO.hbm.xml
+END
+EstoqueContagemDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/EstoqueContagemDetalheDTO.cs
+END
+NFeCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeCabecalhoDTO.hbm.xml
+END
+ProdutoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/ProdutoDTO.hbm.xml
+END
+NFeDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeDetalheDTO.hbm.xml
+END
+NFeEmitenteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Model/NFeEmitenteDTO.cs
+END

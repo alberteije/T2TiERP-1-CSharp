@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoLiquidacao
+END
+CodigoLiquidacao_BancoBrasil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoLiquidacao/CodigoLiquidacao_BancoBrasil.cs
+END
+CodigoLiquidacao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoLiquidacao/CodigoLiquidacao.cs
+END
+CodigoLiquidacao_Itau.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoLiquidacao/CodigoLiquidacao_Itau.cs
+END
+AbstractCodigoLiquidacao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoLiquidacao/AbstractCodigoLiquidacao.cs
+END
+ICodigoLiquidacao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoLiquidacao/ICodigoLiquidacao.cs
+END

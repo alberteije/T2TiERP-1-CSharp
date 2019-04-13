@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas
+END
+enviCte_v1.02.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/enviCte_v1.02.xsd
+END
+consStatServTiposBasico_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/consStatServTiposBasico_v1.01.xsd
+END
+procInutCTe_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/procInutCTe_v1.01.xsd
+END
+cancCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/cancCte_v1.01.xsd
+END
+cancCteTiposBasico_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/cancCteTiposBasico_v1.01.xsd
+END
+procCTe_v1.02.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/procCTe_v1.02.xsd
+END
+consReciCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/consReciCte_v1.01.xsd
+END
+consReciCteTiposBasico_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/consReciCteTiposBasico_v1.01.xsd
+END
+cabecMsg_v1.02.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/cabecMsg_v1.02.xsd
+END
+retConsStatServCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/retConsStatServCte_v1.01.xsd
+END
+retEnviCte_v1.02.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/retEnviCte_v1.02.xsd
+END
+consCad_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/consCad_v1.01.xsd
+END
+inutCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/inutCte_v1.01.xsd
+END
+inutCteTiposBasico_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/inutCteTiposBasico_v1.01.xsd
+END
+retCancCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/retCancCte_v1.01.xsd
+END
+cte_v1.02.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/cte_v1.02.xsd
+END
+cteTiposBasico_v1.02.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/cteTiposBasico_v1.02.xsd
+END
+retConsReciCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/retConsReciCte_v1.01.xsd
+END
+tiposBasicoCTe_v1.02.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/tiposBasicoCTe_v1.02.xsd
+END
+consSitCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/consSitCte_v1.01.xsd
+END
+consSitCteTiposBasico_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/consSitCteTiposBasico_v1.01.xsd
+END
+tiposBasico_v1.02.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/tiposBasico_v1.02.xsd
+END
+leiauteConsultaCadastro_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/leiauteConsultaCadastro_v1.01.xsd
+END
+procCancCTe_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/procCancCTe_v1.01.xsd
+END
+retConsCad_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/retConsCad_v1.01.xsd
+END
+retInutCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/retInutCte_v1.01.xsd
+END
+retConsSitCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/retConsSitCte_v1.01.xsd
+END
+consStatServCte_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/consStatServCte_v1.01.xsd
+END
+xmldsig-core-schema_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Debug/schemas/xmldsig-core-schema_v1.01.xsd
+END

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+       assembly="CadastrosBaseService"
+       namespace="CadastrosBaseService.Model" default-lazy="false">
+<class name="CepDTO" table="cep">
+   <id name="Id" column="ID">
+      <generator class="identity" />
+    </id>
+    <property name="Cep" column="CEP" type="string"/>
+    <property name="Logradouro" column="LOGRADOURO"/>
+    <property name="Complemento" column="COMPLEMENTO"/>
+    <property name="Bairro" column="BAIRRO"/>
+    <property name="Municipio" column="MUNICIPIO"/>
+    <property name="Uf" column="UF"/>
+    <property name="CodigoIbgeMunicipio" column="CODIGO_IBGE_MUNICIPIO"/>
+  </class>
+</hibernate-mapping>

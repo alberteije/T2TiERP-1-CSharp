@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService
+END
+TesourariaClient.TesourariaService.ContaCaixaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaClient.TesourariaService.ContaCaixaDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/configuration91.svcinfo
+END
+TesourariaClient.TesourariaService.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaClient.TesourariaService.ViewControleAcessoDTO.datasource
+END
+TesourariaService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaService.xsd
+END
+TesourariaClient.TesourariaService.FechamentoCaixaBancoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaClient.TesourariaService.FechamentoCaixaBancoDTO.datasource
+END
+TesourariaService.disco
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaService.disco
+END
+TesourariaClient.TesourariaService.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaClient.TesourariaService.UsuarioDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/Reference.cs
+END
+TesourariaClient.TesourariaService.EmpresaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaClient.TesourariaService.EmpresaDTO.datasource
+END
+TesourariaService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaService.wsdl
+END
+TesourariaClient.TesourariaService.ViewFinResumoTesourariaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaClient.TesourariaService.ViewFinResumoTesourariaDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/configuration.svcinfo
+END
+TesourariaService1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaService1.xsd
+END
+TesourariaService2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaClient/TesourariaClient/Service%20References/TesourariaService/TesourariaService2.xsd
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model
+END
+ContaCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/ContaCaixaDTO.hbm.xml
+END
+ContaCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/ContaCaixaDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/ViewControleAcessoDTO.cs
+END
+FechamentoCaixaBancoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/FechamentoCaixaBancoDTO.hbm.xml
+END
+FechamentoCaixaBancoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/FechamentoCaixaBancoDTO.cs
+END
+ResumoTesourariaDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/ResumoTesourariaDAL.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/UsuarioDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/UsuarioDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/NHibernateDAL.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/EmpresaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/EmpresaDTO.cs
+END
+ViewFinResumoTesourariaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/ViewFinResumoTesourariaDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/UsuarioDAL.cs
+END
+ViewFinResumoTesourariaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/ViewFinResumoTesourariaDTO.hbm.xml
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_tesouraria/!svn/ver/3/trunk/TesourariaService/TesourariaService/Model/IDAL.cs
+END

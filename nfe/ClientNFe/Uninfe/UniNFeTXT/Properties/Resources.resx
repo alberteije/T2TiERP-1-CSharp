@@ -1,0 +1,705 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AAMM" xml:space="preserve">
+    <value>AAMM</value>
+  </data>
+  <data name="anoFab" xml:space="preserve">
+    <value>anoFab</value>
+  </data>
+  <data name="anoMod" xml:space="preserve">
+    <value>anoMod</value>
+  </data>
+  <data name="cCor" xml:space="preserve">
+    <value>cCor</value>
+  </data>
+  <data name="cDV" xml:space="preserve">
+    <value>cDV</value>
+  </data>
+  <data name="cEAN" xml:space="preserve">
+    <value>cEAN</value>
+  </data>
+  <data name="cEANTrib" xml:space="preserve">
+    <value>cEANTrib</value>
+  </data>
+  <data name="cEnq" xml:space="preserve">
+    <value>cEnq</value>
+  </data>
+  <data name="CEP" xml:space="preserve">
+    <value>CEP</value>
+  </data>
+  <data name="cExportador" xml:space="preserve">
+    <value>cExportador</value>
+  </data>
+  <data name="cFabricante" xml:space="preserve">
+    <value>cFabricante</value>
+  </data>
+  <data name="CFOP" xml:space="preserve">
+    <value>CFOP</value>
+  </data>
+  <data name="chassi" xml:space="preserve">
+    <value>chassi</value>
+  </data>
+  <data name="clEnq" xml:space="preserve">
+    <value>clEnq</value>
+  </data>
+  <data name="cListServ" xml:space="preserve">
+    <value>cListServ</value>
+  </data>
+  <data name="CM3" xml:space="preserve">
+    <value>CM3</value>
+  </data>
+  <data name="CMKG" xml:space="preserve">
+    <value>CMKG</value>
+  </data>
+  <data name="cMod" xml:space="preserve">
+    <value>cMod</value>
+  </data>
+  <data name="cMun" xml:space="preserve">
+    <value>cMun</value>
+  </data>
+  <data name="cMunFG" xml:space="preserve">
+    <value>cMunFG</value>
+  </data>
+  <data name="CNAE" xml:space="preserve">
+    <value>CNAE</value>
+  </data>
+  <data name="cNF" xml:space="preserve">
+    <value>cNF</value>
+  </data>
+  <data name="CNPJ" xml:space="preserve">
+    <value>CNPJ</value>
+  </data>
+  <data name="CNPJProd" xml:space="preserve">
+    <value>CNPJProd</value>
+  </data>
+  <data name="CODIF" xml:space="preserve">
+    <value>CODIF</value>
+  </data>
+  <data name="condVeic" xml:space="preserve">
+    <value>condVeic</value>
+  </data>
+  <data name="cPais" xml:space="preserve">
+    <value>cPais</value>
+  </data>
+  <data name="CPF" xml:space="preserve">
+    <value>CPF</value>
+  </data>
+  <data name="cProd" xml:space="preserve">
+    <value>cProd</value>
+  </data>
+  <data name="cProdANP" xml:space="preserve">
+    <value>cProdANP</value>
+  </data>
+  <data name="cSelo" xml:space="preserve">
+    <value>cSelo</value>
+  </data>
+  <data name="CST" xml:space="preserve">
+    <value>CST</value>
+  </data>
+  <data name="cUF" xml:space="preserve">
+    <value>cUF</value>
+  </data>
+  <data name="dDesemb" xml:space="preserve">
+    <value>dDesemb</value>
+  </data>
+  <data name="dDI" xml:space="preserve">
+    <value>dDI</value>
+  </data>
+  <data name="dEmi" xml:space="preserve">
+    <value>dEmi</value>
+  </data>
+  <data name="descr" xml:space="preserve">
+    <value>descr</value>
+  </data>
+  <data name="dFab" xml:space="preserve">
+    <value>dFab</value>
+  </data>
+  <data name="dist" xml:space="preserve">
+    <value>dist</value>
+  </data>
+  <data name="dPag" xml:space="preserve">
+    <value>dPag</value>
+  </data>
+  <data name="dSaiEnt" xml:space="preserve">
+    <value>dSaiEnt</value>
+  </data>
+  <data name="dVal" xml:space="preserve">
+    <value>dVal</value>
+  </data>
+  <data name="dVenc" xml:space="preserve">
+    <value>dVenc</value>
+  </data>
+  <data name="esp" xml:space="preserve">
+    <value>esp</value>
+  </data>
+  <data name="espVeic" xml:space="preserve">
+    <value>espVeic</value>
+  </data>
+  <data name="EXTIPI" xml:space="preserve">
+    <value>EXTIPI</value>
+  </data>
+  <data name="finNFe" xml:space="preserve">
+    <value>finNFe</value>
+  </data>
+  <data name="fone" xml:space="preserve">
+    <value>fone</value>
+  </data>
+  <data name="genero" xml:space="preserve">
+    <value>genero</value>
+  </data>
+  <data name="IE" xml:space="preserve">
+    <value>IE</value>
+  </data>
+  <data name="IEST" xml:space="preserve">
+    <value>IEST</value>
+  </data>
+  <data name="IM" xml:space="preserve">
+    <value>IM</value>
+  </data>
+  <data name="indPag" xml:space="preserve">
+    <value>indPag</value>
+  </data>
+  <data name="indProc" xml:space="preserve">
+    <value>indProc</value>
+  </data>
+  <data name="infAdFisco" xml:space="preserve">
+    <value>infAdFisco</value>
+  </data>
+  <data name="infAdProd" xml:space="preserve">
+    <value>infAdProd</value>
+  </data>
+  <data name="infCpl" xml:space="preserve">
+    <value>infCpl</value>
+  </data>
+  <data name="ISUF" xml:space="preserve">
+    <value>ISUF</value>
+  </data>
+  <data name="marca" xml:space="preserve">
+    <value>marca</value>
+  </data>
+  <data name="matr" xml:space="preserve">
+    <value>matr</value>
+  </data>
+  <data name="mod" xml:space="preserve">
+    <value>mod</value>
+  </data>
+  <data name="modBC" xml:space="preserve">
+    <value>modBC</value>
+  </data>
+  <data name="modBCST" xml:space="preserve">
+    <value>modBCST</value>
+  </data>
+  <data name="modFrete" xml:space="preserve">
+    <value>modFrete</value>
+  </data>
+  <data name="msg_001" xml:space="preserve">
+    <value>Conteúdo da primeira linha do arquivo deve ser 'NOTAFISCAL'</value>
+  </data>
+  <data name="nAdicao" xml:space="preserve">
+    <value>nAdicao</value>
+  </data>
+  <data name="natOp" xml:space="preserve">
+    <value>natOp</value>
+  </data>
+  <data name="nCano" xml:space="preserve">
+    <value>nCano</value>
+  </data>
+  <data name="NCM" xml:space="preserve">
+    <value>NCM</value>
+  </data>
+  <data name="nDAR" xml:space="preserve">
+    <value>nDAR</value>
+  </data>
+  <data name="nDI" xml:space="preserve">
+    <value>nDI</value>
+  </data>
+  <data name="nDup" xml:space="preserve">
+    <value>nDup</value>
+  </data>
+  <data name="nFat" xml:space="preserve">
+    <value>nFat</value>
+  </data>
+  <data name="NFref" xml:space="preserve">
+    <value>NFref</value>
+  </data>
+  <data name="nLacre" xml:space="preserve">
+    <value>nLacre</value>
+  </data>
+  <data name="nLote" xml:space="preserve">
+    <value>nLote</value>
+  </data>
+  <data name="nMotor" xml:space="preserve">
+    <value>nMotor</value>
+  </data>
+  <data name="nNF" xml:space="preserve">
+    <value>nNF</value>
+  </data>
+  <data name="nProc" xml:space="preserve">
+    <value>nProc</value>
+  </data>
+  <data name="nro" xml:space="preserve">
+    <value>nro</value>
+  </data>
+  <data name="nSeqAdic" xml:space="preserve">
+    <value>nSeqAdic</value>
+  </data>
+  <data name="nSerie" xml:space="preserve">
+    <value>nSerie</value>
+  </data>
+  <data name="nVol" xml:space="preserve">
+    <value>nVol</value>
+  </data>
+  <data name="orig" xml:space="preserve">
+    <value>orig</value>
+  </data>
+  <data name="pCOFINS" xml:space="preserve">
+    <value>pCOFINS</value>
+  </data>
+  <data name="pesoB" xml:space="preserve">
+    <value>pesoB</value>
+  </data>
+  <data name="pesoL" xml:space="preserve">
+    <value>pesoL</value>
+  </data>
+  <data name="pICMS" xml:space="preserve">
+    <value>pICMS</value>
+  </data>
+  <data name="pICMSRet" xml:space="preserve">
+    <value>pICMSRet</value>
+  </data>
+  <data name="pICMSST" xml:space="preserve">
+    <value>pICMSST</value>
+  </data>
+  <data name="pIPI" xml:space="preserve">
+    <value>pIPI</value>
+  </data>
+  <data name="PISOutr" xml:space="preserve">
+    <value>PISOutr</value>
+  </data>
+  <data name="placa" xml:space="preserve">
+    <value>placa</value>
+  </data>
+  <data name="pMVAST" xml:space="preserve">
+    <value>pMVAST</value>
+  </data>
+  <data name="pot" xml:space="preserve">
+    <value>pot</value>
+  </data>
+  <data name="pPIS" xml:space="preserve">
+    <value>pPIS</value>
+  </data>
+  <data name="pRedBC" xml:space="preserve">
+    <value>pRedBC</value>
+  </data>
+  <data name="pRedBCST" xml:space="preserve">
+    <value>pRedBCST</value>
+  </data>
+  <data name="procEmi" xml:space="preserve">
+    <value>procEmi</value>
+  </data>
+  <data name="qBCProd" xml:space="preserve">
+    <value>qBCProd</value>
+  </data>
+  <data name="qCom" xml:space="preserve">
+    <value>qCom</value>
+  </data>
+  <data name="qLote" xml:space="preserve">
+    <value>qLote</value>
+  </data>
+  <data name="qSelo" xml:space="preserve">
+    <value>qSelo</value>
+  </data>
+  <data name="qTemp" xml:space="preserve">
+    <value>qTemp</value>
+  </data>
+  <data name="qTrib" xml:space="preserve">
+    <value>qTrib</value>
+  </data>
+  <data name="qUnid" xml:space="preserve">
+    <value>qUnid</value>
+  </data>
+  <data name="qVol" xml:space="preserve">
+    <value>qVol</value>
+  </data>
+  <data name="refNFe" xml:space="preserve">
+    <value>refNFe</value>
+  </data>
+  <data name="RENAVAM" xml:space="preserve">
+    <value>RENAVAM</value>
+  </data>
+  <data name="repEmi" xml:space="preserve">
+    <value>repEmi</value>
+  </data>
+  <data name="RNTC" xml:space="preserve">
+    <value>RNTC</value>
+  </data>
+  <data name="serie" xml:space="preserve">
+    <value>serie</value>
+  </data>
+  <data name="tpAmb" xml:space="preserve">
+    <value>tpAmb</value>
+  </data>
+  <data name="tpArma" xml:space="preserve">
+    <value>tpArma</value>
+  </data>
+  <data name="tpComb" xml:space="preserve">
+    <value>tpComb</value>
+  </data>
+  <data name="tpEmis" xml:space="preserve">
+    <value>tpEmis</value>
+  </data>
+  <data name="tpImp" xml:space="preserve">
+    <value>tpImp</value>
+  </data>
+  <data name="tpNF" xml:space="preserve">
+    <value>tpNF</value>
+  </data>
+  <data name="tpOp" xml:space="preserve">
+    <value>tpOp</value>
+  </data>
+  <data name="tpPint" xml:space="preserve">
+    <value>tpPint</value>
+  </data>
+  <data name="tpVeic" xml:space="preserve">
+    <value>tpVeic</value>
+  </data>
+  <data name="uCom" xml:space="preserve">
+    <value>uCom</value>
+  </data>
+  <data name="UF" xml:space="preserve">
+    <value>UF</value>
+  </data>
+  <data name="UFcons" xml:space="preserve">
+    <value>UFcons</value>
+  </data>
+  <data name="UFDesemb" xml:space="preserve">
+    <value>UFDesemb</value>
+  </data>
+  <data name="UFEmbarq" xml:space="preserve">
+    <value>UFEmbarq</value>
+  </data>
+  <data name="uTrib" xml:space="preserve">
+    <value>uTrib</value>
+  </data>
+  <data name="vAliq" xml:space="preserve">
+    <value>vAliq</value>
+  </data>
+  <data name="vAliqProd" xml:space="preserve">
+    <value>vAliqProd</value>
+  </data>
+  <data name="vBC" xml:space="preserve">
+    <value>vBC</value>
+  </data>
+  <data name="vBCICMS" xml:space="preserve">
+    <value>vBCICMS</value>
+  </data>
+  <data name="vBCICMSST" xml:space="preserve">
+    <value>vBCICMSST</value>
+  </data>
+  <data name="vBCICMSSTCons" xml:space="preserve">
+    <value>vBCICMSSTCons</value>
+  </data>
+  <data name="vBCICMSSTDest" xml:space="preserve">
+    <value>vBCICMSSTDest</value>
+  </data>
+  <data name="vBCIRRF" xml:space="preserve">
+    <value>vBCIRRF</value>
+  </data>
+  <data name="vBCRet" xml:space="preserve">
+    <value>vBCRet</value>
+  </data>
+  <data name="vBCRetPrev" xml:space="preserve">
+    <value>vBCRetPrev</value>
+  </data>
+  <data name="vBCST" xml:space="preserve">
+    <value>vBCST</value>
+  </data>
+  <data name="vCIDE" xml:space="preserve">
+    <value>vCIDE</value>
+  </data>
+  <data name="vCOFINS" xml:space="preserve">
+    <value>vCOFINS</value>
+  </data>
+  <data name="vDAR" xml:space="preserve">
+    <value>vDAR</value>
+  </data>
+  <data name="vDesc" xml:space="preserve">
+    <value>vDesc</value>
+  </data>
+  <data name="vDescDI" xml:space="preserve">
+    <value>vDescDI</value>
+  </data>
+  <data name="vDespAdu" xml:space="preserve">
+    <value>vDespAdu</value>
+  </data>
+  <data name="vDup" xml:space="preserve">
+    <value>vDup</value>
+  </data>
+  <data name="verProc" xml:space="preserve">
+    <value>verProc</value>
+  </data>
+  <data name="vFrete" xml:space="preserve">
+    <value>vFrete</value>
+  </data>
+  <data name="vICMS" xml:space="preserve">
+    <value>vICMS</value>
+  </data>
+  <data name="vICMSRet" xml:space="preserve">
+    <value>vICMSRet</value>
+  </data>
+  <data name="vICMSST" xml:space="preserve">
+    <value>vICMSST</value>
+  </data>
+  <data name="vICMSSTCons" xml:space="preserve">
+    <value>vICMSSTCons</value>
+  </data>
+  <data name="vICMSSTDest" xml:space="preserve">
+    <value>vICMSSTDest</value>
+  </data>
+  <data name="vII" xml:space="preserve">
+    <value>vII</value>
+  </data>
+  <data name="VIN" xml:space="preserve">
+    <value>VIN</value>
+  </data>
+  <data name="vIOF" xml:space="preserve">
+    <value>vIOF</value>
+  </data>
+  <data name="vIPI" xml:space="preserve">
+    <value>vIPI</value>
+  </data>
+  <data name="vIRRF" xml:space="preserve">
+    <value>vIRRF</value>
+  </data>
+  <data name="vISS" xml:space="preserve">
+    <value>vISS</value>
+  </data>
+  <data name="vISSQN" xml:space="preserve">
+    <value>vISSQN</value>
+  </data>
+  <data name="vLiq" xml:space="preserve">
+    <value>vLiq</value>
+  </data>
+  <data name="vNF" xml:space="preserve">
+    <value>vNF</value>
+  </data>
+  <data name="vOrig" xml:space="preserve">
+    <value>vOrig</value>
+  </data>
+  <data name="vOutro" xml:space="preserve">
+    <value>vOutro</value>
+  </data>
+  <data name="vPIS" xml:space="preserve">
+    <value>vPIS</value>
+  </data>
+  <data name="vPMC" xml:space="preserve">
+    <value>vPMC</value>
+  </data>
+  <data name="vProd" xml:space="preserve">
+    <value>vProd</value>
+  </data>
+  <data name="vRetCOFINS" xml:space="preserve">
+    <value>vRetCOFINS</value>
+  </data>
+  <data name="vRetCSLL" xml:space="preserve">
+    <value>vRetCSLL</value>
+  </data>
+  <data name="vRetPIS" xml:space="preserve">
+    <value>vRetPIS</value>
+  </data>
+  <data name="vRetPrev" xml:space="preserve">
+    <value>vRetPrev</value>
+  </data>
+  <data name="vSeg" xml:space="preserve">
+    <value>vSeg</value>
+  </data>
+  <data name="vServ" xml:space="preserve">
+    <value>vServ</value>
+  </data>
+  <data name="vST" xml:space="preserve">
+    <value>vST</value>
+  </data>
+  <data name="vUnCom" xml:space="preserve">
+    <value>vUnCom</value>
+  </data>
+  <data name="vUnid" xml:space="preserve">
+    <value>vUnid</value>
+  </data>
+  <data name="vUnTrib" xml:space="preserve">
+    <value>vUnTrib</value>
+  </data>
+  <data name="xAgente" xml:space="preserve">
+    <value>xAgente</value>
+  </data>
+  <data name="xBairro" xml:space="preserve">
+    <value>xBairro</value>
+  </data>
+  <data name="xCampo" xml:space="preserve">
+    <value>xCampo</value>
+  </data>
+  <data name="xCont" xml:space="preserve">
+    <value>xCont</value>
+  </data>
+  <data name="xCor" xml:space="preserve">
+    <value>xCor</value>
+  </data>
+  <data name="xCpl" xml:space="preserve">
+    <value>xCpl</value>
+  </data>
+  <data name="xEnder" xml:space="preserve">
+    <value>xEnder</value>
+  </data>
+  <data name="xFant" xml:space="preserve">
+    <value>xFant</value>
+  </data>
+  <data name="xLgr" xml:space="preserve">
+    <value>xLgr</value>
+  </data>
+  <data name="xLocDesemb" xml:space="preserve">
+    <value>xLocDesemb</value>
+  </data>
+  <data name="xLocEmbarq" xml:space="preserve">
+    <value>xLocEmbarq</value>
+  </data>
+  <data name="xMun" xml:space="preserve">
+    <value>xMun</value>
+  </data>
+  <data name="xNEmp" xml:space="preserve">
+    <value>xNEmp</value>
+  </data>
+  <data name="xNome" xml:space="preserve">
+    <value>xNome</value>
+  </data>
+  <data name="xOrgao" xml:space="preserve">
+    <value>xOrgao</value>
+  </data>
+  <data name="xPais" xml:space="preserve">
+    <value>xPais</value>
+  </data>
+  <data name="xPed" xml:space="preserve">
+    <value>xPed</value>
+  </data>
+  <data name="xProd" xml:space="preserve">
+    <value>xProd</value>
+  </data>
+  <data name="xTexto" xml:space="preserve">
+    <value>xTexto</value>
+  </data>
+</root>

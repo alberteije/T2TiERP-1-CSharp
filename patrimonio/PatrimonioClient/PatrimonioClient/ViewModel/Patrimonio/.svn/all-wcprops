@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio
+END
+PatrimBemViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimBemViewModel.cs
+END
+PatrimEstadoConservacaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimEstadoConservacaoViewModel.cs
+END
+PatrimonioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimonioViewModel.cs
+END
+PatrimIndiceAtualizacaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimIndiceAtualizacaoViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/UsuarioViewModel.cs
+END
+PatrimTaxaDepreciacaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimTaxaDepreciacaoViewModel.cs
+END
+PatrimTipoAquisicaoBemViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimTipoAquisicaoBemViewModel.cs
+END
+PatrimTipoMovimentacaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimTipoMovimentacaoViewModel.cs
+END
+SeguradoraViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/SeguradoraViewModel.cs
+END
+PatrimGrupoBemViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimGrupoBemViewModel.cs
+END
+PatrimApoliceSeguroViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/ViewModel/Patrimonio/PatrimApoliceSeguroViewModel.cs
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference
+END
+ServicoSintegra.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/ServicoSintegra.wsdl
+END
+SintegraClient.SintegraReference.EmpresaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/SintegraClient.SintegraReference.EmpresaDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/Reference.cs
+END
+SintegraClient.SintegraReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/SintegraClient.SintegraReference.ViewControleAcessoDTO.datasource
+END
+ServicoSintegra.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/ServicoSintegra.xsd
+END
+ServicoSintegra1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/ServicoSintegra1.xsd
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/Reference.svcmap
+END
+ServicoSintegra2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/ServicoSintegra2.xsd
+END
+ServicoSintegra.disco
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/ServicoSintegra.disco
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/configuration91.svcinfo
+END
+SintegraClient.SintegraReference.ViewSpedNfeDetalheDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/SintegraClient.SintegraReference.ViewSpedNfeDetalheDTO.datasource
+END
+SintegraClient.SintegraReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/SintegraClient.SintegraReference.UsuarioDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/configuration.svcinfo
+END
+SintegraClient.SintegraReference.NFeCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraClient/SintegraClient/Service%20References/SintegraReference/SintegraClient.SintegraReference.NFeCabecalhoDTO.datasource
+END

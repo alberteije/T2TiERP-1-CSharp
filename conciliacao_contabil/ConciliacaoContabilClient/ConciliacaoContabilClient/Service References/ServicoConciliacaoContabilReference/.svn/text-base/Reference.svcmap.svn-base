@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="adc60ecf-cf56-4802-a98c-b6b927656923" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/ConciliacaoContabilService/ServicoConciliacaoContabil.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoConciliacaoContabil.xsd" MetadataType="Schema" ID="e241a14e-a0f7-4f7e-8e7d-48ca91e858a8" SourceId="1" SourceUrl="http://localhost/ConciliacaoContabilService/ServicoConciliacaoContabil.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicoConciliacaoContabil.disco" MetadataType="Disco" ID="168cc13d-05a8-49c8-af69-a61fc4225d80" SourceId="1" SourceUrl="http://localhost/ConciliacaoContabilService/ServicoConciliacaoContabil.svc?disco" />
+    <MetadataFile FileName="ServicoConciliacaoContabil1.xsd" MetadataType="Schema" ID="f6de32cb-10e4-4a21-9021-fcb598161420" SourceId="1" SourceUrl="http://localhost/ConciliacaoContabilService/ServicoConciliacaoContabil.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicoConciliacaoContabil2.xsd" MetadataType="Schema" ID="a7d98ca4-09d7-4d7e-82e3-ab5ec25f9bf7" SourceId="1" SourceUrl="http://localhost/ConciliacaoContabilService/ServicoConciliacaoContabil.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicoConciliacaoContabil.wsdl" MetadataType="Wsdl" ID="51c070a9-6aa1-42f9-9717-a19c49c028a9" SourceId="1" SourceUrl="http://localhost/ConciliacaoContabilService/ServicoConciliacaoContabil.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

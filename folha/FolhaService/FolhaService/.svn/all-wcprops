@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Web.Release.config
+END
+IServicoFolha.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/IServicoFolha.cs
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Web.config
+END
+ServicoFolha.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/ServicoFolha.svc.cs
+END
+FolhaService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/FolhaService.csproj.user
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/Web.Debug.config
+END
+FolhaService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/FolhaService.csproj
+END
+ServicoFolha.svc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaService/FolhaService/ServicoFolha.svc
+END

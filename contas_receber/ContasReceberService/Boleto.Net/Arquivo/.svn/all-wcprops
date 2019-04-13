@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo
+END
+ArquivoRemessaCNAB400.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/ArquivoRemessaCNAB400.cs
+END
+IArquivoRemessa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/IArquivoRemessa.cs
+END
+DetalheSegmentoTRetornoCNAB240.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/DetalheSegmentoTRetornoCNAB240.cs
+END
+DetalheRetorno.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/DetalheRetorno.cs
+END
+DetalheSegmentoURetornoCNAB240.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/DetalheSegmentoURetornoCNAB240.cs
+END
+ArquivoRemessaCNAB240.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/ArquivoRemessaCNAB240.cs
+END
+HeaderDeArquivoCNAB240.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/HeaderDeArquivoCNAB240.cs
+END
+DetalheSegmentoWRetornoCNAB240.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/DetalheSegmentoWRetornoCNAB240.cs
+END
+LinhaDeArquivoLidaArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/LinhaDeArquivoLidaArgs.cs
+END
+AbstractArquivoRetorno.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/AbstractArquivoRetorno.cs
+END
+DetalheRetornoCNAB240.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/DetalheRetornoCNAB240.cs
+END
+AbstractArquivoRemessa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/AbstractArquivoRemessa.cs
+END
+LinhaDeArquivoGeradaArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/LinhaDeArquivoGeradaArgs.cs
+END
+ArquivoRetorno.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/ArquivoRetorno.cs
+END
+ArquivoRemessa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/ArquivoRemessa.cs
+END
+ArquivoRetornoCNAB400.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/ArquivoRetornoCNAB400.cs
+END
+IArquivoRetorno.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/IArquivoRetorno.cs
+END
+ArquivoRetornoCNAB240.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Arquivo/ArquivoRetornoCNAB240.cs
+END

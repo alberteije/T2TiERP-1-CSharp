@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.OperadoraPlanoSaude"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="625">
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal" >
+            <Button Name="btnSalvar" Width="100" Click="btnSalvar_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+                    <TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+
+            <Button Name="btnVoltar" Width="100" Click="btnVoltar_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+                    <TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Grid>
+            <Label Content="Pessoa:" Height="28" HorizontalAlignment="Left" Margin="75,28,0,0" Name="lblIdPessoa" VerticalAlignment="Top" />
+            <Label Content="Contábil Conta:" Height="28" HorizontalAlignment="Left" Margin="29,57,0,0" Name="lblIdContabilConta" VerticalAlignment="Top" />
+            <Label Content="Registro ANS:" Height="28" HorizontalAlignment="Left" Margin="38,88,0,0" Name="lblRegistroAns" VerticalAlignment="Top" />
+            <TextBox Text="{Binding operadoraplanosaudeSelected.IdPessoa}" Height="23" HorizontalAlignment="Left" Margin="132,30,0,0" Name="txtIdPessoa" VerticalAlignment="Top" Width="80" TabIndex="1" />
+            <TextBox Text="{Binding operadoraplanosaudeSelected.IdContabilConta}" Height="23" HorizontalAlignment="Left" Margin="132,59,0,0" Name="txtIdtContabilConta" VerticalAlignment="Top" Width="80" TabIndex="2" />
+            <TextBox Text="{Binding operadoraplanosaudeSelected.RegistroAns}" Height="23" HorizontalAlignment="Left" Margin="132,88,0,0" Name="txtRegistroAns" VerticalAlignment="Top" Width="80" TextWrapping="Wrap" VerticalContentAlignment="Top" />
+        </Grid>
+    </DockPanel>
+</UserControl>

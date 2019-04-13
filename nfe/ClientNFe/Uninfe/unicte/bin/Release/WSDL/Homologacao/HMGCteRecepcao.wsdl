@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?><wsdl:definitions targetNamespace="http://www.portalfiscal.inf.br/cte/wsdl/CteRecepcao" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:tns="http://www.portalfiscal.inf.br/cte/wsdl/CteRecepcao" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+<wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Serviço destinado à recepção de mensagens de lote de CT-e</wsdl:documentation>
+  <wsdl:types>
+<s:schema elementFormDefault="qualified" targetNamespace="http://www.portalfiscal.inf.br/cte/wsdl/CteRecepcao" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:tns="http://www.portalfiscal.inf.br/cte/wsdl/CteRecepcao" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+			<s:element name="cteDadosMsg">
+				<s:complexType mixed="true">
+					<s:sequence>
+						<s:any />
+					</s:sequence>
+				</s:complexType>
+			</s:element>
+			<s:element name="cteRecepcaoLoteResult">
+				<s:complexType mixed="true">
+					<s:sequence>
+						<s:any />
+					</s:sequence>
+				</s:complexType>
+			</s:element>
+			<s:element name="cteCabecMsg" type="tns:cteCabecMsg" />
+			<s:complexType name="cteCabecMsg">
+				<s:sequence>
+					<s:element maxOccurs="1" minOccurs="0" name="cUF" type="s:string" />
+					<s:element maxOccurs="1" minOccurs="0" name="versaoDados" type="s:string" />
+				</s:sequence>
+				<s:anyAttribute />
+			</s:complexType>
+		</s:schema>
+  </wsdl:types>
+  <wsdl:message name="cteRecepcaoLoteSoap12Out">
+    <wsdl:part element="tns:cteRecepcaoLoteResult" name="cteRecepcaoLoteResult">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="cteRecepcaoLoteSoap12In">
+    <wsdl:part element="tns:cteDadosMsg" name="cteDadosMsg">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="cteRecepcaoLotecteCabecMsg">
+    <wsdl:part element="tns:cteCabecMsg" name="cteCabecMsg">
+    </wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="CteRecepcaoSoap12">
+    <wsdl:operation name="cteRecepcaoLote">
+<wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Transmissão de Lote de CT-e</wsdl:documentation>
+      <wsdl:input message="tns:cteRecepcaoLoteSoap12In">
+    </wsdl:input>
+      <wsdl:output message="tns:cteRecepcaoLoteSoap12Out">
+    </wsdl:output>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CteRecepcaoSoap12" type="tns:CteRecepcaoSoap12">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="cteRecepcaoLote">
+      <soap12:operation soapAction="http://www.portalfiscal.inf.br/cte/wsdl/CteRecepcao/cteRecepcaoLote" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:cteRecepcaoLotecteCabecMsg" part="cteCabecMsg" use="literal">
+        </soap12:header>
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:cteRecepcaoLotecteCabecMsg" part="cteCabecMsg" use="literal">
+        </soap12:header>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CteRecepcao">
+<wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Serviço destinado à recepção de mensagens de lote de CT-e</wsdl:documentation>
+    <wsdl:port binding="tns:CteRecepcaoSoap12" name="CteRecepcaoSoap12">
+      <soap12:address location="https://hcte.fazenda.mg.gov.br/cte/services/CteRecepcao" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

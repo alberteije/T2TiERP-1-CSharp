@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService
+END
+ContasReceberService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/ContasReceberService.csproj
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Web.config
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/Web.Debug.config
+END
+ContasReceberService.svc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/ContasReceberService.svc
+END
+ContasReceberService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/ContasReceberService.csproj.user
+END
+IContasReceberService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/IContasReceberService.cs
+END
+ContasReceberService.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/ContasReceberService/ContasReceberService.svc.cs
+END

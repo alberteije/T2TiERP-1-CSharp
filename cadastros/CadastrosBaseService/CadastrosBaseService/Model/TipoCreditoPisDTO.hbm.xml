@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+       assembly="CadastrosBaseService"
+       namespace="CadastrosBaseService.Model" default-lazy="false">
+<class name="TipoCreditoPisDTO" table="tipo_credito_pis">
+   <id name="id" column="id" type="Int32">
+      <generator class="identity" />
+    </id>
+    <property name="codigo" column="CODIGO" type="Int32" length="10"/>
+    <property name="descricao" column="DESCRICAO" type="string" length="250"/>
+  </class>
+</hibernate-mapping>

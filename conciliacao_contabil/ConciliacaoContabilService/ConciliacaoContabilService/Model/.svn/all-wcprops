@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model
+END
+ContabilLancamentoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilLancamentoDAL.cs
+END
+ContaCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContaCaixaDTO.hbm.xml
+END
+FinExtratoContaBancoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/FinExtratoContaBancoDTO.hbm.xml
+END
+FinExtratoContaBancoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/FinExtratoContaBancoDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ViewControleAcessoDTO.cs
+END
+ContabilLoteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilLoteDTO.hbm.xml
+END
+ContabilLoteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilLoteDTO.cs
+END
+ContabilLancamentoCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilLancamentoCabecalhoDTO.cs
+END
+ContabilLancamentoCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilLancamentoCabecalhoDTO.hbm.xml
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilContaDTO.cs
+END
+ViewConciliaClienteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ViewConciliaClienteDTO.hbm.xml
+END
+BancoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/BancoDTO.cs
+END
+ClienteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ClienteDTO.cs
+END
+ClienteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ClienteDTO.hbm.xml
+END
+ViewConciliaFornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ViewConciliaFornecedorDTO.cs
+END
+ViewConciliaFornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ViewConciliaFornecedorDTO.hbm.xml
+END
+ContabilLancamentoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilLancamentoDetalheDTO.hbm.xml
+END
+FornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/FornecedorDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/NHibernateDAL.cs
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/PessoaDTO.cs
+END
+AgenciaBancoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/AgenciaBancoDTO.hbm.xml
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/EmpresaDTO.hbm.xml
+END
+PlanoContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/PlanoContaDTO.hbm.xml
+END
+PlanoContaRefSpedDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/PlanoContaRefSpedDTO.cs
+END
+PlanoContaRefSpedDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/PlanoContaRefSpedDTO.hbm.xml
+END
+ContaCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContaCaixaDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ContabilHistoricoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilHistoricoDTO.cs
+END
+ContabilHistoricoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilHistoricoDTO.hbm.xml
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilContaDTO.hbm.xml
+END
+ViewConciliaClienteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ViewConciliaClienteDTO.cs
+END
+BancoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/BancoDTO.hbm.xml
+END
+ContabilLancamentoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/ContabilLancamentoDetalheDTO.cs
+END
+FornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/FornecedorDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/UsuarioDTO.hbm.xml
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/PessoaDTO.hbm.xml
+END
+AgenciaBancoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/AgenciaBancoDTO.cs
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/EmpresaDTO.cs
+END
+PlanoContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/PlanoContaDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilService/ConciliacaoContabilService/Model/IDAL.cs
+END

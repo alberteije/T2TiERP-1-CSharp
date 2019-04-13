@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference
+END
+CadastrosBaseClient.CadastrosBaseReference.CstIcmsBDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CstIcmsBDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.SituacaoForCliDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.SituacaoForCliDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.ProdutoGrupoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ProdutoGrupoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.ContadorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ContadorDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.SindicatoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.SindicatoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CodigoGpsDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CodigoGpsDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ViewControleAcessoDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/Reference.svcmap
+END
+CadastrosBaseClient.CadastrosBaseReference.ContabilContaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ContabilContaDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.ConvenioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ConvenioDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.TalonarioChequeDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TalonarioChequeDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.TipoColaboradorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TipoColaboradorDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.NivelFormacaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.NivelFormacaoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.TributIcmsCustomCabDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TributIcmsCustomCabDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.UnidadeProdutoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.UnidadeProdutoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.OperadoraPlanoSaudeDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.OperadoraPlanoSaudeDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/Reference.cs
+END
+CadastrosBaseClient.CadastrosBaseReference.CstIpiDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CstIpiDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CargoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CargoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.TributGrupoTributarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TributGrupoTributarioDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.ProdutoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ProdutoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.FeriadosDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.FeriadosDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.SefipCodigoMovimentacaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.SefipCodigoMovimentacaoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.ProdutoMarcaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ProdutoMarcaDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.BaseCreditoPisDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.BaseCreditoPisDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.TipoCreditoPisDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TipoCreditoPisDTO.datasource
+END
+ServicoCadastrosBase.disco
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/ServicoCadastrosBase.disco
+END
+CadastrosBaseClient.CadastrosBaseReference.TributOperacaoFiscalDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TributOperacaoFiscalDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/configuration.svcinfo
+END
+CadastrosBaseClient.CadastrosBaseReference.OperadoraCartaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.OperadoraCartaoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.EstadoCivilDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.EstadoCivilDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CepDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CepDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.TipoDesligamentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TipoDesligamentoDTO.datasource
+END
+ServicoCadastrosBase.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/ServicoCadastrosBase.wsdl
+END
+CadastrosBaseClient.CadastrosBaseReference.ChequeDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ChequeDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.ContaCaixaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ContaCaixaDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.NcmDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.NcmDTO.datasource
+END
+ServicoCadastrosBase1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/ServicoCadastrosBase1.xsd
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/configuration91.svcinfo
+END
+CadastrosBaseClient.CadastrosBaseReference.SituacaoColaboradorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.SituacaoColaboradorDTO.datasource
+END
+ServicoCadastrosBase2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/ServicoCadastrosBase2.xsd
+END
+CadastrosBaseClient.CadastrosBaseReference.ProdutoSubGrupoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ProdutoSubGrupoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CsosnADTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CsosnADTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.SituacaoDocumentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.SituacaoDocumentoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CsosnBDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CsosnBDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CfopDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CfopDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.ColaboradorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.ColaboradorDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.UsuarioDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.AtividadeForCliDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.AtividadeForCliDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CstCofinsDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CstCofinsDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.EmpresaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.EmpresaDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.SetorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.SetorDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.TipoAdmissaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TipoAdmissaoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.TipoRelacionamentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.TipoRelacionamentoDTO.datasource
+END
+ServicoCadastrosBase.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/ServicoCadastrosBase.xsd
+END
+CadastrosBaseClient.CadastrosBaseReference.CboDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CboDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.SalarioMinimoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.SalarioMinimoDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CstPisDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CstPisDTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.CstIcmsADTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.CstIcmsADTO.datasource
+END
+CadastrosBaseClient.CadastrosBaseReference.AlmoxarifadoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/Service%20References/CadastrosBaseReference/CadastrosBaseClient.CadastrosBaseReference.AlmoxarifadoDTO.datasource
+END

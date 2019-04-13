@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="459635f2-6acc-4d9a-98d6-d55da4fc105d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/ContabilidadeService/ServicoContabilidade.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoContabilidade.xsd" MetadataType="Schema" ID="b01151f0-e26e-4fb2-af5d-b487d5188ace" SourceId="1" SourceUrl="http://localhost/ContabilidadeService/ServicoContabilidade.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicoContabilidade1.xsd" MetadataType="Schema" ID="578dda20-3878-427e-b529-e08c1635fc4d" SourceId="1" SourceUrl="http://localhost/ContabilidadeService/ServicoContabilidade.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicoContabilidade.disco" MetadataType="Disco" ID="c6c06e8a-3f7f-4d60-a0dc-c202218deb9a" SourceId="1" SourceUrl="http://localhost/ContabilidadeService/ServicoContabilidade.svc?disco" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="38f30ac4-3476-43a3-978a-896a943f02eb" SourceId="1" SourceUrl="http://localhost/ContabilidadeService/ServicoContabilidade.svc?wsdl" />
+    <MetadataFile FileName="ServicoContabilidade2.xsd" MetadataType="Schema" ID="bccb1c08-b9e6-4ce8-b849-e74eb2ba8252" SourceId="1" SourceUrl="http://localhost/ContabilidadeService/ServicoContabilidade.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

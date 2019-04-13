@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uninfe", "uninfe\uninfe.csproj", "{B6E8E809-6501-4D21-A94C-D751A3D57085}"
+	ProjectSection(ProjectDependencies) = postProject
+		{704CC7AF-5152-418B-B709-F3DC28E799C7} = {704CC7AF-5152-418B-B709-F3DC28E799C7}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniNFeLibrary", "UniNFeLibrary\UniNFeLibrary.csproj", "{704CC7AF-5152-418B-B709-F3DC28E799C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unicte", "unicte\unicte.csproj", "{67232FEE-F583-4E59-AF5B-DBB613407627}"
+	ProjectSection(ProjectDependencies) = postProject
+		{704CC7AF-5152-418B-B709-F3DC28E799C7} = {704CC7AF-5152-418B-B709-F3DC28E799C7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs03.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = uninfe\\uninfe.csproj
+		SccProjectName1 = uninfe
+		SccLocalPath1 = uninfe
+		SccProjectUniqueName2 = GerarProcNFe\\GerarProcNFe.csproj
+		SccProjectName2 = GerarProcNFe
+		SccLocalPath2 = GerarProcNFe
+		SccProjectUniqueName3 = UniNFeLibrary\\UniNFeLibrary.csproj
+		SccProjectName3 = UniNFeLibrary
+		SccLocalPath3 = UniNFeLibrary
+	EndGlobalSection
+EndGlobal

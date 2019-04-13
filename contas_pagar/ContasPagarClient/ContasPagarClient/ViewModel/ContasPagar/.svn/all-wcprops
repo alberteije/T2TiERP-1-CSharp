@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar
+END
+ContasPagarViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar/ContasPagarViewModel.cs
+END
+PlanoNaturezaFinanceiraViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar/PlanoNaturezaFinanceiraViewModel.cs
+END
+FinTipoPagamentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar/FinTipoPagamentoViewModel.cs
+END
+ViewFinLancamentoPagarViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar/ViewFinLancamentoPagarViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar/UsuarioViewModel.cs
+END
+FinStatusParcelaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar/FinStatusParcelaViewModel.cs
+END
+FinLancamentoPagarViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar/FinLancamentoPagarViewModel.cs
+END
+NaturezaFinanceiraViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/ViewModel/ContasPagar/NaturezaFinanceiraViewModel.cs
+END

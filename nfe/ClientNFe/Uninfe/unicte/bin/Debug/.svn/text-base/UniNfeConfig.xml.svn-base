@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nfe_configuracoes>
+<PastaXmlEnvio>c:\testenfe\envio</PastaXmlEnvio>
+<PastaXmlRetorno>c:\testenfe\retorno</PastaXmlRetorno>
+<PastaXmlEnviado>c:\testenfe\enviado</PastaXmlEnviado>
+<PastaXmlErro>c:\testenfe\xmlcomerro</PastaXmlErro>
+<UnidadeFederativaCodigo>51</UnidadeFederativaCodigo>
+<AmbienteCodigo>2</AmbienteCodigo>
+<CertificadoDigital>CN=UNIMAKE SOFTWARE, OU=(EM BRANCO), OU=(EM BRANCO), OU=(EM BRANCO), OU=(EM BRANCO), OU=(EM BRANCO), OU=000000000000001, OU=(EM BRANCO), O=ICP-Brasil, C=BR</CertificadoDigital>
+<tpEmis>1</tpEmis>
+<NomeEmpresa>Unimake Softwares</NomeEmpresa>
+<PastaBackup>c:\testenfe\backup</PastaBackup>
+<PastaXmlEmLote>c:\testenfe\enviolote</PastaXmlEmLote>
+<PastaValidar>C:\testeNFE\Validar</PastaValidar>
+<GravarRetornoTXTNFe>False</GravarRetornoTXTNFe>
+<DiretorioSalvarComo>AM</DiretorioSalvarComo>
+<DiasLimpeza>0</DiasLimpeza>
+<Proxy>False</Proxy>
+<ProxyServidor />
+<ProxyUsuario />
+<ProxySenha />
+<ProxyPorta>0</ProxyPorta>
+</nfe_configuracoes>

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas
+END
+enviCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/enviCte_v1.03.xsd
+END
+consStatServTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/consStatServTiposBasico_v1.03.xsd
+END
+procCTe_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/procCTe_v1.03.xsd
+END
+procInutCTe_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/procInutCTe_v1.03.xsd
+END
+cancCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/cancCte_v1.03.xsd
+END
+cancCteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/cancCteTiposBasico_v1.03.xsd
+END
+consReciCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/consReciCte_v1.03.xsd
+END
+consReciCteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/consReciCteTiposBasico_v1.03.xsd
+END
+retConsStatServCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/retConsStatServCte_v1.03.xsd
+END
+tiposGeralCTe_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/tiposGeralCTe_v1.03.xsd
+END
+retEnviCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/retEnviCte_v1.03.xsd
+END
+inutCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/inutCte_v1.03.xsd
+END
+inutCteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/inutCteTiposBasico_v1.03.xsd
+END
+cte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/cte_v1.03.xsd
+END
+cteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/cteTiposBasico_v1.03.xsd
+END
+retCancCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/retCancCte_v1.03.xsd
+END
+retConsReciCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/retConsReciCte_v1.03.xsd
+END
+consSitCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/consSitCte_v1.03.xsd
+END
+consSitCteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/consSitCteTiposBasico_v1.03.xsd
+END
+procCancCTe_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/procCancCTe_v1.03.xsd
+END
+retInutCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/retInutCte_v1.03.xsd
+END
+retConsSitCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/retConsSitCte_v1.03.xsd
+END
+xmldsig-core-schema_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/xmldsig-core-schema_v1.01.xsd
+END
+consStatServCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/unicte/bin/Release/schemas/consStatServCte_v1.03.xsd
+END

@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao
+END
+HMTNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMTNfeConsulta2.wsdl
+END
+HMTCadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMTCadConsultaCadastro2.wsdl
+END
+HMSNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMSNfeInutilizacao2.wsdl
+END
+HSPNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSPNfeConsulta2.wsdl
+END
+HBANfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HBANfeCancelamento2.wsdl
+END
+HPRNFeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPRNFeInutilizacao2.wsdl
+END
+HDEPCSCEConsultaRFB.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HDEPCSCEConsultaRFB.wsdl
+END
+HCENfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HCENfeConsulta2.wsdl
+END
+HRSnfeinutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HRSnfeinutilizacao2.wsdl
+END
+HSCANNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSCANNfeInutilizacao2.wsdl
+END
+HSCANNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSCANNfeRetRecepcao2.wsdl
+END
+HAMNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HAMNfeConsulta2.wsdl
+END
+HSVRSNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVRSNfeConsulta2.wsdl
+END
+HAMNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HAMNfeRetRecepcao2.wsdl
+END
+HSVRSNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVRSNfeRetRecepcao2.wsdl
+END
+HMGNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMGNfeCancelamento2.wsdl
+END
+HPENfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPENfeCancelamento2.wsdl
+END
+HGONfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HGONfeCancelamento2.wsdl
+END
+HMGNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMGNfeRetRecepcao2.wsdl
+END
+HSVANNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVANNfeConsulta2.wsdl
+END
+HRSNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HRSNfeStatusServico2.wsdl
+END
+HBANfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HBANfeRecepcao2.wsdl
+END
+HDEPCSCERecepcaoRFB.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HDEPCSCERecepcaoRFB.wsdl
+END
+HMSNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMSNfeCancelamento2.wsdl
+END
+HPRNFeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPRNFeCancelamento2.wsdl
+END
+HMTNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMTNfeInutilizacao2.wsdl
+END
+HMSNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMSNfeRetRecepcao2.wsdl
+END
+HAMNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HAMNfeStatusServico2.wsdl
+END
+HSVRSNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVRSNfeStatusServico2.wsdl
+END
+HMTNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMTNfeRetRecepcao2.wsdl
+END
+HRSNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HRSNfeConsulta2.wsdl
+END
+HSCANNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSCANNfeCancelamento2.wsdl
+END
+HSPNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSPNfeInutilizacao2.wsdl
+END
+HBANfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HBANfeRetRecepcao2.wsdl
+END
+HMGNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMGNfeStatusServico2.wsdl
+END
+HCENfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HCENfeInutilizacao2.wsdl
+END
+HMGNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMGNfeRecepcao2.wsdl
+END
+HPENfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPENfeRecepcao2.wsdl
+END
+HGONfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HGONfeRecepcao2.wsdl
+END
+HAMNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HAMNfeInutilizacao2.wsdl
+END
+HMSNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMSNfeStatusServico2.wsdl
+END
+HMSNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMSNfeRecepcao2.wsdl
+END
+HSPNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSPNfeStatusServico2.wsdl
+END
+HPRNFeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPRNFeRecepcao2.wsdl
+END
+HSVANNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVANNfeInutilizacao2.wsdl
+END
+HSCANNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSCANNfeRecepcao2.wsdl
+END
+HMTNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMTNfeCancelamento2.wsdl
+END
+HBANfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HBANfeConsulta2.wsdl
+END
+HBACadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HBACadConsultaCadastro2.wsdl
+END
+HSPNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSPNfeCancelamento2.wsdl
+END
+HSVRSNFeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVRSNFeRecepcao2.wsdl
+END
+HCENfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HCENfeCancelamento2.wsdl
+END
+HRSNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HRSNfeRetRecepcao2.wsdl
+END
+HPENfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPENfeStatusServico2.wsdl
+END
+HCENfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HCENfeRetRecepcao2.wsdl
+END
+HAMNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HAMNfeCancelamento2.wsdl
+END
+HSVRSNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVRSNfeCancelamento2.wsdl
+END
+HMGNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMGNfeConsulta2.wsdl
+END
+HMGCadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMGCadConsultaCadastro2.wsdl
+END
+HPENfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPENfeConsulta2.wsdl
+END
+HPECadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPECadConsultaCadastro2.wsdl
+END
+HGOCadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HGOCadConsultaCadastro2.wsdl
+END
+HGONfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HGONfeConsulta2.wsdl
+END
+HSVANNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVANNfeCancelamento2.wsdl
+END
+HMTNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMTNfeRecepcao2.wsdl
+END
+HGONfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HGONfeRetRecepcao2.wsdl
+END
+HSCANNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSCANNfeStatusServico2.wsdl
+END
+HSPNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSPNfeRecepcao2.wsdl
+END
+HSVANNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVANNfeRetRecepcao2.wsdl
+END
+HCENfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HCENfeStatusServico2.wsdl
+END
+HRSNFeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HRSNFeRecepcao2.wsdl
+END
+HMSNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMSNfeConsulta2.wsdl
+END
+HMSCadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMSCadConsultaCadastro2.wsdl
+END
+HCENfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HCENfeRecepcao2.wsdl
+END
+HPRNFeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPRNFeConsulta2.wsdl
+END
+HSPcadconsultacadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSPcadconsultacadastro2.wsdl
+END
+HGONfeConsulta.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HGONfeConsulta.wsdl
+END
+HSCANNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSCANNfeConsulta2.wsdl
+END
+HPRNFeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPRNFeRetRecepcao2.wsdl
+END
+HBANfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HBANfeInutilizacao2.wsdl
+END
+HRSNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HRSNfeCancelamento2.wsdl
+END
+HAMNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HAMNfeRecepcao2.wsdl
+END
+HSPNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSPNfeRetRecepcao2.wsdl
+END
+HGONfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HGONfeStatusServico2.wsdl
+END
+HSVANNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVANNfeStatusServico2.wsdl
+END
+HPRNFeConsulta.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPRNFeConsulta.wsdl
+END
+HSVANNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVANNfeRecepcao2.wsdl
+END
+HSVRSnfeinutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HSVRSnfeinutilizacao2.wsdl
+END
+HMTNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMTNfeStatusServico2.wsdl
+END
+HMGNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HMGNfeInutilizacao2.wsdl
+END
+HPENfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPENfeInutilizacao2.wsdl
+END
+HPRNFeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPRNFeStatusServico2.wsdl
+END
+HPENfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HPENfeRetRecepcao2.wsdl
+END
+HBANfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HBANfeStatusServico2.wsdl
+END
+HGONfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/uninfe/WSDL/Homologacao/HGONfeInutilizacao2.wsdl
+END

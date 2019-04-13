@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cf034f74-2824-4ac9-a68d-24822a163ec6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/ContratosService/ServicoContratos.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoContratos.xsd" MetadataType="Schema" ID="5a1b23a6-295f-415b-9003-1d1d8b3b9087" SourceId="1" SourceUrl="http://localhost/ContratosService/ServicoContratos.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicoContratos.disco" MetadataType="Disco" ID="2f2fec99-dfe5-4686-9312-ac8fd18eb4ab" SourceId="1" SourceUrl="http://localhost/ContratosService/ServicoContratos.svc?disco" />
+    <MetadataFile FileName="ServicoContratos.wsdl" MetadataType="Wsdl" ID="34ed35c0-63fc-471a-bf75-39e6e9d38688" SourceId="1" SourceUrl="http://localhost/ContratosService/ServicoContratos.svc?wsdl" />
+    <MetadataFile FileName="ServicoContratos1.xsd" MetadataType="Schema" ID="c8fbd9c6-0ac8-4919-834b-178bfa0c11eb" SourceId="1" SourceUrl="http://localhost/ContratosService/ServicoContratos.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicoContratos2.xsd" MetadataType="Schema" ID="e0ec498e-fee1-410b-b684-2926491d9d91" SourceId="1" SourceUrl="http://localhost/ContratosService/ServicoContratos.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.FeriadosLista"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="390">
+    <DockPanel LastChildFill="True" >
+        <DockPanel LastChildFill="True">
+            <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Margin="4,0" Content="&lt;" Command="{Binding paginaAnteriorCommand}"/>
+                <Button Margin="4,0"  Content="&gt;" Command="{Binding paginaSeguinteCommand}"/>
+            </StackPanel>
+            <DataGrid Name="dataGrid" AutoGenerateColumns="false" IsReadOnly="True" CanUserAddRows="False" CanUserDeleteRows="False" ItemsSource="{Binding listaFeriados}" SelectedItem="{Binding feriadosSelected}" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Ano" Width="Auto" Binding="{Binding Path=Ano}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Nome" Width="Auto" Binding="{Binding Path=Nome}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Abrangência" Width="Auto" Binding="{Binding Path=Abrangencia}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Uf" Width="Auto" Binding="{Binding Path=Uf}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Município" Width="Auto" Binding="{Binding Path=MunicipioIbge}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Tipo" Width="Auto" Binding="{Binding Path=Tipo}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Data Feriado" Width="Auto" Binding="{Binding Path=DataFeriado}"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+    </DockPanel>
+</UserControl>

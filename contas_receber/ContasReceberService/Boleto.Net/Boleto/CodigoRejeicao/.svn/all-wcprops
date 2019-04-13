@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/CodigoRejeicao
+END
+ICodigoRejeicao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/CodigoRejeicao/ICodigoRejeicao.cs
+END
+CodigoRejeicao_BancoBrasil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/CodigoRejeicao/CodigoRejeicao_BancoBrasil.cs
+END
+CodigoRejeicao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/CodigoRejeicao/CodigoRejeicao.cs
+END
+AbstractCodigoRejeicao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Boleto/CodigoRejeicao/AbstractCodigoRejeicao.cs
+END

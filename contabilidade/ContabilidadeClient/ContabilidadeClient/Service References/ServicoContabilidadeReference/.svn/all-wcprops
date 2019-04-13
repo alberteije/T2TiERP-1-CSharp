@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference
+END
+ContabilidadeClient.ServicoContabilidadeReference.AidfAimdfDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.AidfAimdfDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.FapDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.FapDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilEncerramentoExeCabDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 227
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilEncerramentoExeCabDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilLivroDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilLivroDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilIndiceDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilIndiceDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.PlanoContaRefSpedDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.PlanoContaRefSpedDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilDreCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 221
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilDreCabecalhoDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/configuration91.svcinfo
+END
+ContabilidadeClient.ServicoContabilidadeReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ViewControleAcessoDTO.datasource
+END
+Service1.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/Service1.wsdl
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilLoteDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilLoteDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilLancamentoCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilLancamentoCabecalhoDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilHistoricoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilHistoricoDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilContaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilContaDTO.datasource
+END
+ServicoContabilidade1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ServicoContabilidade1.xsd
+END
+ServicoContabilidade2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ServicoContabilidade2.xsd
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilLancamentoPadraoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilLancamentoPadraoDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilLancamentoOrcadoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilLancamentoOrcadoDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilFechamentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilFechamentoDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.UsuarioDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/Reference.cs
+END
+ContabilidadeClient.ServicoContabilidadeReference.ContabilParametrosDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.ContabilParametrosDTO.datasource
+END
+ContabilidadeClient.ServicoContabilidadeReference.PlanoContaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.PlanoContaDTO.datasource
+END
+ServicoContabilidade.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ServicoContabilidade.xsd
+END
+ContabilidadeClient.ServicoContabilidadeReference.RegistroCartorioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ContabilidadeClient.ServicoContabilidadeReference.RegistroCartorioDTO.datasource
+END
+ServicoContabilidade.disco
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/ServicoContabilidade.disco
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeClient/ContabilidadeClient/Service%20References/ServicoContabilidadeReference/configuration.svcinfo
+END

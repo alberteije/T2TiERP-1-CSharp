@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model
+END
+ViewTributacaoPisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ViewTributacaoPisDTO.hbm.xml
+END
+AlmoxarifadoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/AlmoxarifadoDTO.cs
+END
+ProdutoGrupoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ProdutoGrupoDTO.hbm.xml
+END
+ProdutoGrupoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ProdutoGrupoDTO.cs
+END
+NFeFaturaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeFaturaDTO.cs
+END
+NfeDetalheImpostoCofinsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoCofinsDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ViewControleAcessoDTO.cs
+END
+ClienteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ClienteDTO.hbm.xml
+END
+EnderecoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/EnderecoDTO.cs
+END
+TributIcmsCustomCabDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/TributIcmsCustomCabDTO.cs
+END
+NfeDetalheImpostoIcmsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoIcmsDTO.cs
+END
+FornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/FornecedorDTO.cs
+END
+NfeDetalheImpostoIssqnDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoIssqnDTO.hbm.xml
+END
+TributGrupoTributarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/TributGrupoTributarioDTO.cs
+END
+ProdutoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ProdutoDTO.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/EmpresaDTO.hbm.xml
+END
+NFeCupomFiscalDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeCupomFiscalDTO.cs
+END
+NFeDuplicataDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeDuplicataDTO.cs
+END
+NFeLocalRetiradaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeLocalRetiradaDTO.hbm.xml
+END
+ViewTributacaoIcmsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ViewTributacaoIcmsDTO.hbm.xml
+END
+ViewTributacaoPisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ViewTributacaoPisDTO.cs
+END
+TributOperacaoFiscalDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/TributOperacaoFiscalDTO.hbm.xml
+END
+TributOperacaoFiscalDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/TributOperacaoFiscalDTO.cs
+END
+AlmoxarifadoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/AlmoxarifadoDTO.hbm.xml
+END
+NfeDetalheImpostoIpiDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoIpiDTO.hbm.xml
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ViewControleAcessoDTO.hbm.xml
+END
+NFeDestinatarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeDestinatarioDTO.cs
+END
+ProdutoSubGrupoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ProdutoSubGrupoDTO.cs
+END
+TributIcmsCustomCabDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/TributIcmsCustomCabDTO.hbm.xml
+END
+NfeDetalheImpostoPisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoPisDTO.cs
+END
+NfeDetalheImpostoIcmsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoIcmsDTO.hbm.xml
+END
+FornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/FornecedorDTO.hbm.xml
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/UsuarioDTO.hbm.xml
+END
+NfeDetalheImpostoIssqnDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoIssqnDTO.cs
+END
+NFeTransporteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeTransporteDTO.cs
+END
+ViewTributacaoCofinsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ViewTributacaoCofinsDTO.cs
+END
+NfeDetalheImpostoIiDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoIiDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/EmpresaDTO.cs
+END
+NFeCupomFiscalDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeCupomFiscalDTO.hbm.xml
+END
+NFeDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeDetalheDTO.cs
+END
+ProdutoMarcaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ProdutoMarcaDTO.hbm.xml
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/IDAL.cs
+END
+NFeEmitenteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeEmitenteDTO.hbm.xml
+END
+ViewTributacaoIcmsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ViewTributacaoIcmsDTO.cs
+END
+NFeFaturaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeFaturaDTO.hbm.xml
+END
+NfeDetalheImpostoIpiDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoIpiDTO.cs
+END
+ClienteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ClienteDTO.cs
+END
+UnidadeProdutoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/UnidadeProdutoDTO.cs
+END
+NfeDetalheImpostoPisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoPisDTO.hbm.xml
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NHibernateDAL.cs
+END
+NFeLocalEntregaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeLocalEntregaDTO.cs
+END
+NFeLocalEntregaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeLocalEntregaDTO.hbm.xml
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/PessoaDTO.cs
+END
+NFeCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeCabecalhoDTO.cs
+END
+NFeTransporteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeTransporteDTO.hbm.xml
+END
+ViewTributacaoCofinsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ViewTributacaoCofinsDTO.hbm.xml
+END
+TributGrupoTributarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/TributGrupoTributarioDTO.hbm.xml
+END
+NfeDetalheImpostoIiDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoIiDTO.cs
+END
+NFeDuplicataDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeDuplicataDTO.hbm.xml
+END
+NFeLocalRetiradaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeLocalRetiradaDTO.cs
+END
+ProdutoMarcaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ProdutoMarcaDTO.cs
+END
+NfeDetalheImpostoCofinsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NfeDetalheImpostoCofinsDTO.hbm.xml
+END
+NcmDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NcmDTO.hbm.xml
+END
+NcmDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NcmDTO.cs
+END
+NFeDestinatarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeDestinatarioDTO.hbm.xml
+END
+ProdutoSubGrupoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ProdutoSubGrupoDTO.hbm.xml
+END
+EnderecoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/EnderecoDTO.hbm.xml
+END
+UnidadeProdutoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/UnidadeProdutoDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/UsuarioDTO.cs
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/PessoaDTO.hbm.xml
+END
+NFeCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeCabecalhoDTO.hbm.xml
+END
+ProdutoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/ProdutoDTO.hbm.xml
+END
+NFeDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeDetalheDTO.hbm.xml
+END
+NFeEmitenteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/Model/NFeEmitenteDTO.cs
+END

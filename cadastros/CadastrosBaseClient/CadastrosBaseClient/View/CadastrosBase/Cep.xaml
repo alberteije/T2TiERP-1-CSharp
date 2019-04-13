@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.Cep"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="625">
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal" >
+            <Button Name="btnSalvar" Width="100" Click="btnSalvar_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+                    <TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+
+            <Button Name="btnSair" Width="100" Click="btnSair_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+                    <TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Grid>
+            <Label Content="Cep:" Height="28" HorizontalAlignment="Left" Margin="6,4,0,0" Name="lblCep" VerticalAlignment="Top" />
+            <Label Content="Logradouro:" Height="28" HorizontalAlignment="Left" Margin="102,3,0,0" Name="lblLogradouro" VerticalAlignment="Top" />
+            <Label Content="Complemento:" Height="28" HorizontalAlignment="Left" Margin="6,50,0,0" Name="lblComplemento" VerticalAlignment="Top" />
+            <Label Content="Bairro:" Height="28" HorizontalAlignment="Left" Margin="6,99,0,0" Name="lblBairro" VerticalAlignment="Top" />
+            <Label Content="Município:" Height="28" HorizontalAlignment="Left" Margin="6,145,0,0" Name="lblMunicipio" VerticalAlignment="Top" />
+            <Label Content="Uf:" Height="28" HorizontalAlignment="Left" Margin="314,146,0,0" Name="lblUf" VerticalAlignment="Top" />
+            <Label Content="Código IBGE:" Height="28" HorizontalAlignment="Left" Margin="376,146,0,0" Name="lblCodigo_ibge_municipio" VerticalAlignment="Top" />
+            <TextBox Text="{Binding cepSelected.Cep}" Height="23" HorizontalAlignment="Left" Margin="6,20,0,0" Name="txtCep" VerticalAlignment="Top" Width="90" TabIndex="1" />
+            <TextBox Text="{Binding cepSelected.Logradouro}" Height="23" HorizontalAlignment="Left" Margin="102,20,0,0" Name="txtLogradouro" VerticalAlignment="Top" Width="517" TabIndex="2" />
+            <TextBox Text="{Binding cepSelected.Complemento}" Height="23" HorizontalAlignment="Left" Margin="6,67,0,0" Name="txtComplemento" VerticalAlignment="Top" Width="613" TabIndex="3" />
+            <TextBox Text="{Binding cepSelected.Bairro}" Height="23" HorizontalAlignment="Left" Margin="6,115,0,0" Name="txtBairro" VerticalAlignment="Top" Width="613" TabIndex="4" />
+            <TextBox Text="{Binding cepSelected.Municipio}" Height="23" HorizontalAlignment="Left" Margin="6,161,0,0" Name="txtMunicipio" VerticalAlignment="Top" Width="302" TabIndex="5" />
+            <TextBox Text="{Binding cepSelected.Uf}" Height="23" HorizontalAlignment="Left" Margin="314,161,0,0" Name="txtUf" VerticalAlignment="Top" Width="56" TabIndex="6" />
+            <TextBox Text="{Binding cepSelected.CodigoIbgeMunicipio}" Height="23" HorizontalAlignment="Left" Margin="376,161,0,0" Name="txtCodigo_ibge_municipio" VerticalAlignment="Top" Width="120" TabIndex="7" />
+        </Grid>
+    </DockPanel>
+</UserControl>

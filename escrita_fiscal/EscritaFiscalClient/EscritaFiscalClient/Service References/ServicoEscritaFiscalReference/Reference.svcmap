@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="eb44b685-0aa4-48de-bc07-4ba119254d56" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/EscritaFiscalService/ServicoEscritaFiscal.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoEscritaFiscal.xsd" MetadataType="Schema" ID="953c3cd5-4f97-4056-a6dc-fb37b2f0d79a" SourceId="1" SourceUrl="http://localhost/EscritaFiscalService/ServicoEscritaFiscal.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicoEscritaFiscal.disco" MetadataType="Disco" ID="ad0ade4c-8961-44dd-879d-a44217707631" SourceId="1" SourceUrl="http://localhost/EscritaFiscalService/ServicoEscritaFiscal.svc?disco" />
+    <MetadataFile FileName="ServicoEscritaFiscal1.xsd" MetadataType="Schema" ID="3f428cb7-f66e-48a8-b58c-77e81787308a" SourceId="1" SourceUrl="http://localhost/EscritaFiscalService/ServicoEscritaFiscal.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicoEscritaFiscal2.xsd" MetadataType="Schema" ID="7b065653-989b-4573-a5b8-c272317f6d80" SourceId="1" SourceUrl="http://localhost/EscritaFiscalService/ServicoEscritaFiscal.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicoEscritaFiscal.wsdl" MetadataType="Wsdl" ID="7a3299d6-7fe4-4318-b381-360945d65dc0" SourceId="1" SourceUrl="http://localhost/EscritaFiscalService/ServicoEscritaFiscal.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

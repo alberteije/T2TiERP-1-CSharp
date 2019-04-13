@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model
+END
+EstadoCivilDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/EstadoCivilDTO.hbm.xml
+END
+SituacaoForCliDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/SituacaoForCliDTO.cs
+END
+SituacaoForCliDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/SituacaoForCliDTO.hbm.xml
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ViewControleAcessoDTO.cs
+END
+ContratoTipoServicoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoTipoServicoDTO.cs
+END
+ContratoHistoricoReajusteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoHistoricoReajusteDTO.cs
+END
+ClienteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ClienteDTO.cs
+END
+ClienteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ClienteDTO.hbm.xml
+END
+EnderecoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/EnderecoDTO.cs
+END
+FornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/FornecedorDTO.cs
+END
+ContratoHistFaturamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoHistFaturamentoDTO.cs
+END
+ContratoHistFaturamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoHistFaturamentoDTO.hbm.xml
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/NHibernateDAL.cs
+END
+ContratoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoDTO.cs
+END
+ContratoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoDTO.hbm.xml
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/PessoaDTO.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/EmpresaDTO.hbm.xml
+END
+ContratoPrevFaturamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoPrevFaturamentoDTO.hbm.xml
+END
+SetorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/SetorDTO.hbm.xml
+END
+ContratoSolicitacaoServicoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoSolicitacaoServicoDTO.hbm.xml
+END
+ContratoSolicitacaoServicoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoSolicitacaoServicoDTO.cs
+END
+ContratoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoDAL.cs
+END
+PessoaJuridicaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/PessoaJuridicaDTO.cs
+END
+PessoaJuridicaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/PessoaJuridicaDTO.hbm.xml
+END
+EstadoCivilDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/EstadoCivilDTO.cs
+END
+PessoaFisicaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/PessoaFisicaDTO.cs
+END
+PessoaFisicaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/PessoaFisicaDTO.hbm.xml
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ContratoTipoServicoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoTipoServicoDTO.hbm.xml
+END
+ContratoHistoricoReajusteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoHistoricoReajusteDTO.hbm.xml
+END
+EnderecoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/EnderecoDTO.hbm.xml
+END
+TipoContratoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/TipoContratoDTO.cs
+END
+TipoContratoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/TipoContratoDTO.hbm.xml
+END
+FornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/FornecedorDTO.hbm.xml
+END
+ColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ColaboradorDTO.cs
+END
+ColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ColaboradorDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/UsuarioDTO.hbm.xml
+END
+AtividadeForCliDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/AtividadeForCliDTO.cs
+END
+AtividadeForCliDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/AtividadeForCliDTO.hbm.xml
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/PessoaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/EmpresaDTO.cs
+END
+ContratoPrevFaturamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/ContratoPrevFaturamentoDTO.cs
+END
+SetorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/SetorDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_contratos/!svn/ver/4/trunk/ContratosService/ContratosService/Model/IDAL.cs
+END

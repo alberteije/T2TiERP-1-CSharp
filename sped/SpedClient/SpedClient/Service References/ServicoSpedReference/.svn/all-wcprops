@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference
+END
+SpedClient.ServicoSpedReference.EcfR03DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.EcfR03DTO.datasource
+END
+SpedClient.ServicoSpedReference.EcfNotaFiscalCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.EcfNotaFiscalCabecalhoDTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedC190DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedC190DTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedC370DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedC370DTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedC390DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedC390DTO.datasource
+END
+SpedClient.ServicoSpedReference.UnidadeProdutoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.UnidadeProdutoDTO.datasource
+END
+ServicoSped.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/ServicoSped.xsd
+END
+SpedClient.ServicoSpedReference.ArquivoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ArquivoDTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedC490DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedC490DTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedNfeDestinatarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedNfeDestinatarioDTO.datasource
+END
+SpedClient.ServicoSpedReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.UsuarioDTO.datasource
+END
+SpedClient.ServicoSpedReference.UnidadeConversaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.UnidadeConversaoDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/Reference.svcmap
+END
+SpedClient.ServicoSpedReference.EmpresaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.EmpresaDTO.datasource
+END
+SpedClient.ServicoSpedReference.EcfVendaCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.EcfVendaCabecalhoDTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedNfeItemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedNfeItemDTO.datasource
+END
+SpedClient.ServicoSpedReference.TributOperacaoFiscalDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.TributOperacaoFiscalDTO.datasource
+END
+SpedClient.ServicoSpedReference.NfeCupomFiscalReferenciadoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.NfeCupomFiscalReferenciadoDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/Reference.cs
+END
+SpedClient.ServicoSpedReference.ViewSpedNfeDetalheDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedNfeDetalheDTO.datasource
+END
+ServicoSped1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/ServicoSped1.xsd
+END
+ServicoSped2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/ServicoSped2.xsd
+END
+ServicoSped3.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/ServicoSped3.xsd
+END
+ServicoSped4.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/ServicoSped4.xsd
+END
+SpedClient.ServicoSpedReference.ViewSpedNfeEmitenteDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedNfeEmitenteDTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedC300DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedC300DTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewPessoaContadorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewPessoaContadorDTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedC321DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedC321DTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/configuration.svcinfo
+END
+SpedClient.ServicoSpedReference.ClienteDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ClienteDTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewSpedC425DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewSpedC425DTO.datasource
+END
+SpedClient.ServicoSpedReference.ProdutoAlteracaoItemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ProdutoAlteracaoItemDTO.datasource
+END
+SpedClient.ServicoSpedReference.FiscalApuracaoIcmsDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.FiscalApuracaoIcmsDTO.datasource
+END
+ServicoSped.disco
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/ServicoSped.disco
+END
+SpedClient.ServicoSpedReference.NfeTransporteDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.NfeTransporteDTO.datasource
+END
+SpedClient.ServicoSpedReference.NfeCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.NfeCabecalhoDTO.datasource
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/configuration91.svcinfo
+END
+SpedClient.ServicoSpedReference.ProdutoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ProdutoDTO.datasource
+END
+Service1.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/Service1.wsdl
+END
+SpedClient.ServicoSpedReference.EcfVendaDetalheDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.EcfVendaDetalheDTO.datasource
+END
+SpedClient.ServicoSpedReference.EcfImpressoraDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.EcfImpressoraDTO.datasource
+END
+SpedClient.ServicoSpedReference.ContadorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ContadorDTO.datasource
+END
+SpedClient.ServicoSpedReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.ViewControleAcessoDTO.datasource
+END
+SpedClient.ServicoSpedReference.EcfR02DTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Service%20References/ServicoSpedReference/SpedClient.ServicoSpedReference.EcfR02DTO.datasource
+END

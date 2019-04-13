@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Util
+END
+RadioStringConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Util/RadioStringConverter.cs
+END
+MoedaFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Util/MoedaFormat.cs
+END
+CloseableTabItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Util/CloseableTabItem.cs
+END
+BooleanCharConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/Util/BooleanCharConverter.cs
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference
+END
+ServicoEstoque.disco
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/ServicoEstoque.disco
+END
+EstoqueClient.EstoqueServiceReference.EstoqueReajusteCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.EstoqueReajusteCabecalhoDTO.datasource
+END
+EstoqueClient.EstoqueServiceReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.ViewControleAcessoDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/configuration91.svcinfo
+END
+ServicoEstoque.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/ServicoEstoque.wsdl
+END
+EstoqueClient.EstoqueServiceReference.EstoqueContagemCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.EstoqueContagemCabecalhoDTO.datasource
+END
+EstoqueClient.EstoqueServiceReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.UsuarioDTO.datasource
+END
+EstoqueClient.EstoqueServiceReference.ColaboradorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.ColaboradorDTO.datasource
+END
+ServicoEstoque1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/ServicoEstoque1.xsd
+END
+ServicoEstoque2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/ServicoEstoque2.xsd
+END
+EstoqueClient.EstoqueServiceReference.ViewTributacaoCofinsDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.ViewTributacaoCofinsDTO.datasource
+END
+EstoqueClient.EstoqueServiceReference.NFeCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.NFeCabecalhoDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/Reference.cs
+END
+EstoqueClient.EstoqueServiceReference.ProdutoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.ProdutoDTO.datasource
+END
+EstoqueClient.EstoqueServiceReference.EmpresaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.EmpresaDTO.datasource
+END
+EstoqueClient.EstoqueServiceReference.ViewTributacaoPisDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.ViewTributacaoPisDTO.datasource
+END
+EstoqueClient.EstoqueServiceReference.ViewTributacaoIcmsDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.ViewTributacaoIcmsDTO.datasource
+END
+EstoqueClient.EstoqueServiceReference.TributOperacaoFiscalDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.TributOperacaoFiscalDTO.datasource
+END
+ServicoEstoque.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/ServicoEstoque.xsd
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/configuration.svcinfo
+END
+EstoqueClient.EstoqueServiceReference.RequisicaoInternaCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueClient/EstoqueClient/Service%20References/EstoqueServiceReference/EstoqueClient.EstoqueServiceReference.RequisicaoInternaCabecalhoDTO.datasource
+END

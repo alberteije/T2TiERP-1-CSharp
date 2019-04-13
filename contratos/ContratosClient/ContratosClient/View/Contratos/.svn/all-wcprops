@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos
+END
+ContratoTipoServico.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoTipoServico.xaml
+END
+ContratoHistoricoReajuste.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistoricoReajuste.xaml
+END
+ContratoHistoricoReajusteLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistoricoReajusteLista.xaml.cs
+END
+ContratoTipoServicoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoTipoServicoLista.xaml.cs
+END
+ContratoHistoricoReajustePrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistoricoReajustePrincipal.xaml
+END
+ContratoTipoServicoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoTipoServicoPrincipal.xaml
+END
+ContratosPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratosPrincipal.xaml.cs
+END
+TipoContratoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/TipoContratoLista.xaml
+END
+ContratoHistoricoReajuste.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistoricoReajuste.xaml.cs
+END
+ContratoTipoServico.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoTipoServico.xaml.cs
+END
+TipoContrato.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/TipoContrato.xaml
+END
+ContratoHistoricoReajustePrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistoricoReajustePrincipal.xaml.cs
+END
+ContratoTipoServicoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoTipoServicoPrincipal.xaml.cs
+END
+TipoContratoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/TipoContratoLista.xaml.cs
+END
+ContratoPrevFaturamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoPrevFaturamentoLista.xaml
+END
+ContratoHistFaturamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistFaturamentoPrincipal.xaml
+END
+ContratoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoPrincipal.xaml
+END
+ContratoHistFaturamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistFaturamento.xaml.cs
+END
+TipoContratoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/TipoContratoPrincipal.xaml.cs
+END
+Contrato.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/Contrato.xaml.cs
+END
+ContratoSolicitacaoServicoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoSolicitacaoServicoPrincipal.xaml
+END
+ContratoSolicitacaoServico.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoSolicitacaoServico.xaml.cs
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/Login.xaml
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/Login.xaml.cs
+END
+ContratoHistoricoReajusteLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistoricoReajusteLista.xaml
+END
+ContratoTipoServicoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoTipoServicoLista.xaml
+END
+ContratoHistFaturamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistFaturamentoLista.xaml
+END
+ContratoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoLista.xaml
+END
+ContratoHistFaturamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistFaturamento.xaml
+END
+TipoContratoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/TipoContratoPrincipal.xaml
+END
+ContratoHistFaturamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistFaturamentoLista.xaml.cs
+END
+Contrato.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/Contrato.xaml
+END
+TipoContrato.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/TipoContrato.xaml.cs
+END
+ContratoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoLista.xaml.cs
+END
+ContratoSolicitacaoServicoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoSolicitacaoServicoLista.xaml
+END
+ContratoPrevFaturamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoPrevFaturamento.xaml
+END
+ContratoPrevFaturamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoPrevFaturamentoLista.xaml.cs
+END
+ContratoHistFaturamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoHistFaturamentoPrincipal.xaml.cs
+END
+ContratoPrevFaturamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoPrevFaturamentoPrincipal.xaml
+END
+ContratoSolicitacaoServico.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoSolicitacaoServico.xaml
+END
+ContratoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoPrincipal.xaml.cs
+END
+ContratoSolicitacaoServicoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoSolicitacaoServicoLista.xaml.cs
+END
+ContratoPrevFaturamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoPrevFaturamento.xaml.cs
+END
+ContratoPrevFaturamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoPrevFaturamentoPrincipal.xaml.cs
+END
+ContratoSolicitacaoServicoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratoSolicitacaoServicoPrincipal.xaml.cs
+END
+ContratosPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/View/Contratos/ContratosPrincipal.xaml
+END

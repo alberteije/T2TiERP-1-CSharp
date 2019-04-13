@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CBFBA683-A72B-49A3-A6B3-96A4EAB14685}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SpedService</RootNamespace>
+    <AssemblyName>SpedService</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ACBrFramework.Net">
+      <HintPath>..\..\..\..\..\..\..\Componentes\ACBrFramework\ACBrFramework.Net\ACBrFramework.Net Install\ACBrFramework\ACBrFramework.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\..\libs\NHibernate\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\..\libs\NHibernate\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="LinFu.DynamicProxy">
+      <HintPath>..\..\libs\NHibernate\LinFu.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\libs\MySQL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\..\libs\NHibernate\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.LinFu">
+      <HintPath>..\..\libs\NHibernate\NHibernate.ByteCode.LinFu.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Services" />
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Model\ViewSpedC300DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ContadorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EmpresaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\PessoaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\PessoaFisicaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\PessoaJuridicaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EnderecoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\UnidadeProdutoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ProdutoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ClienteDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EcfImpressoraDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EcfNotaFiscalCabecalhoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\NfeCabecalhoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\NfeCupomFiscalReferenciadoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedC321DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedC370DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedC390DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedC425DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedC490DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EcfR02DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EcfR03DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EcfVendaCabecalhoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EcfVendaDetalheDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\FiscalApuracaoIcmsDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ProdutoAlteracaoItemDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedNfeEmitenteDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedNfeDestinatarioDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedNfeItemDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\UnidadeConversaoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TributOperacaoFiscalDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\NfeTransporteDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedNfeDetalheDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewSpedC190DTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TransportadoraDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewPessoaContadorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\FornecedorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\UsuarioDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewControleAcessoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\NfeDetalheDTO.hbm.xml" />
+    <Content Include="ServicoSped.svc" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\ArquivoDTO.cs" />
+    <Compile Include="Model\ClienteDTO.cs" />
+    <Compile Include="Model\ContadorDTO.cs" />
+    <Compile Include="Model\NfeDetalheDTO.cs" />
+    <Compile Include="Model\SpedContabilDAL.cs" />
+    <Compile Include="Model\EcfImpressoraDTO.cs" />
+    <Compile Include="Model\EcfNotaFiscalCabecalhoDTO.cs" />
+    <Compile Include="Model\EcfR02DTO.cs" />
+    <Compile Include="Model\EcfR03DTO.cs" />
+    <Compile Include="Model\EcfVendaCabecalhoDTO.cs" />
+    <Compile Include="Model\EcfVendaDetalheDTO.cs" />
+    <Compile Include="Model\EmpresaDTO.cs" />
+    <Compile Include="Model\EnderecoDTO.cs" />
+    <Compile Include="Model\EmpresaDAL.cs" />
+    <Compile Include="Model\FiscalApuracaoIcmsDTO.cs" />
+    <Compile Include="Model\FornecedorDTO.cs" />
+    <Compile Include="Model\IDAL.cs" />
+    <Compile Include="Model\NfeCabecalhoDTO.cs" />
+    <Compile Include="Model\NfeCupomFiscalReferenciadoDTO.cs" />
+    <Compile Include="Model\NfeTransporteDTO.cs" />
+    <Compile Include="Model\NHibernateDAL.cs" />
+    <Compile Include="Model\PessoaDTO.cs" />
+    <Compile Include="Model\PessoaFisicaDTO.cs" />
+    <Compile Include="Model\PessoaJuridicaDTO.cs" />
+    <Compile Include="Model\ProdutoAlteracaoItemDTO.cs" />
+    <Compile Include="Model\ProdutoDTO.cs" />
+    <Compile Include="Model\TransportadoraDTO.cs" />
+    <Compile Include="Model\TributOperacaoFiscalDTO.cs" />
+    <Compile Include="Model\UnidadeConversaoDTO.cs" />
+    <Compile Include="Model\UnidadeProdutoDTO.cs" />
+    <Compile Include="Model\UsuarioDAL.cs" />
+    <Compile Include="Model\UsuarioDTO.cs" />
+    <Compile Include="Model\ViewControleAcessoDTO.cs" />
+    <Compile Include="Model\ViewPessoaContadorDTO.cs" />
+    <Compile Include="Model\ViewSpedC190DTO.cs" />
+    <Compile Include="Model\ViewSpedC300DTO.cs" />
+    <Compile Include="Model\ViewSpedC321DTO.cs" />
+    <Compile Include="Model\ViewSpedC370DTO.cs" />
+    <Compile Include="Model\ViewSpedC390DTO.cs" />
+    <Compile Include="Model\ViewSpedC425DTO.cs" />
+    <Compile Include="Model\ViewSpedC490DTO.cs" />
+    <Compile Include="Model\ViewSpedNfeDestinatarioDTO.cs" />
+    <Compile Include="Model\ViewSpedNfeDetalheDTO.cs" />
+    <Compile Include="Model\ViewSpedNfeEmitenteDTO.cs" />
+    <Compile Include="Model\ViewSpedNfeItemDTO.cs" />
+    <Compile Include="NHibernate\NHibernateHelper.cs" />
+    <Compile Include="ServicoSped.svc.cs">
+      <DependentUpon>ServicoSped.svc</DependentUpon>
+    </Compile>
+    <Compile Include="IServicoSped.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Model\SpedFiscalDAL.cs" />
+    <Compile Include="Util\Biblioteca.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2649</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/SpedService</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+          <EnableWcfTestClientForSVCDefaultValue>True</EnableWcfTestClientForSVCDefaultValue>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

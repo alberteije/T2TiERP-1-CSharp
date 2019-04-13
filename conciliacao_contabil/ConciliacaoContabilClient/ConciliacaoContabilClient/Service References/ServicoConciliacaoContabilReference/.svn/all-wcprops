@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference
+END
+ConciliacaoContabilClient.ServicoConciliacaoContabilReference.ContaCaixaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ConciliacaoContabilClient.ServicoConciliacaoContabilReference.ContaCaixaDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/Reference.cs
+END
+ServicoConciliacaoContabil.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ServicoConciliacaoContabil.wsdl
+END
+ConciliacaoContabilClient.ServicoConciliacaoContabilReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 256
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ConciliacaoContabilClient.ServicoConciliacaoContabilReference.ViewControleAcessoDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/configuration91.svcinfo
+END
+ServicoConciliacaoContabil.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ServicoConciliacaoContabil.xsd
+END
+ServicoConciliacaoContabil1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ServicoConciliacaoContabil1.xsd
+END
+ConciliacaoContabilClient.ServicoConciliacaoContabilReference.ClienteDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 245
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ConciliacaoContabilClient.ServicoConciliacaoContabilReference.ClienteDTO.datasource
+END
+ServicoConciliacaoContabil2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ServicoConciliacaoContabil2.xsd
+END
+ServicoConciliacaoContabil.disco
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ServicoConciliacaoContabil.disco
+END
+ConciliacaoContabilClient.ServicoConciliacaoContabilReference.FornecedorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 248
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ConciliacaoContabilClient.ServicoConciliacaoContabilReference.FornecedorDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/configuration.svcinfo
+END
+ConciliacaoContabilClient.ServicoConciliacaoContabilReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 245
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/Service%20References/ServicoConciliacaoContabilReference/ConciliacaoContabilClient.ServicoConciliacaoContabilReference.UsuarioDTO.datasource
+END

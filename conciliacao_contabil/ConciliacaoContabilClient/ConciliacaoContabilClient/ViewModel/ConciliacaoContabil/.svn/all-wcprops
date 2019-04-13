@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/ViewModel/ConciliacaoContabil
+END
+ContabilLancamentoCabecalhoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/ViewModel/ConciliacaoContabil/ContabilLancamentoCabecalhoViewModel.cs
+END
+ConciliacaoContabilViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/ViewModel/ConciliacaoContabil/ConciliacaoContabilViewModel.cs
+END
+ConciliaClienteViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/ViewModel/ConciliacaoContabil/ConciliaClienteViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/ViewModel/ConciliacaoContabil/UsuarioViewModel.cs
+END
+ConciliaFornecedorViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/ViewModel/ConciliacaoContabil/ConciliaFornecedorViewModel.cs
+END
+ConciliaContaCaixaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_conciliacao_contabil/!svn/ver/4/trunk/ConciliacaoContabilClient/ConciliacaoContabilClient/ViewModel/ConciliacaoContabil/ConciliaContaCaixaViewModel.cs
+END

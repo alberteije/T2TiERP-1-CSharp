@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Web.config
+END
+EstoqueService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/EstoqueService.csproj.user
+END
+EstoqueService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/EstoqueService.csproj
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/Web.Debug.config
+END
+ServicoEstoque.svc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/ServicoEstoque.svc
+END
+IServicoEstoque.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/IServicoEstoque.cs
+END
+ServicoEstoque.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_estoque/!svn/ver/2/trunk/EstoqueService/EstoqueService/ServicoEstoque.svc.cs
+END

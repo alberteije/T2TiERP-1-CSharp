@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras
+END
+CompraTipoPedidoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/CompraTipoPedidoViewModel.cs
+END
+CompraTipoRequisicaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/CompraTipoRequisicaoViewModel.cs
+END
+MapaComparativoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/MapaComparativoViewModel.cs
+END
+ComprasViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/ComprasViewModel.cs
+END
+PedidoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/PedidoViewModel.cs
+END
+RequisicaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/RequisicaoViewModel.cs
+END
+CompraSugeridaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/CompraSugeridaViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/UsuarioViewModel.cs
+END
+CotacaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_compras/!svn/ver/3/trunk/ComprasClient/ComprasClient/ViewModel/Compras/CotacaoViewModel.cs
+END

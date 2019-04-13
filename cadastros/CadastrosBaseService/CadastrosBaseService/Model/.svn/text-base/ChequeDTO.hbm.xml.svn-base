@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CadastrosBaseService"
+                   namespace="CadastrosBaseService.Model" default-lazy="false">
+  <class name="ChequeDTO" table="cheque">
+    <id name="Id" column="ID">
+      <generator class="identity"/>
+    </id>
+    <property name="IdTalonarioCheque" column="ID_TALONARIO_CHEQUE"/>
+    <property name="Numero" column="NUMERO"/>
+    <property name="StatusCheque" column="STATUS_CHEQUE"/>
+    <property name="DataStatus" column="DATA_STATUS"/>
+  </class>
+</hibernate-mapping>

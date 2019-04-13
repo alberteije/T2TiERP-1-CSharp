@@ -1,0 +1,11 @@
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\bin\FolhaService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\bin\FolhaService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\bin\Antlr3.Runtime.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\bin\Iesi.Collections.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\bin\LinFu.DynamicProxy.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\bin\MySql.Data.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\bin\NHibernate.ByteCode.LinFu.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\bin\NHibernate.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\obj\Debug\FolhaService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\FolhaService\FolhaService\obj\Debug\FolhaService.pdb

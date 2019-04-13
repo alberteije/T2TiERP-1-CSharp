@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/ViewModel/Vendas
+END
+TipoNotaFiscalViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/ViewModel/Vendas/TipoNotaFiscalViewModel.cs
+END
+VendaCabecalhoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/ViewModel/Vendas/VendaCabecalhoViewModel.cs
+END
+OrcamentoPedidoVendaCabViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/ViewModel/Vendas/OrcamentoPedidoVendaCabViewModel.cs
+END
+VendasViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/ViewModel/Vendas/VendasViewModel.cs
+END
+CondicoesPagamentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/ViewModel/Vendas/CondicoesPagamentoViewModel.cs
+END
+FreteVendaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/ViewModel/Vendas/FreteVendaViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasClient/VendasClient/ViewModel/Vendas/UsuarioViewModel.cs
+END

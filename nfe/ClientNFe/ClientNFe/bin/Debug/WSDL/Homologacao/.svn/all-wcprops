@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao
+END
+HMTNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMTNfeConsulta2.wsdl
+END
+HMTCadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMTCadConsultaCadastro2.wsdl
+END
+HMSNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMSNfeInutilizacao2.wsdl
+END
+HSPNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSPNfeConsulta2.wsdl
+END
+HBANfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HBANfeCancelamento2.wsdl
+END
+HPRNFeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPRNFeInutilizacao2.wsdl
+END
+HDEPCSCEConsultaRFB.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HDEPCSCEConsultaRFB.wsdl
+END
+HCENfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HCENfeConsulta2.wsdl
+END
+HRSnfeinutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HRSnfeinutilizacao2.wsdl
+END
+HSCANNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSCANNfeInutilizacao2.wsdl
+END
+HSCANNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSCANNfeRetRecepcao2.wsdl
+END
+HAMNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HAMNfeConsulta2.wsdl
+END
+HSVRSNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVRSNfeConsulta2.wsdl
+END
+HAMNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HAMNfeRetRecepcao2.wsdl
+END
+HSVRSNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVRSNfeRetRecepcao2.wsdl
+END
+HMGNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMGNfeCancelamento2.wsdl
+END
+HPENfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPENfeCancelamento2.wsdl
+END
+HGONfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HGONfeCancelamento2.wsdl
+END
+HMGNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMGNfeRetRecepcao2.wsdl
+END
+HSVANNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVANNfeConsulta2.wsdl
+END
+HRSNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HRSNfeStatusServico2.wsdl
+END
+HBANfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HBANfeRecepcao2.wsdl
+END
+HDEPCSCERecepcaoRFB.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HDEPCSCERecepcaoRFB.wsdl
+END
+HMSNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMSNfeCancelamento2.wsdl
+END
+HPRNFeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPRNFeCancelamento2.wsdl
+END
+HMTNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMTNfeInutilizacao2.wsdl
+END
+HMSNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMSNfeRetRecepcao2.wsdl
+END
+HAMNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HAMNfeStatusServico2.wsdl
+END
+HSVRSNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVRSNfeStatusServico2.wsdl
+END
+HMTNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMTNfeRetRecepcao2.wsdl
+END
+HRSNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HRSNfeConsulta2.wsdl
+END
+HSCANNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSCANNfeCancelamento2.wsdl
+END
+HSPNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSPNfeInutilizacao2.wsdl
+END
+HBANfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HBANfeRetRecepcao2.wsdl
+END
+HMGNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMGNfeStatusServico2.wsdl
+END
+HCENfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HCENfeInutilizacao2.wsdl
+END
+HMGNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMGNfeRecepcao2.wsdl
+END
+HPENfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPENfeRecepcao2.wsdl
+END
+HGONfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HGONfeRecepcao2.wsdl
+END
+HAMNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HAMNfeInutilizacao2.wsdl
+END
+HMSNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMSNfeStatusServico2.wsdl
+END
+HMSNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMSNfeRecepcao2.wsdl
+END
+HSPNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSPNfeStatusServico2.wsdl
+END
+HPRNFeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPRNFeRecepcao2.wsdl
+END
+HSVANNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVANNfeInutilizacao2.wsdl
+END
+HSCANNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSCANNfeRecepcao2.wsdl
+END
+HMTNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMTNfeCancelamento2.wsdl
+END
+HBANfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HBANfeConsulta2.wsdl
+END
+HBACadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HBACadConsultaCadastro2.wsdl
+END
+HSPNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSPNfeCancelamento2.wsdl
+END
+HSVRSNFeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVRSNFeRecepcao2.wsdl
+END
+HCENfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HCENfeCancelamento2.wsdl
+END
+HRSNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HRSNfeRetRecepcao2.wsdl
+END
+HPENfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPENfeStatusServico2.wsdl
+END
+HCENfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HCENfeRetRecepcao2.wsdl
+END
+HAMNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HAMNfeCancelamento2.wsdl
+END
+HSVRSNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVRSNfeCancelamento2.wsdl
+END
+HMGNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMGNfeConsulta2.wsdl
+END
+HMGCadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMGCadConsultaCadastro2.wsdl
+END
+HPENfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPENfeConsulta2.wsdl
+END
+HPECadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPECadConsultaCadastro2.wsdl
+END
+HGOCadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HGOCadConsultaCadastro2.wsdl
+END
+HGONfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HGONfeConsulta2.wsdl
+END
+HSVANNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVANNfeCancelamento2.wsdl
+END
+HMTNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMTNfeRecepcao2.wsdl
+END
+HGONfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HGONfeRetRecepcao2.wsdl
+END
+HSCANNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSCANNfeStatusServico2.wsdl
+END
+HSPNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSPNfeRecepcao2.wsdl
+END
+HSVANNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVANNfeRetRecepcao2.wsdl
+END
+HCENfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HCENfeStatusServico2.wsdl
+END
+HRSNFeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HRSNFeRecepcao2.wsdl
+END
+HMSNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMSNfeConsulta2.wsdl
+END
+HMSCadConsultaCadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMSCadConsultaCadastro2.wsdl
+END
+HCENfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HCENfeRecepcao2.wsdl
+END
+HPRNFeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPRNFeConsulta2.wsdl
+END
+HSPcadconsultacadastro2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSPcadconsultacadastro2.wsdl
+END
+HGONfeConsulta.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HGONfeConsulta.wsdl
+END
+HSCANNfeConsulta2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSCANNfeConsulta2.wsdl
+END
+HPRNFeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPRNFeRetRecepcao2.wsdl
+END
+HBANfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HBANfeInutilizacao2.wsdl
+END
+HRSNfeCancelamento2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HRSNfeCancelamento2.wsdl
+END
+HAMNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HAMNfeRecepcao2.wsdl
+END
+HSPNfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSPNfeRetRecepcao2.wsdl
+END
+HGONfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HGONfeStatusServico2.wsdl
+END
+HSVANNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVANNfeStatusServico2.wsdl
+END
+HPRNFeConsulta.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPRNFeConsulta.wsdl
+END
+HSVANNfeRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVANNfeRecepcao2.wsdl
+END
+HSVRSnfeinutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HSVRSnfeinutilizacao2.wsdl
+END
+HMTNfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMTNfeStatusServico2.wsdl
+END
+HMGNfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HMGNfeInutilizacao2.wsdl
+END
+HPENfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPENfeInutilizacao2.wsdl
+END
+HPRNFeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPRNFeStatusServico2.wsdl
+END
+HPENfeRetRecepcao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HPENfeRetRecepcao2.wsdl
+END
+HBANfeStatusServico2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HBANfeStatusServico2.wsdl
+END
+HGONfeInutilizacao2.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/WSDL/Homologacao/HGONfeInutilizacao2.wsdl
+END

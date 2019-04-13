@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/DPEC
+END
+consDPEC_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/DPEC/consDPEC_v1.01.xsd
+END
+envDPEC_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/DPEC/envDPEC_v1.01.xsd
+END
+leiauteDPEC_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/DPEC/leiauteDPEC_v1.01.xsd
+END
+retDPEC_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/DPEC/retDPEC_v1.01.xsd
+END
+retConsDPEC_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/DPEC/retConsDPEC_v1.01.xsd
+END
+xmldsig-core-schema_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/DPEC/xmldsig-core-schema_v1.01.xsd
+END

@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model
+END
+EstadoCivilDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/EstadoCivilDTO.hbm.xml
+END
+SituacaoForCliDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/SituacaoForCliDTO.cs
+END
+SituacaoForCliDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/SituacaoForCliDTO.hbm.xml
+END
+PatrimTipoAquisicaoBemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimTipoAquisicaoBemDTO.cs
+END
+PatrimTipoAquisicaoBemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimTipoAquisicaoBemDTO.hbm.xml
+END
+PatrimApoliceSeguroDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimApoliceSeguroDTO.hbm.xml
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/ViewControleAcessoDTO.cs
+END
+PatrimEstadoConservacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimEstadoConservacaoDTO.cs
+END
+PatrimBemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimBemDTO.cs
+END
+PatrimMovimentacaoBemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimMovimentacaoBemDTO.hbm.xml
+END
+PatrimMovimentacaoBemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimMovimentacaoBemDTO.cs
+END
+EnderecoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/EnderecoDTO.cs
+END
+PatrimIndiceAtualizacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimIndiceAtualizacaoDTO.cs
+END
+FornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/FornecedorDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/NHibernateDAL.cs
+END
+PatrimTaxaDepreciacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimTaxaDepreciacaoDTO.hbm.xml
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PessoaDTO.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/EmpresaDTO.hbm.xml
+END
+SeguradoraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/SeguradoraDTO.hbm.xml
+END
+SetorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/SetorDTO.hbm.xml
+END
+PatrimGrupoBemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimGrupoBemDTO.hbm.xml
+END
+PatrimGrupoBemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimGrupoBemDTO.cs
+END
+PatrimDocumentoBemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimDocumentoBemDTO.hbm.xml
+END
+PatrimDepreciacaoBemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimDepreciacaoBemDTO.hbm.xml
+END
+PessoaJuridicaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PessoaJuridicaDTO.cs
+END
+PessoaJuridicaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PessoaJuridicaDTO.hbm.xml
+END
+EstadoCivilDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/EstadoCivilDTO.cs
+END
+PessoaFisicaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PessoaFisicaDTO.cs
+END
+PessoaFisicaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PessoaFisicaDTO.hbm.xml
+END
+PatrimApoliceSeguroDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimApoliceSeguroDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/ViewControleAcessoDTO.hbm.xml
+END
+PatrimonioBemDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimonioBemDAL.cs
+END
+PatrimEstadoConservacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimEstadoConservacaoDTO.hbm.xml
+END
+PatrimBemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimBemDTO.hbm.xml
+END
+EnderecoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/EnderecoDTO.hbm.xml
+END
+PatrimIndiceAtualizacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimIndiceAtualizacaoDTO.hbm.xml
+END
+FornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/FornecedorDTO.hbm.xml
+END
+ColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/ColaboradorDTO.cs
+END
+ColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/ColaboradorDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/UsuarioDTO.hbm.xml
+END
+AtividadeForCliDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/AtividadeForCliDTO.cs
+END
+AtividadeForCliDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/AtividadeForCliDTO.hbm.xml
+END
+PatrimTaxaDepreciacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimTaxaDepreciacaoDTO.cs
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PessoaDTO.hbm.xml
+END
+PatrimTipoMovimentacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimTipoMovimentacaoDTO.cs
+END
+PatrimTipoMovimentacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimTipoMovimentacaoDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/EmpresaDTO.cs
+END
+SeguradoraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/SeguradoraDTO.cs
+END
+SetorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/SetorDTO.cs
+END
+PatrimDocumentoBemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimDocumentoBemDTO.cs
+END
+PatrimDepreciacaoBemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/PatrimDepreciacaoBemDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Model/IDAL.cs
+END

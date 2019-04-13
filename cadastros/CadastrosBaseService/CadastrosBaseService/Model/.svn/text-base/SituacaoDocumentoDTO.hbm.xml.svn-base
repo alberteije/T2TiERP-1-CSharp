@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+       assembly="CadastrosBaseService"
+       namespace="CadastrosBaseService.Model" default-lazy="false">
+<class name="SituacaoDocumentoDTO" table="situacao_documento">
+   <id name="Id" column="id" type="Int32">
+      <generator class="identity" />
+    </id>
+    <property name="Codigo" column="CODIGO" type="string" length="2"/>
+    <property name="Descricao" column="DESCRICAO" type="string" length="100"/>
+  </class>
+</hibernate-mapping>

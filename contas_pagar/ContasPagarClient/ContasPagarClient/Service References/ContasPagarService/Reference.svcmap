@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2f07b0cd-c167-4d45-a2f5-7e5a3a7b882a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/ContasPagarService/ContasPagarService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ContasPagarService.xsd" MetadataType="Schema" ID="7fdbea00-7411-4625-ad1f-e9d84cfc192d" SourceId="1" SourceUrl="http://localhost/ContasPagarService/ContasPagarService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ContasPagarService1.xsd" MetadataType="Schema" ID="bc1e34c8-6901-4a4b-8f1b-c8c531b39deb" SourceId="1" SourceUrl="http://localhost/ContasPagarService/ContasPagarService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ContasPagarService.wsdl" MetadataType="Wsdl" ID="eb8f3918-1527-452c-896e-fe9b1e9f34aa" SourceId="1" SourceUrl="http://localhost/ContasPagarService/ContasPagarService.svc?wsdl" />
+    <MetadataFile FileName="ContasPagarService2.xsd" MetadataType="Schema" ID="c0d17ec8-f0fb-4aaf-8eac-fc3cdd9049a4" SourceId="1" SourceUrl="http://localhost/ContasPagarService/ContasPagarService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ContasPagarService.disco" MetadataType="Disco" ID="c0bcd895-2ef8-43e8-be6a-750ff96cf28b" SourceId="1" SourceUrl="http://localhost/ContasPagarService/ContasPagarService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

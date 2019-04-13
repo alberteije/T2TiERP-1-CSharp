@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto
+END
+PontoBancoHorasViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoBancoHorasViewModel.cs
+END
+PontoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoViewModel.cs
+END
+PontoRelogioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoRelogioViewModel.cs
+END
+ViewPontoMarcacaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/ViewPontoMarcacaoViewModel.cs
+END
+PontoClassificacaoJornadaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoClassificacaoJornadaViewModel.cs
+END
+PontoHorarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoHorarioViewModel.cs
+END
+PontoMarcacaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoMarcacaoViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/UsuarioViewModel.cs
+END
+PontoEscalaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoEscalaViewModel.cs
+END
+PontoFechamentoJornadaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoFechamentoJornadaViewModel.cs
+END
+PontoParametroViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoParametroViewModel.cs
+END
+PontoAbonoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/ViewModel/Ponto/PontoAbonoViewModel.cs
+END

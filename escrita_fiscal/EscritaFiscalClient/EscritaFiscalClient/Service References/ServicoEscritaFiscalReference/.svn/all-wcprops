@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference
+END
+ServicoEscritaFiscal.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/ServicoEscritaFiscal.wsdl
+END
+ServicoEscritaFiscal1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/ServicoEscritaFiscal1.xsd
+END
+ServicoEscritaFiscal2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/ServicoEscritaFiscal2.xsd
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/Reference.svcmap
+END
+EscritaFiscalClient.ServicoEscritaFiscalReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/EscritaFiscalClient.ServicoEscritaFiscalReference.UsuarioDTO.datasource
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/configuration91.svcinfo
+END
+EscritaFiscalClient.ServicoEscritaFiscalReference.FiscalApuracaoIcmsDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/EscritaFiscalClient.ServicoEscritaFiscalReference.FiscalApuracaoIcmsDTO.datasource
+END
+EscritaFiscalClient.ServicoEscritaFiscalReference.RegistroCartorioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/EscritaFiscalClient.ServicoEscritaFiscalReference.RegistroCartorioDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/Reference.cs
+END
+EscritaFiscalClient.ServicoEscritaFiscalReference.SimplesNacionalCabecalhoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/EscritaFiscalClient.ServicoEscritaFiscalReference.SimplesNacionalCabecalhoDTO.datasource
+END
+ServicoEscritaFiscal.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/ServicoEscritaFiscal.xsd
+END
+ServicoEscritaFiscal.disco
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/ServicoEscritaFiscal.disco
+END
+EscritaFiscalClient.ServicoEscritaFiscalReference.FiscalParametroDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/EscritaFiscalClient.ServicoEscritaFiscalReference.FiscalParametroDTO.datasource
+END
+EscritaFiscalClient.ServicoEscritaFiscalReference.FiscalLivroDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/EscritaFiscalClient.ServicoEscritaFiscalReference.FiscalLivroDTO.datasource
+END
+EscritaFiscalClient.ServicoEscritaFiscalReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/EscritaFiscalClient.ServicoEscritaFiscalReference.ViewControleAcessoDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/configuration.svcinfo
+END
+EscritaFiscalClient.ServicoEscritaFiscalReference.TipoNotaFiscalDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalClient/EscritaFiscalClient/Service%20References/ServicoEscritaFiscalReference/EscritaFiscalClient.ServicoEscritaFiscalReference.TipoNotaFiscalDTO.datasource
+END

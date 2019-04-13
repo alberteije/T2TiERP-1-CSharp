@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira
+END
+Carteira_Itau.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/Carteira_Itau.cs
+END
+Carteiras.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/Carteiras.cs
+END
+AbstractCarteira.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/AbstractCarteira.cs
+END
+Carteira_Caixa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/Carteira_Caixa.cs
+END
+ICarteira.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/ICarteira.cs
+END
+Carteira_BancoBrasil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/Carteira_BancoBrasil.cs
+END
+Carteira_HSBC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/Carteira_HSBC.cs
+END
+Carteira_Santander.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/Carteira_Santander.cs
+END
+Carteira.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/Carteira.cs
+END
+Carteira_BankBoston.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/Carteira/Carteira_BankBoston.cs
+END

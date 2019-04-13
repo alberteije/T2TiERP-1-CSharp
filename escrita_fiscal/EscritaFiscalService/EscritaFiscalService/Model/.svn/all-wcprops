@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model
+END
+FiscalTermoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalTermoDTO.hbm.xml
+END
+FiscalTermoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalTermoDTO.cs
+END
+SimplesNacionalDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/SimplesNacionalDetalheDTO.cs
+END
+SimplesNacionalDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/SimplesNacionalDetalheDTO.hbm.xml
+END
+FiscalParametroDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalParametroDTO.hbm.xml
+END
+FiscalParametroDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalParametroDTO.cs
+END
+FiscalLivroDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalLivroDTO.hbm.xml
+END
+FiscalLivroDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalLivroDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/ViewControleAcessoDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/ViewControleAcessoDTO.hbm.xml
+END
+TipoNotaFiscalDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/TipoNotaFiscalDTO.cs
+END
+TipoNotaFiscalDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/TipoNotaFiscalDTO.hbm.xml
+END
+FiscalLivroDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalLivroDAL.cs
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/UsuarioDTO.hbm.xml
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/NHibernateDAL.cs
+END
+FiscalApuracaoIcmsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalApuracaoIcmsDTO.hbm.xml
+END
+FiscalApuracaoIcmsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/FiscalApuracaoIcmsDTO.cs
+END
+SimplesNacionalDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/SimplesNacionalDAL.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/EmpresaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/EmpresaDTO.cs
+END
+RegistroCartorioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/RegistroCartorioDTO.hbm.xml
+END
+RegistroCartorioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/RegistroCartorioDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/IDAL.cs
+END
+SimplesNacionalCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/SimplesNacionalCabecalhoDTO.cs
+END
+SimplesNacionalCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_escrita_fiscal/!svn/ver/4/trunk/EscritaFiscalService/EscritaFiscalService/Model/SimplesNacionalCabecalhoDTO.hbm.xml
+END

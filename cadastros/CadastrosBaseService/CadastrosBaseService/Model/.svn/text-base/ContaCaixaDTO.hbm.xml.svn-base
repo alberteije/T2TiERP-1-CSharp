@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CadastrosBaseService"
+                   namespace="CadastrosBaseService.Model" default-lazy="false">
+  <class name="ContaCaixaDTO" table="conta_caixa">
+    <id name="Id" column="ID">
+      <generator class="identity"/>
+    </id>
+    <property name="IdContabilConta" column="ID_CONTABIL_CONTA"/>
+    <property name="IdEmpresa" column="ID_EMPRESA"/>
+    <property name="IdAgenciaBanco" column="ID_AGENCIA_BANCO"/>
+    <property name="Codigo" column="CODIGO"/>
+    <property name="Nome" column="NOME"/>
+    <property name="Descricao" column="DESCRICAO"/>
+    <property name="Tipo" column="TIPO"/>
+  </class>
+</hibernate-mapping>

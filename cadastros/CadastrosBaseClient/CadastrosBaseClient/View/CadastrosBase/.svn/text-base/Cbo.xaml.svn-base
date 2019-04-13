@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.Cbo"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="625">
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal" >
+            <Button Name="btSalvar" Width="100" Click="btSalvar_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+                    <TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+
+            <Button Name="btSair" Width="100" Click="btSair_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+                    <TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Grid>
+            <Label Content="Codigo" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" Height="28" VerticalAlignment="Top" />
+            <TextBox Text="{Binding cboSelected.codigo}" Height="23" HorizontalAlignment="Left" Margin="12,29,0,0" Name="tbCodigo" VerticalAlignment="Top" Width="133" />
+            <Label Content="Codigo 1994" Height="28" HorizontalAlignment="Left" Margin="151,12,0,0" Name="label2" VerticalAlignment="Top" />
+            <TextBox Text="{Binding cboSelected.codigo1994}" Height="23" HorizontalAlignment="Left" Margin="151,29,0,0" Name="tbCodigo1994" VerticalAlignment="Top" Width="133" />
+            <Label Content="Nome" Height="28" Margin="12,57,571,0" Name="label3" VerticalAlignment="Top" />
+            <TextBox Text="{Binding cboSelected.nome}" Height="23" Margin="12,75,12,0" Name="tbNome" VerticalAlignment="Top" />
+            <Label Content="Obsevação" Height="28" Margin="12,106,543,0" Name="label4" VerticalAlignment="Top" />
+            <TextBox Text="{Binding cboSelected.observacao}" Height="91" Margin="12,123,12,0" Name="tbObservacao" VerticalAlignment="Top" AcceptsReturn="True" VerticalContentAlignment="Top" />
+        </Grid>
+    </DockPanel>
+</UserControl>

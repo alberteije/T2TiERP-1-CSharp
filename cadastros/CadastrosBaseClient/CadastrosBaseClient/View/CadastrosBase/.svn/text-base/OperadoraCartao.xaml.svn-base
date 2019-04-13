@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.OperadoraCartao"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="380" d:DesignWidth="625">
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal" >
+            <Button Name="btnSalvar" Width="100" Click="btnSalvar_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+                    <TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+
+            <Button Name="btnVoltar" Width="100" Click="btnVoltar_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+                    <TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Grid>
+            <Label Content="Contábil Conta:" Height="28" HorizontalAlignment="Left" Margin="40,26,0,0" Name="lblContabilConta" VerticalAlignment="Top" />
+            <Label Content="Conta Caixa:" Height="28" HorizontalAlignment="Left" Margin="57,55,0,0" Name="lblContaCaixa" VerticalAlignment="Top" />
+            <Label Content="Bandeira:" Height="28" HorizontalAlignment="Left" Margin="74,83,0,0" Name="lblBandeira" VerticalAlignment="Top" />
+            <Label Content="Nome:" Height="28" HorizontalAlignment="Left" Name="lblNome" VerticalAlignment="Top" Margin="89,113,0,0" />
+            <Label Content="Taxa Adm:" Height="28" HorizontalAlignment="Left" Margin="67,142,0,0" Name="lblTaxaAdm" VerticalAlignment="Top" />
+            <Label Content="Taxa Adm Débito:" Height="28" HorizontalAlignment="Left" Margin="26,169,0,0" Name="lblTaxaAdmDebito" VerticalAlignment="Top" />
+            <Label Content="Valor Aluguel:" Height="28" HorizontalAlignment="Left" Margin="46,205,0,0" Name="lblValorAluguelPosPin" VerticalAlignment="Top" />
+            <Label Content="Vencimento:" Height="28" HorizontalAlignment="Left" Margin="57,229,0,0" Name="lblVencimentoAluguel" VerticalAlignment="Top" />
+            <Label Content="Telefone 1:" Height="28" HorizontalAlignment="Left" Margin="63,258,0,0" Name="lblFone1" VerticalAlignment="Top" />
+            <Label Content="Telefone 2:" Height="28" HorizontalAlignment="Left" Margin="65,287,0,0" Name="lblFone2" VerticalAlignment="Top" />
+            <TextBox Text="{Binding operadoracartaoSelected.IdContabilConta}" Height="23" HorizontalAlignment="Left" Margin="143,28,0,0" Name="txtIdContabilConta" VerticalAlignment="Top" Width="120" TabIndex="1" />
+            <TextBox Text="{Binding operadoracartaoSelected.IdContaCaixa}" Height="23" HorizontalAlignment="Left" Margin="143,57,0,0" Name="txtIdContaCaixa" VerticalAlignment="Top" Width="120" TabIndex="2" />
+            <TextBox Text="{Binding operadoracartaoSelected.Bandeira}" Height="23" HorizontalAlignment="Left" Margin="143,86,0,0" Name="txtBandeira" VerticalAlignment="Top" Width="120" TextWrapping="Wrap" VerticalContentAlignment="Top" />
+            <TextBox Text="{Binding operadoracartaoSelected.Nome}" Height="23" HorizontalAlignment="Left" Margin="143,115,0,0" Name="txtNome" VerticalAlignment="Top" Width="451" />
+            <TextBox Text="{Binding operadoracartaoSelected.TaxaAdm}" Height="23" HorizontalAlignment="Left" Margin="143,144,0,0" Name="txtTaxaAdm" VerticalAlignment="Top" Width="120" />
+            <TextBox Text="{Binding operadoracartaoSelected.TaxaAdmDebito}" Height="23" HorizontalAlignment="Left" Margin="143,173,0,0" Name="txtTaxaAdmDebito" VerticalAlignment="Top" Width="120" />
+            <TextBox Text="{Binding operadoracartaoSelected.ValorAluguelPosPin}" Height="23" HorizontalAlignment="Left" Margin="143,202,0,0" Name="txtValorAluguelPosPin" VerticalAlignment="Top" Width="120" />
+            <TextBox Text="{Binding operadoracartaoSelected.VencimentoAluguel}" Height="23" HorizontalAlignment="Left" Margin="143,231,0,0" Name="txtVencimentoAluguel" VerticalAlignment="Top" Width="120" />
+            <TextBox Text="{Binding operadoracartaoSelected.Fone1}" Height="23" HorizontalAlignment="Left" Margin="143,260,0,0" Name="txtFone1" VerticalAlignment="Top" Width="120" />
+            <TextBox Text="{Binding operadoracartaoSelected.Fone2}" Height="23" HorizontalAlignment="Left" Margin="143,289,0,0" Name="txtFone2" VerticalAlignment="Top" Width="120" />
+        </Grid>
+    </DockPanel>
+</UserControl>

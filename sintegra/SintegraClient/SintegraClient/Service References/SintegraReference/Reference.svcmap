@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="36f76c70-0c65-4e85-8ef2-3fafa4b440fd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/SintegraService/ServicoSintegra.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoSintegra.wsdl" MetadataType="Wsdl" ID="05780ab5-331b-4dc6-8de0-3e6ac170309a" SourceId="1" SourceUrl="http://localhost/SintegraService/ServicoSintegra.svc?wsdl" />
+    <MetadataFile FileName="ServicoSintegra.xsd" MetadataType="Schema" ID="c8b59243-38d7-451e-bf8e-3f8cbac14932" SourceId="1" SourceUrl="http://localhost/SintegraService/ServicoSintegra.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicoSintegra1.xsd" MetadataType="Schema" ID="d5f7a2ff-42f4-4246-a394-fd214386f409" SourceId="1" SourceUrl="http://localhost/SintegraService/ServicoSintegra.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicoSintegra2.xsd" MetadataType="Schema" ID="eea93678-9c96-4ec7-af60-a931f2e64842" SourceId="1" SourceUrl="http://localhost/SintegraService/ServicoSintegra.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicoSintegra.disco" MetadataType="Disco" ID="e9ce4db0-8e54-4816-8f30-1732d1609c12" SourceId="1" SourceUrl="http://localhost/SintegraService/ServicoSintegra.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

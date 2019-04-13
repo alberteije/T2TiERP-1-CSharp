@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="68e95678-20b6-4902-90af-c6c5c56098ad" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/SpedService/ServicoSped.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoSped.disco" MetadataType="Disco" ID="4d49c2bd-ae7c-44d2-93e0-9f6b4dec103c" SourceId="1" SourceUrl="http://localhost/SpedService/ServicoSped.svc?disco" />
+    <MetadataFile FileName="ServicoSped.xsd" MetadataType="Schema" ID="ec467d3b-280f-4291-9e17-0ea2fe72da05" SourceId="1" SourceUrl="http://localhost/SpedService/ServicoSped.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicoSped1.xsd" MetadataType="Schema" ID="c6c93709-af2a-4329-a9ad-b6e1f22b1254" SourceId="1" SourceUrl="http://localhost/SpedService/ServicoSped.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicoSped2.xsd" MetadataType="Schema" ID="80fefc9b-05e5-47f8-b0b0-7ba1d6f4d727" SourceId="1" SourceUrl="http://localhost/SpedService/ServicoSped.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicoSped3.xsd" MetadataType="Schema" ID="9854f4c9-5803-4c8c-8137-2ff1066fc01f" SourceId="1" SourceUrl="http://localhost/SpedService/ServicoSped.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServicoSped4.xsd" MetadataType="Schema" ID="888e6783-5a50-4d4d-946b-36c3c7b985f2" SourceId="1" SourceUrl="http://localhost/SpedService/ServicoSped.svc?xsd=xsd4" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="123c9fb3-7a42-4ff7-9144-6780ad5d3d1c" SourceId="1" SourceUrl="http://localhost/SpedService/ServicoSped.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

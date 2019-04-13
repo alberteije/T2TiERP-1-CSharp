@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin
+END
+Antlr3.Runtime.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin/Antlr3.Runtime.dll
+END
+Iesi.Collections.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin/Iesi.Collections.dll
+END
+NHibernate.ByteCode.LinFu.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin/NHibernate.ByteCode.LinFu.dll
+END
+NFeService.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin/NFeService.dll
+END
+MySql.Data.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin/MySql.Data.dll
+END
+NHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin/NHibernate.dll
+END
+LinFu.DynamicProxy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin/LinFu.DynamicProxy.dll
+END
+NFeService.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/NFeService/NFeService/bin/NFeService.pdb
+END

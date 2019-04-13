@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nfe_configuracoes>
+<PastaXmlEnvio>C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\10793118000178\Envio</PastaXmlEnvio>
+<PastaXmlRetorno>C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\10793118000178\Retorno</PastaXmlRetorno>
+<PastaXmlEnviado>C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\10793118000178\Enviado</PastaXmlEnviado>
+<PastaXmlErro>C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\10793118000178\Erro</PastaXmlErro>
+<UnidadeFederativaCodigo>53</UnidadeFederativaCodigo>
+<AmbienteCodigo>2</AmbienteCodigo>
+<CertificadoDigital>CN=T2TI TECNOLOGIA DA INFORMACAO LTDA:10793118000178, S=DF, L=BRASILIA, OU=RFB e-CNPJ A1, OU=ARCORREIOS, OU=CORREIOS, OU=Secretaria da Receita Federal do Brasil - RFB, O=ICP-Brasil, C=BR</CertificadoDigital>
+<tpEmis>1</tpEmis>
+<PastaBackup>C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\10793118000178\Backup</PastaBackup>
+<PastaXmlEmLote>C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\10793118000178\EnvioEmLote</PastaXmlEmLote>
+<PastaValidar>C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\10793118000178\Validar</PastaValidar>
+<GravarRetornoTXTNFe>False</GravarRetornoTXTNFe>
+<DiretorioSalvarComo>AM</DiretorioSalvarComo>
+<DiasLimpeza>0</DiasLimpeza>
+<PastaExeUniDanfe />
+<PastaConfigUniDanfe />
+<PastaDanfeMon />
+<XMLDanfeMonNFe>False</XMLDanfeMonNFe>
+<XMLDanfeMonProcNFe>False</XMLDanfeMonProcNFe>
+</nfe_configuracoes>

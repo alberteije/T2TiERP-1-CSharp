@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CadastrosBaseService"
+                   namespace="CadastrosBaseService.Model" default-lazy="false">
+  <class name="ConvenioDTO" table="convenio">
+    <id name="Id" column="ID">
+      <generator class="identity"/>
+    </id>
+    <property name="IdPessoa" column="ID_PESSOA"/>
+    <property name="IdContabilConta" column="ID_CONTABIL_CONTA"/>
+    <property name="IdEmpresa" column="ID_EMPRESA"/>
+    <property name="Desconto" column="DESCONTO"/>
+    <property name="DataVencimento" column="DATA_VENCIMENTO"/>
+    <property name="Logradouro" column="LOGRADOURO"/>
+    <property name="Numero" column="NUMERO"/>
+    <property name="Bairro" column="BAIRRO"/>
+    <property name="MunicipioIbge" column="MUNICIPIO_IBGE"/>
+    <property name="Uf" column="UF"/>
+    <property name="Contato" column="CONTATO"/>
+    <property name="Telefone" column="TELEFONE"/>
+    <property name="DataCadastro" column="DATA_CADASTRO"/>
+    <property name="Descricao" column="DESCRICAO"/>
+  </class>
+</hibernate-mapping>

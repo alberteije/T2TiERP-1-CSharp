@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient
+END
+App.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/App.xaml
+END
+App.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/App.xaml.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/app.config
+END
+GEDClientModule.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/GEDClientModule.cs
+END
+GEDClient.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/GEDClient.csproj.user
+END
+GEDClient.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/t2tierp_c_ged/!svn/ver/3/trunk/GEDClient/GEDClient/GEDClient.csproj
+END

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CadastrosBaseService"
+                   namespace="CadastrosBaseService.Model" default-lazy="false">
+  <class name="CstIcmsBDTO" table="cst_icms_b">
+    <id name="Id" column="ID">
+      <generator class="identity"/>
+    </id>
+    <property name="Codigo" column="CODIGO"/>
+    <property name="Descricao" column="DESCRICAO"/>
+    <property name="Observacao" column="OBSERVACAO"/>
+  </class>
+</hibernate-mapping>

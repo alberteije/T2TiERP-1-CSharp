@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nfe_configuracoes>
+<PastaXmlEnvio>c:\testeNFE\envio</PastaXmlEnvio>
+<PastaXmlRetorno>c:\testeNFE\retorno</PastaXmlRetorno>
+<PastaXmlEnviado>c:\testeNFE\enviado</PastaXmlEnviado>
+<PastaXmlErro>c:\testeNFE\xmlcomerro</PastaXmlErro>
+<UnidadeFederativaCodigo>35</UnidadeFederativaCodigo>
+<AmbienteCodigo>2</AmbienteCodigo>
+<CertificadoDigital>CN=RUDOLF SIZING AMIDOS DO BRASIL LTDA:53420477000192, S=SP, L="IBIRAREMA ", OU=RFB e-CNPJ A1, OU=ARPRONOVA, OU=PRONOVA, OU=Secretaria da Receita Federal do Brasil - RFB, O=ICP-Brasil, C=BR</CertificadoDigital>
+<tpEmis>1</tpEmis>
+<PastaBackup>c:\testeNFE\backup</PastaBackup>
+<PastaXmlEmLote />
+<PastaValidar>c:\testeNFE\validar</PastaValidar>
+<GravarRetornoTXTNFe>False</GravarRetornoTXTNFe>
+<DiretorioSalvarComo>AM</DiretorioSalvarComo>
+<DiasLimpeza>45</DiasLimpeza>
+<PastaExeUniDanfe />
+<PastaConfigUniDanfe />
+<PastaDanfeMon />
+<XMLDanfeMonNFe>False</XMLDanfeMonNFe>
+<XMLDanfeMonProcNFe>False</XMLDanfeMonProcNFe>
+</nfe_configuracoes>

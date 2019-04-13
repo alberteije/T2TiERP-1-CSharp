@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3532BC91-5486-4848-9E93-AE72698E813D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CadastrosBaseService</RootNamespace>
+    <AssemblyName>CadastrosBaseService</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\..\..\..\Meus documentos\Google Drive\VS2010\libs\NHibernate\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\..\..\..\Meus documentos\Google Drive\VS2010\libs\NHibernate\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="LinFu.DynamicProxy">
+      <HintPath>..\..\..\..\Meus documentos\Google Drive\VS2010\libs\NHibernate\LinFu.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Meus documentos\Google Drive\VS2010\libs\MySQL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\..\..\..\Meus documentos\Google Drive\VS2010\libs\NHibernate\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.LinFu">
+      <HintPath>..\..\..\..\Meus documentos\Google Drive\VS2010\libs\NHibernate\NHibernate.ByteCode.LinFu.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Model\CboDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CsosnA.hbm.xml" />
+    <EmbeddedResource Include="Model\CsosnB.hbm.xml" />
+    <EmbeddedResource Include="Model\SituacaoDocumentoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TipoCreditoPisDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CepDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\SalarioMinimoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CodigoGpsDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TipoDesligamentoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\SefipCodigoMovimentacaoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\BaseCreditoPisDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CstIpiDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\NcmDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\FeriadosDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CstCofinsDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CstIcmsADTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CstIcmsBDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CstPisDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\PessoaDTO.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\EstadoCivilDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\PessoaFisicaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ClienteDTO.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\PessoaJuridicaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ContatoDTO.hbm.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\EnderecoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\SituacaoForCliDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\AtividadeForCliDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ChequeDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TalonarioChequeDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ContaCaixaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ConvenioDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\OperadoraCartaoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\OperadoraPlanoSaudeDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\SindicatoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\SituacaoColaboradorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\EmpresaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ContabilContaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TributOperacaoFiscalDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\FornecedorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TransportadoraDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TipoAdmissaoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TipoRelacionamentoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TipoColaboradorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CargoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\NivelFormacaoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\SetorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ColaboradorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ContadorDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ProdutoMarcaDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\UnidadeProdutoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ProdutoGrupoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ProdutoSubGrupoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\AlmoxarifadoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ProdutoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TributGrupoTributarioDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\TributIcmsCustomCabDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\UsuarioDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\ViewControleAcessoDTO.hbm.xml" />
+    <EmbeddedResource Include="Model\CfopDTO.hbm.xml" />
+    <Content Include="ServicoCadastrosBase.svc" />
+    <Content Include="ServicoCadastrosPrincipais.svc" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IServicoCadastrosPrincipais.cs" />
+    <Compile Include="Model\AlmoxarifadoDTO.cs" />
+    <Compile Include="Model\AtividadeForCliDTO.cs" />
+    <Compile Include="Model\BaseCreditoPisDTO.cs" />
+    <Compile Include="Model\CargoDTO.cs" />
+    <Compile Include="Model\CboDTO.cs" />
+    <Compile Include="Model\CepDTO.cs" />
+    <Compile Include="Model\CfopDTO.cs" />
+    <Compile Include="Model\ChequeDTO.cs" />
+    <Compile Include="Model\ClienteDTO.cs" />
+    <Compile Include="Model\CodigoGpsDTO.cs" />
+    <Compile Include="Model\ColaboradorDTO.cs" />
+    <Compile Include="Model\ContabilContaDTO.cs" />
+    <Compile Include="Model\ContaCaixaDTO.cs" />
+    <Compile Include="Model\ContadorDTO.cs" />
+    <Compile Include="Model\ContatoDTO.cs" />
+    <Compile Include="Model\ConvenioDTO.cs" />
+    <Compile Include="Model\CsosnADTO.cs" />
+    <Compile Include="Model\CsosnBDTO.cs" />
+    <Compile Include="Model\CstCofinsDTO.cs" />
+    <Compile Include="Model\CstIcmsADTO.cs" />
+    <Compile Include="Model\CstIcmsBDTO.cs" />
+    <Compile Include="Model\CstIpiDTO.cs" />
+    <Compile Include="Model\CstPisDTO.cs" />
+    <Compile Include="Model\EmpresaDTO.cs" />
+    <Compile Include="Model\EnderecoDTO.cs" />
+    <Compile Include="Model\EstadoCivilDTO.cs" />
+    <Compile Include="Model\FeriadosDTO.CS" />
+    <Compile Include="Model\FornecedorDTO.cs" />
+    <Compile Include="Model\IDAL.cs" />
+    <Compile Include="Model\NcmDTO.cs" />
+    <Compile Include="Model\NHibernateDAL.cs" />
+    <Compile Include="Model\NivelFormacaoDTO.cs" />
+    <Compile Include="Model\OperadoraCartaoDTO.cs" />
+    <Compile Include="Model\OperadoraPlanoSaudeDTO.cs" />
+    <Compile Include="Model\PessoaDAL.cs" />
+    <Compile Include="Model\PessoaFisicaJuridicaDAL.cs" />
+    <Compile Include="Model\PessoaDTO.cs" />
+    <Compile Include="Model\PessoaFisicaDTO.cs" />
+    <Compile Include="Model\PessoaJuridicaDTO.cs" />
+    <Compile Include="Model\ProdutoDTO.cs" />
+    <Compile Include="Model\ProdutoGrupoDTO.cs" />
+    <Compile Include="Model\ProdutoMarcaDTO.cs" />
+    <Compile Include="Model\ProdutoSubGrupoDTO.cs" />
+    <Compile Include="Model\SalarioMinimoDTO.cs" />
+    <Compile Include="Model\SefipCodigoMovimentacaoDTO.cs" />
+    <Compile Include="Model\SetorDTO.cs" />
+    <Compile Include="Model\SindicatoDTO.cs" />
+    <Compile Include="Model\SituacaoColaboradorDTO.cs" />
+    <Compile Include="Model\SituacaoDocumentoDTO.cs" />
+    <Compile Include="Model\SituacaoForCliDTO.cs" />
+    <Compile Include="Model\TalonarioChequeDTO.cs" />
+    <Compile Include="Model\TipoAdmissaoDTO.cs" />
+    <Compile Include="Model\TipoColaboradorDTO.cs" />
+    <Compile Include="Model\TipoCreditoPisDTO.cs" />
+    <Compile Include="Model\TipoDesligamentoDTO.cs" />
+    <Compile Include="Model\TipoRelacionamentoDTO.cs" />
+    <Compile Include="Model\TransportadoraDTO.cs" />
+    <Compile Include="Model\TributGrupoTributarioDTO.cs" />
+    <Compile Include="Model\TributIcmsCustomCabDTO.cs" />
+    <Compile Include="Model\TributOperacaoFiscalDTO.cs" />
+    <Compile Include="Model\UnidadeProdutoDTO.cs" />
+    <Compile Include="Model\UsuarioDAL.cs" />
+    <Compile Include="Model\UsuarioDTO.cs" />
+    <Compile Include="Model\ViewControleAcessoDTO.cs" />
+    <Compile Include="NHibernate\NHibernateHelper.cs" />
+    <Compile Include="ServicoCadastrosBase.svc.cs">
+      <DependentUpon>ServicoCadastrosBase.svc</DependentUpon>
+    </Compile>
+    <Compile Include="IServicoCadastrosBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServicoCadastrosPrincipais.svc.cs">
+      <DependentUpon>ServicoCadastrosPrincipais.svc</DependentUpon>
+    </Compile>
+    <Compile Include="Util\Biblioteca.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1043</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/CadastrosBaseService</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+          <EnableWcfTestClientForSVCDefaultValue>True</EnableWcfTestClientForSVCDefaultValue>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.CstIcmsB"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="625">
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal" >
+            <Button Name="btnSalvar" Width="100" Click="btnSalvar_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+                    <TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+
+            <Button Name="btnVoltar" Width="100" Click="btnVoltar_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+                    <TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Grid>
+            <Label Content="Código:" Height="28" HorizontalAlignment="Left" Margin="75,28,0,0" Name="lblCodigo" VerticalAlignment="Top" />
+            <Label Content="Descrição:" Height="28" HorizontalAlignment="Left" Margin="62,57,0,0" Name="lblDescricao" VerticalAlignment="Top" />
+            <Label Content="Observação:" Height="28" HorizontalAlignment="Left" Margin="50,86,0,0" Name="lblObservacao" VerticalAlignment="Top" />
+            <TextBox Text="{Binding csticmsbSelected.Codigo}" Height="23" HorizontalAlignment="Left" Margin="132,30,0,0" Name="txtCodigo" VerticalAlignment="Top" Width="80" TabIndex="1" />
+            <TextBox Text="{Binding csticmsbSelected.Descricao}" Height="23" HorizontalAlignment="Left" Margin="132,59,0,0" Name="txtDescricao" VerticalAlignment="Top" Width="480" TabIndex="2" />
+            <TextBox Text="{Binding csticmsbSelected.Observacao}" Height="131" HorizontalAlignment="Left" Margin="132,88,0,0" Name="txtObservacao" VerticalAlignment="Top" Width="480" TabIndex="2" TextWrapping="Wrap" VerticalContentAlignment="Top" />
+        </Grid>
+    </DockPanel>
+</UserControl>

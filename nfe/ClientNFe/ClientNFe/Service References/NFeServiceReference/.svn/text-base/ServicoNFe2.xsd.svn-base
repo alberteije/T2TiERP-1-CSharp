@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost/NFeService/ServicoNFe.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/NFeService.Model" />
+  <xs:element name="selectEmpresaId">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="id" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectEmpresaIdResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectEmpresaIdResult" nillable="true" type="q1:EmpresaDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectNFeCabecalho">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="nfeCabecalho" nillable="true" type="q2:NFeCabecalhoDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectNFeCabecalhoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectNFeCabecalhoResult" nillable="true" type="q3:ArrayOfNFeCabecalhoDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarNFeCabecalho">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="nfeCabecalho" nillable="true" type="q4:NFeCabecalhoDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="salvarNFeCabecalhoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="salvarNFeCabecalhoResult" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectNFeCabecalhoId">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="id" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectNFeCabecalhoIdResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectNFeCabecalhoIdResult" nillable="true" type="q5:NFeCabecalhoDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectProduto">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="produto" nillable="true" type="q6:ProdutoDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectProdutoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectProdutoResult" nillable="true" type="q7:ArrayOfProdutoDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectUsuario">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="login" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="senha" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectUsuarioResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectUsuarioResult" nillable="true" type="q8:UsuarioDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectControleAcesso">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="viewControleAcesso" nillable="true" type="q9:ViewControleAcessoDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectControleAcessoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectControleAcessoResult" nillable="true" type="q10:ArrayOfViewControleAcessoDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectTributOperacaoFiscal">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="tributOperacaoFiscal" nillable="true" type="q11:TributOperacaoFiscalDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectTributOperacaoFiscalResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectTributOperacaoFiscalResult" nillable="true" type="q12:ArrayOfTributOperacaoFiscalDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectViewTributacaoPis">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="viewTributacaoPis" nillable="true" type="q13:ViewTributacaoPisDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectViewTributacaoPisResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectViewTributacaoPisResult" nillable="true" type="q14:ViewTributacaoPisDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectViewTributacaoCofins">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q15="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="viewTributacaoCofins" nillable="true" type="q15:ViewTributacaoCofinsDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectViewTributacaoCofinsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q16="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectViewTributacaoCofinsResult" nillable="true" type="q16:ViewTributacaoCofinsDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectViewTributacaoIcms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q17="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="viewTributacaoIcms" nillable="true" type="q17:ViewTributacaoIcmsDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="selectViewTributacaoIcmsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q18="http://schemas.datacontract.org/2004/07/NFeService.Model" minOccurs="0" name="selectViewTributacaoIcmsResult" nillable="true" type="q18:ViewTributacaoIcmsDTO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

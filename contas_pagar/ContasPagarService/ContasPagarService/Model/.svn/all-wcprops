@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model
+END
+FinTipoPagamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinTipoPagamentoDTO.hbm.xml
+END
+FinStatusParcelaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinStatusParcelaDTO.hbm.xml
+END
+NaturezaFinanceiraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/NaturezaFinanceiraDTO.hbm.xml
+END
+NaturezaFinanceiraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/NaturezaFinanceiraDTO.cs
+END
+ContaCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ContaCaixaDTO.hbm.xml
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ViewControleAcessoDTO.cs
+END
+FinParcelaPagarDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinParcelaPagarDTO.hbm.xml
+END
+FinParcelaPagarDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinParcelaPagarDTO.cs
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ContabilContaDTO.cs
+END
+ViewFinLancamentoPagarDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ViewFinLancamentoPagarDTO.hbm.xml
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/NHibernateDAL.cs
+END
+FinLctoPagarNtFinanceiraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinLctoPagarNtFinanceiraDTO.cs
+END
+FinLctoPagarNtFinanceiraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinLctoPagarNtFinanceiraDTO.hbm.xml
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/EmpresaDTO.hbm.xml
+END
+ViewPessoaFornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ViewPessoaFornecedorDTO.hbm.xml
+END
+FinDocumentoOrigemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinDocumentoOrigemDTO.cs
+END
+FinDocumentoOrigemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinDocumentoOrigemDTO.hbm.xml
+END
+FinParcelaPagamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinParcelaPagamentoDTO.cs
+END
+FinTipoPagamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinTipoPagamentoDTO.cs
+END
+LancamentoPagarDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/LancamentoPagarDAL.cs
+END
+FinStatusParcelaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinStatusParcelaDTO.cs
+END
+ContaCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ContaCaixaDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ContabilContaDTO.hbm.xml
+END
+ViewFinLancamentoPagarDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ViewFinLancamentoPagarDTO.cs
+END
+PagamentoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/PagamentoDAL.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/UsuarioDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/UsuarioDTO.cs
+END
+FinLancamentoPagarDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinLancamentoPagarDTO.cs
+END
+FinLancamentoPagarDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinLancamentoPagarDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/EmpresaDTO.cs
+END
+ViewPessoaFornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/ViewPessoaFornecedorDTO.cs
+END
+FinParcelaPagamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/FinParcelaPagamentoDTO.hbm.xml
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/IDAL.cs
+END
+PlanoNaturezaFinanceiraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/PlanoNaturezaFinanceiraDTO.hbm.xml
+END
+PlanoNaturezaFinanceiraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarService/ContasPagarService/Model/PlanoNaturezaFinanceiraDTO.cs
+END

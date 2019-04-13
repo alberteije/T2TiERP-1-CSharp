@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference
+END
+PontoClient.ServicoPontoReference.PontoParametroDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoParametroDTO.datasource
+END
+PontoClient.ServicoPontoReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.ViewControleAcessoDTO.datasource
+END
+PontoClient.ServicoPontoReference.PontoAbonoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoAbonoDTO.datasource
+END
+PontoClient.ServicoPontoReference.PontoRelogioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoRelogioDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/Reference.svcmap
+END
+PontoClient.ServicoPontoReference.ViewPontoMarcacaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.ViewPontoMarcacaoDTO.datasource
+END
+ServicoPonto.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/ServicoPonto.xsd
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/configuration91.svcinfo
+END
+PontoClient.ServicoPontoReference.PontoHorarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoHorarioDTO.datasource
+END
+ServicoPonto.disco
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/ServicoPonto.disco
+END
+PontoClient.ServicoPontoReference.PontoMarcacaoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoMarcacaoDTO.datasource
+END
+PontoClient.ServicoPontoReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.UsuarioDTO.datasource
+END
+PontoClient.ServicoPontoReference.ColaboradorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.ColaboradorDTO.datasource
+END
+PontoClient.ServicoPontoReference.PontoFechamentoJornadaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoFechamentoJornadaDTO.datasource
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/Reference.cs
+END
+ServicoPonto.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/ServicoPonto.wsdl
+END
+PontoClient.ServicoPontoReference.PontoBancoHorasDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoBancoHorasDTO.datasource
+END
+PontoClient.ServicoPontoReference.PontoClassificacaoJornadaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoClassificacaoJornadaDTO.datasource
+END
+ServicoPonto1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/ServicoPonto1.xsd
+END
+ServicoPonto2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/ServicoPonto2.xsd
+END
+PontoClient.ServicoPontoReference.PontoEscalaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/PontoClient.ServicoPontoReference.PontoEscalaDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoClient/PontoClient/Service%20References/ServicoPontoReference/configuration.svcinfo
+END

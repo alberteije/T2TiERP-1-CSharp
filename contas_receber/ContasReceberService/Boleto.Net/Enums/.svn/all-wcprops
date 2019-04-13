@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Enums
+END
+TipoOcorrencia.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Enums/TipoOcorrencia.cs
+END
+TipoArquivo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Enums/TipoArquivo.cs
+END
+TipoInscricao.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Enums/TipoInscricao.cs
+END
+TipoMovimento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Enums/TipoMovimento.cs
+END

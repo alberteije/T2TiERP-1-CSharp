@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio
+END
+PatrimTipoAquisicaoBem.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoAquisicaoBem.xaml.cs
+END
+PatrimBem.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimBem.xaml
+END
+PatrimBemLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimBemLista.xaml.cs
+END
+PatrimEstadoConservacaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimEstadoConservacaoPrincipal.xaml
+END
+PatrimEstadoConservacao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimEstadoConservacao.xaml.cs
+END
+PatrimMovimentacaoBemPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimMovimentacaoBemPrincipal.xaml
+END
+PatrimEstadoConservacaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimEstadoConservacaoPrincipal.xaml.cs
+END
+PatrimTipoMovimentacao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoMovimentacao.xaml
+END
+PatrimIndiceAtualizacaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimIndiceAtualizacaoPrincipal.xaml.cs
+END
+PatrimTipoMovimentacaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoMovimentacaoLista.xaml.cs
+END
+PatrimGrupoBemPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimGrupoBemPrincipal.xaml
+END
+PatrimTipoAquisicaoBem.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoAquisicaoBem.xaml
+END
+PatrimTipoAquisicaoBemLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoAquisicaoBemLista.xaml.cs
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/Login.xaml.cs
+END
+PatrimEstadoConservacaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimEstadoConservacaoLista.xaml
+END
+PatrimApoliceSeguro.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimApoliceSeguro.xaml
+END
+PatrimApoliceSeguroLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimApoliceSeguroLista.xaml.cs
+END
+PatrimMovimentacaoBemLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimMovimentacaoBemLista.xaml
+END
+PatrimApoliceSeguroPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimApoliceSeguroPrincipal.xaml
+END
+PatrimApoliceSeguro.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimApoliceSeguro.xaml.cs
+END
+PatrimMovimentacaoBemPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimMovimentacaoBemPrincipal.xaml.cs
+END
+PatrimTaxaDepreciacao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTaxaDepreciacao.xaml
+END
+PatrimGrupoBemLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimGrupoBemLista.xaml
+END
+PatrimTaxaDepreciacaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTaxaDepreciacaoLista.xaml.cs
+END
+PatrimTaxaDepreciacaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTaxaDepreciacaoPrincipal.xaml
+END
+PatrimGrupoBem.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimGrupoBem.xaml
+END
+PatrimTipoMovimentacaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoMovimentacaoPrincipal.xaml
+END
+PatrimTaxaDepreciacao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTaxaDepreciacao.xaml.cs
+END
+PatrimGrupoBemLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimGrupoBemLista.xaml.cs
+END
+PatrimDocumentoBem.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDocumentoBem.xaml
+END
+SeguradoraPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/SeguradoraPrincipal.xaml
+END
+PatrimDocumentoBemLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDocumentoBemLista.xaml.cs
+END
+PatrimDocumentoBemPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDocumentoBemPrincipal.xaml
+END
+Seguradora.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/Seguradora.xaml.cs
+END
+PatrimDepreciacaoBemPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDepreciacaoBemPrincipal.xaml
+END
+PatrimDocumentoBem.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDocumentoBem.xaml.cs
+END
+SeguradoraPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/SeguradoraPrincipal.xaml.cs
+END
+PatrimDepreciacaoBem.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDepreciacaoBem.xaml.cs
+END
+PatrimDepreciacaoBemPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDepreciacaoBemPrincipal.xaml.cs
+END
+PatrimApoliceSeguroLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimApoliceSeguroLista.xaml
+END
+PatrimTipoAquisicaoBemPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoAquisicaoBemPrincipal.xaml
+END
+PatrimEstadoConservacao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimEstadoConservacao.xaml
+END
+PatrimEstadoConservacaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimEstadoConservacaoLista.xaml.cs
+END
+PatrimBemPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimBemPrincipal.xaml
+END
+PatrimBem.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimBem.xaml.cs
+END
+PatrimIndiceAtualizacao.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimIndiceAtualizacao.xaml
+END
+PatrimBemPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimBemPrincipal.xaml.cs
+END
+PatrimTaxaDepreciacaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTaxaDepreciacaoLista.xaml
+END
+PatrimMovimentacaoBem.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimMovimentacaoBem.xaml.cs
+END
+PatrimIndiceAtualizacaoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimIndiceAtualizacaoLista.xaml.cs
+END
+PatrimonioPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimonioPrincipal.xaml.cs
+END
+PatrimIndiceAtualizacaoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimIndiceAtualizacaoPrincipal.xaml
+END
+PatrimTipoMovimentacaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoMovimentacaoLista.xaml
+END
+SeguradoraLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/SeguradoraLista.xaml
+END
+PatrimIndiceAtualizacao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimIndiceAtualizacao.xaml.cs
+END
+PatrimDocumentoBemLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDocumentoBemLista.xaml
+END
+PatrimDepreciacaoBemLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDepreciacaoBemLista.xaml
+END
+PatrimGrupoBem.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimGrupoBem.xaml.cs
+END
+PatrimTipoMovimentacaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoMovimentacaoPrincipal.xaml.cs
+END
+PatrimTipoAquisicaoBemLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoAquisicaoBemLista.xaml
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/Login.xaml
+END
+PatrimBemLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimBemLista.xaml
+END
+PatrimTipoAquisicaoBemPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoAquisicaoBemPrincipal.xaml.cs
+END
+PatrimMovimentacaoBem.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimMovimentacaoBem.xaml
+END
+PatrimIndiceAtualizacaoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimIndiceAtualizacaoLista.xaml
+END
+PatrimonioPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimonioPrincipal.xaml
+END
+PatrimMovimentacaoBemLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimMovimentacaoBemLista.xaml.cs
+END
+PatrimApoliceSeguroPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimApoliceSeguroPrincipal.xaml.cs
+END
+Seguradora.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/Seguradora.xaml
+END
+SeguradoraLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/SeguradoraLista.xaml.cs
+END
+PatrimTipoMovimentacao.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTipoMovimentacao.xaml.cs
+END
+PatrimTaxaDepreciacaoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimTaxaDepreciacaoPrincipal.xaml.cs
+END
+PatrimDepreciacaoBem.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDepreciacaoBem.xaml
+END
+PatrimDepreciacaoBemLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDepreciacaoBemLista.xaml.cs
+END
+PatrimGrupoBemPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimGrupoBemPrincipal.xaml.cs
+END
+PatrimDocumentoBemPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/View/Patrimonio/PatrimDocumentoBemPrincipal.xaml.cs
+END

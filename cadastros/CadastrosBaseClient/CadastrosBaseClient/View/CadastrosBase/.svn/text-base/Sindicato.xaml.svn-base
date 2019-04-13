@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.Sindicato" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" mc:Ignorable="d" d:DesignHeight="500" d:DesignWidth="700">
+	<DockPanel LastChildFill="True">
+		<StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Right" Orientation="Horizontal">
+			<Button Name="btSalvar" Width="100" Click="btSalvar_Click">
+				<StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+					<Image Source="/Imagem/botaoConfirmar.png" Height="23"></Image>
+					<TextBlock Text="Salvar" Margin="3,0,0,0" VerticalAlignment="Center" />
+				</StackPanel>
+			</Button>
+			<Button Name="btSair" Width="100" Click="btSair_Click">
+				<StackPanel Orientation="Horizontal">
+					<Image Source="/Imagem/21botaoSair.png" Height="23"></Image>
+					<TextBlock Text="Voltar" Margin="3,0,0,0" VerticalAlignment="Center" />
+				</StackPanel>
+			</Button>
+		</StackPanel>
+		<Grid>
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" IsReadOnly="True" Text="{Binding SindicatoSelected.ContabilConta.Id}" Height="23" Width="652" Margin="6,74,0,0"  />
+			<Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Content="..." Width="30" Name="btPesquisarContabilConta" Click="btPesquisarContabilConta_Click" Margin="664,74,0,0"  />
+            <Label Content="Conta Contabil" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,55,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.CodigoBanco}" Height="23" Width="100" Margin="6,122,0,0"  />
+			<Label Content="Codigo Banco" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,103,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.CodigoAgencia}" Height="23" Width="100" Margin="112,122,0,0"  />
+			<Label Content="Codigo Agencia" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,103,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.ContaBanco}" Height="23" Width="372" Margin="218,122,0,0"  />
+			<Label Content="Conta Banco" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="218,103,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.CodigoCedente}" Height="23" Width="100" Margin="594,122,0,0"  />
+			<Label Content="Codigo Cedente" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="594,103,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Logradouro}" Height="23" Width="688" Margin="6,170,0,0"  />
+			<Label Content="Logradouro" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,151,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Numero}" Height="23" Width="100" Margin="6,222,0,0"  />
+			<Label Content="Numero" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,203,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Bairro}" Height="23" Width="372" Margin="112,222,0,0"  />
+			<Label Content="Bairro" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,203,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.MunicipioIbge}" Height="23" Width="100" Margin="490,222,0,0"  />
+			<Label Content="Municipio Ibge" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="490,203,0,0"  />
+            <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Uf}" Height="23" Width="98" Margin="596,222,0,0"  />
+			<Label Content="Uf" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="596,203,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Fone1}" Height="23" Width="100" Margin="6,273,0,0"  />
+			<Label Content="Fone 1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,254,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Fone2}" Height="23" Width="100" Margin="112,273,0,0"  />
+			<Label Content="Fone 2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,254,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Email}" Height="23" Width="476" Margin="218,273,0,0"  />
+			<Label Content="Email" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="218,254,0,0"  />
+			<ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedValue="{Binding SindicatoSelected.TipoSindicato}" SelectedValuePath="Tag" Margin="6,321,0,0" >
+				<ComboBoxItem Content="Empregados" Tag="E" />
+				<ComboBoxItem Content="Patronal" Tag="P" />
+			</ComboBox>
+			<Label Content="Tipo Sindicato" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,302,0,0"  />
+			<DatePicker HorizontalAlignment="Left" VerticalAlignment="Top" Height="23" Width="100" SelectedDate="{Binding SindicatoSelected.DataBase}" Margin="112,321,0,0"  />
+			<Label Content="Data Base" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,302,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.PisoSalarial}" Height="23" Width="100" Margin="218,321,0,0"  />
+			<Label Content="Piso Salarial" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="218,302,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Cnpj}" Height="23" Width="160" Margin="324,321,0,0"  />
+			<Label Content="Cnpj" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,302,0,0"  />
+			<TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Text="{Binding SindicatoSelected.Nome}" Height="23" Width="688" Margin="6,24,0,0"  />
+			<Label Content="Nome" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="6,5,0,0"  />
+		</Grid>
+	</DockPanel>
+</UserControl>

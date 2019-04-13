@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Util
+END
+RadioStringConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Util/RadioStringConverter.cs
+END
+MoedaFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Util/MoedaFormat.cs
+END
+CloseableTabItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Util/CloseableTabItem.cs
+END
+BooleanCharConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioClient/PatrimonioClient/Util/BooleanCharConverter.cs
+END

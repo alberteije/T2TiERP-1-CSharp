@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Util
+END
+RadioStringConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Util/RadioStringConverter.cs
+END
+MoedaFormat.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Util/MoedaFormat.cs
+END
+CloseableTabItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Util/CloseableTabItem.cs
+END
+BooleanCharConverter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_sped/!svn/ver/4/trunk/SpedClient/SpedClient/Util/BooleanCharConverter.cs
+END

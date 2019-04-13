@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/ViewModel/Contratos
+END
+ContratoSolicitacaoServicoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/ViewModel/Contratos/ContratoSolicitacaoServicoViewModel.cs
+END
+ContratoTipoServicoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/ViewModel/Contratos/ContratoTipoServicoViewModel.cs
+END
+TipoContratoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/ViewModel/Contratos/TipoContratoViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/ViewModel/Contratos/UsuarioViewModel.cs
+END
+ContratoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/ViewModel/Contratos/ContratoViewModel.cs
+END
+ContratosViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/ViewModel/Contratos/ContratosViewModel.cs
+END

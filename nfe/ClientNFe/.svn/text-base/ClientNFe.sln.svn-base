@@ -1,0 +1,110 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientNFe", "ClientNFe\ClientNFe.csproj", "{5C9E0C86-0563-47DB-AFD7-8AB04088354A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uninfe", "Uninfe\uninfe\uninfe.csproj", "{B6E8E809-6501-4D21-A94C-D751A3D57085}"
+	ProjectSection(ProjectDependencies) = postProject
+		{704CC7AF-5152-418B-B709-F3DC28E799C7} = {704CC7AF-5152-418B-B709-F3DC28E799C7}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniNFeLibrary", "Uninfe\UniNFeLibrary\UniNFeLibrary.csproj", "{704CC7AF-5152-418B-B709-F3DC28E799C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unicte", "Uninfe\unicte\unicte.csproj", "{67232FEE-F583-4E59-AF5B-DBB613407627}"
+	ProjectSection(ProjectDependencies) = postProject
+		{704CC7AF-5152-418B-B709-F3DC28E799C7} = {704CC7AF-5152-418B-B709-F3DC28E799C7}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Debug|x86.ActiveCfg = Debug|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Debug|x86.Build.0 = Debug|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Release|Any CPU.ActiveCfg = Release|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Release|x86.ActiveCfg = Release|x86
+		{5C9E0C86-0563-47DB-AFD7-8AB04088354A}.Release|x86.Build.0 = Release|x86
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B6E8E809-6501-4D21-A94C-D751A3D57085}.Release|x86.ActiveCfg = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{704CC7AF-5152-418B-B709-F3DC28E799C7}.Release|x86.ActiveCfg = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{67232FEE-F583-4E59-AF5B-DBB613407627}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs03.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = uninfe\\uninfe.csproj
+		SccProjectName1 = uninfe
+		SccLocalPath1 = uninfe
+		SccProjectUniqueName2 = GerarProcNFe\\GerarProcNFe.csproj
+		SccProjectName2 = GerarProcNFe
+		SccLocalPath2 = GerarProcNFe
+		SccProjectUniqueName3 = UniNFeLibrary\\UniNFeLibrary.csproj
+		SccProjectName3 = UniNFeLibrary
+		SccLocalPath3 = UniNFeLibrary
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs03.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = uninfe\\uninfe.csproj
+		SccProjectName1 = uninfe
+		SccLocalPath1 = uninfe
+		SccProjectUniqueName2 = GerarProcNFe\\GerarProcNFe.csproj
+		SccProjectName2 = GerarProcNFe
+		SccLocalPath2 = GerarProcNFe
+		SccProjectUniqueName3 = UniNFeLibrary\\UniNFeLibrary.csproj
+		SccProjectName3 = UniNFeLibrary
+		SccLocalPath3 = UniNFeLibrary
+	EndGlobalSection
+EndGlobal

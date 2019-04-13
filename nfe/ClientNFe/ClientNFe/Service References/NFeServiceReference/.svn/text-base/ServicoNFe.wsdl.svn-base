@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicoNFe" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/NFeService/ServicoNFe.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/NFeService/ServicoNFe.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost/NFeService/ServicoNFe.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/NFeService.Model" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="INFe_selectEmpresaId_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectEmpresaId" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectEmpresaId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectEmpresaIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectNFeCabecalho_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNFeCabecalho" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectNFeCabecalho_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNFeCabecalhoResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_salvarNFeCabecalho_InputMessage">
+    <wsdl:part name="parameters" element="tns:salvarNFeCabecalho" />
+  </wsdl:message>
+  <wsdl:message name="INFe_salvarNFeCabecalho_OutputMessage">
+    <wsdl:part name="parameters" element="tns:salvarNFeCabecalhoResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectNFeCabecalhoId_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectNFeCabecalhoId" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectNFeCabecalhoId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectNFeCabecalhoIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectProduto_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectProduto" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectProduto_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectProdutoResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectUsuario" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectControleAcesso_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectControleAcesso" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectControleAcesso_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectControleAcessoResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectTributOperacaoFiscal_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectTributOperacaoFiscal" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectTributOperacaoFiscal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectTributOperacaoFiscalResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectViewTributacaoPis_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewTributacaoPis" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectViewTributacaoPis_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewTributacaoPisResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectViewTributacaoCofins_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewTributacaoCofins" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectViewTributacaoCofins_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewTributacaoCofinsResponse" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectViewTributacaoIcms_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewTributacaoIcms" />
+  </wsdl:message>
+  <wsdl:message name="INFe_selectViewTributacaoIcms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectViewTributacaoIcmsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="INFe">
+    <wsdl:operation name="selectEmpresaId">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectEmpresaId" message="tns:INFe_selectEmpresaId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectEmpresaIdResponse" message="tns:INFe_selectEmpresaId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNFeCabecalho">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectNFeCabecalho" message="tns:INFe_selectNFeCabecalho_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectNFeCabecalhoResponse" message="tns:INFe_selectNFeCabecalho_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="salvarNFeCabecalho">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/salvarNFeCabecalho" message="tns:INFe_salvarNFeCabecalho_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/salvarNFeCabecalhoResponse" message="tns:INFe_salvarNFeCabecalho_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectNFeCabecalhoId">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectNFeCabecalhoId" message="tns:INFe_selectNFeCabecalhoId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectNFeCabecalhoIdResponse" message="tns:INFe_selectNFeCabecalhoId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectProduto">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectProduto" message="tns:INFe_selectProduto_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectProdutoResponse" message="tns:INFe_selectProduto_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectUsuario" message="tns:INFe_selectUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectUsuarioResponse" message="tns:INFe_selectUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectControleAcesso">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectControleAcesso" message="tns:INFe_selectControleAcesso_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectControleAcessoResponse" message="tns:INFe_selectControleAcesso_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectTributOperacaoFiscal">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectTributOperacaoFiscal" message="tns:INFe_selectTributOperacaoFiscal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectTributOperacaoFiscalResponse" message="tns:INFe_selectTributOperacaoFiscal_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewTributacaoPis">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectViewTributacaoPis" message="tns:INFe_selectViewTributacaoPis_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectViewTributacaoPisResponse" message="tns:INFe_selectViewTributacaoPis_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewTributacaoCofins">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectViewTributacaoCofins" message="tns:INFe_selectViewTributacaoCofins_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectViewTributacaoCofinsResponse" message="tns:INFe_selectViewTributacaoCofins_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectViewTributacaoIcms">
+      <wsdl:input wsaw:Action="http://tempuri.org/INFe/selectViewTributacaoIcms" message="tns:INFe_selectViewTributacaoIcms_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INFe/selectViewTributacaoIcmsResponse" message="tns:INFe_selectViewTributacaoIcms_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_INFe" type="tns:INFe">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="selectEmpresaId">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectEmpresaId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNFeCabecalho">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectNFeCabecalho" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="salvarNFeCabecalho">
+      <soap:operation soapAction="http://tempuri.org/INFe/salvarNFeCabecalho" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectNFeCabecalhoId">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectNFeCabecalhoId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectProduto">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectProduto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectUsuario">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectControleAcesso">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectControleAcesso" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectTributOperacaoFiscal">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectTributOperacaoFiscal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewTributacaoPis">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectViewTributacaoPis" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewTributacaoCofins">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectViewTributacaoCofins" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectViewTributacaoIcms">
+      <soap:operation soapAction="http://tempuri.org/INFe/selectViewTributacaoIcms" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicoNFe">
+    <wsdl:port name="BasicHttpBinding_INFe" binding="tns:BasicHttpBinding_INFe">
+      <soap:address location="http://localhost/NFeService/ServicoNFe.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

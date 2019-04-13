@@ -1,0 +1,12 @@
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\SpedService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\SpedService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\ACBrFramework.Net.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\Antlr3.Runtime.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\Iesi.Collections.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\LinFu.DynamicProxy.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\MySql.Data.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\NHibernate.ByteCode.LinFu.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\bin\NHibernate.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\obj\Debug\SpedService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SpedService\SpedService\obj\Debug\SpedService.pdb

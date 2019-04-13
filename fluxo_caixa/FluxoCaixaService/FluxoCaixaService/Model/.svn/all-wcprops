@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model
+END
+ContaCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/ContaCaixaDTO.hbm.xml
+END
+ContaCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/ContaCaixaDTO.cs
+END
+FluxoCaixaDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/FluxoCaixaDAL.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/ViewControleAcessoDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/UsuarioDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/UsuarioDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/NHibernateDAL.cs
+END
+ViewFinFluxoCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/ViewFinFluxoCaixaDTO.cs
+END
+ViewFinFluxoCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/ViewFinFluxoCaixaDTO.hbm.xml
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/EmpresaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/EmpresaDTO.cs
+END
+DocumentoOrigemDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/DocumentoOrigemDTO.hbm.xml
+END
+DocumentoOrigemDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/DocumentoOrigemDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_fluxo_caixa/!svn/ver/2/trunk/FluxoCaixaService/FluxoCaixaService/Model/IDAL.cs
+END

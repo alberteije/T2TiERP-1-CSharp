@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Web.Release.config
+END
+ServicoSintegra.svc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/ServicoSintegra.svc
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Web.config
+END
+IServicoSintegra.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/IServicoSintegra.cs
+END
+ServicoSintegra.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/ServicoSintegra.svc.cs
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/Web.Debug.config
+END
+SintegraService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/SintegraService.csproj.user
+END
+SintegraService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_sintegra/!svn/ver/2/trunk/SintegraService/SintegraService/SintegraService.csproj
+END

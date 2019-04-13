@@ -1,0 +1,58 @@
+  <definitions name="NfeCancelamento2" targetNamespace="http://www.portalfiscal.inf.br/nfe/wsdl/NfeCancelamento2" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:tns="http://www.portalfiscal.inf.br/nfe/wsdl/NfeCancelamento2" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <types>
+  <xs:schema elementFormDefault="qualified" targetNamespace="http://www.portalfiscal.inf.br/nfe/wsdl/NfeCancelamento2" version="1.0" xmlns:tns="http://www.portalfiscal.inf.br/nfe/wsdl/NfeCancelamento2" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="nfeCabecMsg" type="tns:nfeCabecMsg" />
+  <xs:element name="nfeCancelamentoNF2Result">
+  <xs:complexType mixed="true">
+  <xs:sequence>
+  <xs:any />
+  </xs:sequence>
+  </xs:complexType>
+  </xs:element>
+  <xs:element name="nfeDadosMsg">
+  <xs:complexType mixed="true">
+  <xs:sequence>
+  <xs:any />
+  </xs:sequence>
+  </xs:complexType>
+  </xs:element>
+  <xs:complexType name="nfeCabecMsg">
+  <xs:sequence>
+  <xs:element minOccurs="0" name="cUF" type="xs:string" />
+  <xs:element minOccurs="0" name="versaoDados" type="xs:string" />
+  </xs:sequence>
+  </xs:complexType>
+  </xs:schema>
+  </types>
+  <message name="NfeCancelamentoService_nfeCancelamentoNF2">
+  <part element="tns:nfeDadosMsg" name="nfeDadosMsg" />
+  <part element="tns:nfeCabecMsg" name="nfeCabecMsg" />
+  </message>
+  <message name="NfeCancelamentoService_nfeCancelamentoNF2Response">
+  <part element="tns:nfeCancelamentoNF2Result" name="nfeCancelamentoNF2Result" />
+  </message>
+  <portType name="NfeCancelamentoService">
+  <operation name="nfeCancelamentoNF2" parameterOrder="nfeCabecMsg nfeDadosMsg">
+  <input message="tns:NfeCancelamentoService_nfeCancelamentoNF2" />
+  <output message="tns:NfeCancelamentoService_nfeCancelamentoNF2Response" />
+  </operation>
+  </portType>
+  <binding name="NfeCancelamentoServiceBinding" type="tns:NfeCancelamentoService">
+  <soap12:binding style="document" transport="http://schemas.xmlsoap.org/soap/http" />
+  <operation name="nfeCancelamentoNF2">
+  <soap12:operation soapAction="http://www.portalfiscal.inf.br/nfe/wsdl/NfeCancelamento2/nfeCancelamentoNF2" />
+  <input>
+  <soap12:body parts="nfeDadosMsg" use="literal" />
+  <soap12:header message="tns:NfeCancelamentoService_nfeCancelamentoNF2" part="nfeCabecMsg" use="literal" />
+  </input>
+  <output>
+  <soap12:body parts="nfeCancelamentoNF2Result" use="literal" />
+  </output>
+  </operation>
+  </binding>
+  <service name="NfeCancelamento2">
+  <port binding="tns:NfeCancelamentoServiceBinding" name="NfeCancelamentoServicePort">
+  <soap12:address location="https://nfe.sefaz.go.gov.br/nfe/services/v2/NfeCancelamento2" />
+  </port>
+  </service>
+  </definitions>

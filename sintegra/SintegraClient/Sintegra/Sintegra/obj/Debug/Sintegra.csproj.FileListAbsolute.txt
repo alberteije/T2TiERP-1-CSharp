@@ -1,0 +1,10 @@
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\Sintegra\Sintegra\bin\Debug\Sintegra.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\Sintegra\Sintegra\bin\Debug\Sintegra.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\Sintegra\Sintegra\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\Sintegra\Sintegra\obj\Debug\Sintegra.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\Sintegra\Sintegra\obj\Debug\Sintegra.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SintegraClient\Sintegra\Sintegra\bin\Debug\Sintegra.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SintegraClient\Sintegra\Sintegra\bin\Debug\Sintegra.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SintegraClient\Sintegra\Sintegra\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SintegraClient\Sintegra\Sintegra\obj\Debug\Sintegra.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\SintegraClient\Sintegra\Sintegra\obj\Debug\Sintegra.pdb

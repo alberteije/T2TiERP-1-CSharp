@@ -1,0 +1,10 @@
+XML INCONSISTENTE!
+
+Início da validação...
+
+Arquivo XML: C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\10793118000178\Envio\53120610793118000178550000000003071000003073-nfe.xml
+Arquivo SCHEMA: C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\schemas\nfe_v2.00.xsd
+
+Linha: 1 Coluna: 1142 Erro: The 'http://www.portalfiscal.inf.br/nfe:fone' element has an invalid value according to its data type.
+
+...Final da validação

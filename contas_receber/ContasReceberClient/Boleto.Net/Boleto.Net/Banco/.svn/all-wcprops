@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco
+END
+Banco_Brasil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Brasil.cs
+END
+Banco_Sicoob.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Sicoob.cs
+END
+Banco_Santander.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Santander.cs
+END
+Banco_HSBC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_HSBC.cs
+END
+Banco_Bansirul.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Bansirul.cs
+END
+Banco.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco.cs
+END
+Banco_Bradesco.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Bradesco.cs
+END
+Banco_Real.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Real.cs
+END
+Banco_Caixa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Caixa.cs
+END
+IBanco.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/IBanco.cs
+END
+Banco_Safra.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Safra.cs
+END
+Banco_Sudameris.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Sudameris.cs
+END
+Banco_Unibanco.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Unibanco.cs
+END
+Banco_BankBoston.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_BankBoston.cs
+END
+Banco_Itau.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Itau.cs
+END
+AbstractBanco.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/AbstractBanco.cs
+END
+Banco_BRB.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_BRB.cs
+END
+Banco_Basa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Banco/Banco_Basa.cs
+END

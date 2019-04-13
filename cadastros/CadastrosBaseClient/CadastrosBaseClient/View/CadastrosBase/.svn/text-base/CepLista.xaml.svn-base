@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="CadastrosBaseClient.View.CadastrosBase.CepLista"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:util="clr-namespace:CadastrosBaseClient.Util"
+             xmlns:exp="clr-namespace:ExportarParaArquivo.Control;assembly=ExportarParaArquivo"             
+             
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="397">
+    
+    <DockPanel LastChildFill="True" >
+        <DockPanel LastChildFill="True">
+            <StackPanel DockPanel.Dock="Bottom" HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button Margin="4,0" Content="&lt;" Command="{Binding paginaAnteriorCommand}"/>
+                <Button Margin="4,0"  Content="&gt;" Command="{Binding paginaSeguinteCommand}"/>
+            </StackPanel>
+            <DataGrid Name="dataGrid" AutoGenerateColumns="false" IsReadOnly="True" CanUserAddRows="False" CanUserDeleteRows="False" ItemsSource="{Binding listaCep}" SelectedItem="{Binding cepSelected}" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Cep" Width="Auto" Binding="{Binding Path=Cep}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Logradouro" Width="Auto" Binding="{Binding Path=Logradouro}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Complemento" Width="Auto" Binding="{Binding Path=Complemento}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Bairro" Width="Auto" Binding="{Binding Path=Bairro}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Município" Width="Auto" Binding="{Binding Path=Municipio}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Uf" Width="Auto" Binding="{Binding Path=Uf}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Código IBGE" Width="Auto" Binding="{Binding Path=CodigoIbgeMunicipio}"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+    </DockPanel>
+</UserControl>

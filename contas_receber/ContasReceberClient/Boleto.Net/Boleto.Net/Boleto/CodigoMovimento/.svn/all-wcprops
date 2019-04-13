@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoMovimento
+END
+ICodigoMovimento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoMovimento/ICodigoMovimento.cs
+END
+CodigoMovimento_BancoBrasil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoMovimento/CodigoMovimento_BancoBrasil.cs
+END
+CodigoMovimento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoMovimento/CodigoMovimento.cs
+END
+AbstractCodigoMovimento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoMovimento/AbstractCodigoMovimento.cs
+END
+CodigoMovimento_Caixa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberClient/Boleto.Net/Boleto.Net/Boleto/CodigoMovimento/CodigoMovimento_Caixa.cs
+END

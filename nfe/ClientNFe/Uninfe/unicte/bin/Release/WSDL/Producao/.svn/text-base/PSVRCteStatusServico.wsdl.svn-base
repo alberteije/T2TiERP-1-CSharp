@@ -1,0 +1,166 @@
+From: "Salvo pelo Windows Internet Explorer 8"
+Subject: CteStatusServico Web Service
+Date: Thu, 24 Mar 2011 11:25:40 -0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.asmx?op=cteStatusServicoCT
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7600.16543
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>CteStatusServico Web Service</TITLE>
+<META content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3DContent-Type><LINK=20
+rel=3Dalternate type=3Dtext/xml=20
+href=3D"/ws/ctestatusservico/ctestatusservico.asmx?disco">
+<STYLE type=3Dtext/css>BODY {
+	BACKGROUND-COLOR: white; MARGIN-TOP: 0px; FONT-FAMILY: Verdana; COLOR: =
+#000000; MARGIN-LEFT: 0px
+}
+#content {
+	PADDING-BOTTOM: 2em; MARGIN-LEFT: 30px; FONT-SIZE: 0.7em
+}
+A:link {
+	COLOR: #336699; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #6699cc; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #336699; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #cc3300; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+P {
+	MARGIN-TOP: 0px; FONT-FAMILY: Verdana; MARGIN-BOTTOM: 12px; COLOR: =
+#000000
+}
+PRE {
+	BORDER-BOTTOM: #f0f0e0 1px solid; BORDER-LEFT: #f0f0e0 1px solid; =
+PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #e5e5cc; MARGIN-TOP: -5px; =
+PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Courier New; =
+FONT-SIZE: x-small; BORDER-TOP: #f0f0e0 1px solid; BORDER-RIGHT: #f0f0e0 =
+1px solid; PADDING-TOP: 5px
+}
+TD {
+	FONT-FAMILY: Verdana; COLOR: #000000; FONT-SIZE: 0.7em
+}
+H2 {
+	MARGIN-TOP: 25px; MARGIN-BOTTOM: 10px; COLOR: #003366; MARGIN-LEFT: =
+-15px; FONT-SIZE: 1.5em; BORDER-TOP: #003366 1px solid; FONT-WEIGHT: =
+bold
+}
+H3 {
+	MARGIN-TOP: 10px; MARGIN-BOTTOM: 10px; COLOR: #000000; MARGIN-LEFT: =
+-15px; FONT-SIZE: 1.1em
+}
+UL {
+	MARGIN-TOP: 10px; MARGIN-LEFT: 20px
+}
+OL {
+	MARGIN-TOP: 10px; MARGIN-LEFT: 20px
+}
+LI {
+	MARGIN-TOP: 10px; COLOR: #000000
+}
+FONT.value {
+	COLOR: darkblue; FONT-WEIGHT: bold
+}
+FONT.key {
+	COLOR: darkgreen; FONT-WEIGHT: bold
+}
+FONT.error {
+	COLOR: darkred; FONT-WEIGHT: bold
+}
+.heading1 {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #003366; MARGIN-TOP: 0px; =
+PADDING-LEFT: 15px; WIDTH: 105%; FONT-FAMILY: Tahoma; MARGIN-BOTTOM: =
+0px; COLOR: #ffffff; MARGIN-LEFT: -30px; FONT-SIZE: 26px; FONT-WEIGHT: =
+normal; PADDING-TOP: 10px
+}
+.button {
+	BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #cccccc 1px solid; =
+BACKGROUND-COLOR: #dcdcdc; FONT-FAMILY: Verdana; FONT-SIZE: 1em; =
+BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #666666 1px solid
+}
+.frmheader {
+	BORDER-BOTTOM: #dcdcdc 1px solid; PADDING-BOTTOM: 2px; FONT-FAMILY: =
+Verdana; BACKGROUND: #dcdcdc; COLOR: #000000; FONT-SIZE: 0.7em; =
+FONT-WEIGHT: normal; PADDING-TOP: 2px
+}
+.frmtext {
+	MARGIN-TOP: 8px; FONT-FAMILY: Verdana; MARGIN-BOTTOM: 0px; MARGIN-LEFT: =
+32px; FONT-SIZE: 0.7em
+}
+.frmInput {
+	FONT-FAMILY: Verdana; FONT-SIZE: 1em
+}
+.intro {
+	MARGIN-LEFT: -15px
+}
+</STYLE>
+
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7600.16722"></HEAD>
+<BODY>
+<DIV id=3Dcontent>
+<P class=3Dheading1>CteStatusServico</P><BR><SPAN>
+<P class=3Dintro>Click <A=20
+href=3D"https://cte.sefaz.rs.gov.br/ws/ctestatusservico/ctestatusservico.=
+asmx">here</A>=20
+for a complete list of operations.</P>
+<H2>cteStatusServicoCT</H2>
+<P class=3Dintro></P>
+<H3>Test</H3>The test form is only available for requests from the local =
+
+machine. <SPAN>
+<H3>SOAP 1.2</H3>
+<P>The following is a sample SOAP 1.2 request and response. The <FONT=20
+class=3Dvalue>placeholders</FONT> shown need to be replaced with actual=20
+values.</P><PRE>POST /ws/ctestatusservico/ctestatusservico.asmx HTTP/1.1
+Host: cte.sefaz.rs.gov.br
+Content-Type: application/soap+xml; charset=3Dutf-8
+Content-Length: <FONT class=3Dvalue>length</FONT>
+
+&lt;?xml version=3D"1.0" encoding=3D"utf-8"?&gt;
+&lt;soap12:Envelope =
+xmlns:xsi=3D"http://www.w3.org/2001/XMLSchema-instance" =
+xmlns:xsd=3D"http://www.w3.org/2001/XMLSchema" =
+xmlns:soap12=3D"http://www.w3.org/2003/05/soap-envelope"&gt;
+  &lt;soap12:Header&gt;
+    &lt;cteCabecMsg =
+xmlns=3D"http://www.portalfiscal.inf.br/cte/wsdl/CteStatusServico"&gt;
+      &lt;cUF&gt;<FONT class=3Dvalue>string</FONT>&lt;/cUF&gt;
+      &lt;versaoDados&gt;<FONT =
+class=3Dvalue>string</FONT>&lt;/versaoDados&gt;
+    &lt;/cteCabecMsg&gt;
+  &lt;/soap12:Header&gt;
+  &lt;soap12:Body&gt;
+    &lt;cteDadosMsg =
+xmlns=3D"http://www.portalfiscal.inf.br/cte/wsdl/CteStatusServico"&gt;<FO=
+NT class=3Dvalue>xml</FONT>&lt;/cteDadosMsg&gt;
+  &lt;/soap12:Body&gt;
+&lt;/soap12:Envelope&gt;</PRE><PRE>HTTP/1.1 200 OK
+Content-Type: application/soap+xml; charset=3Dutf-8
+Content-Length: <FONT class=3Dvalue>length</FONT>
+
+&lt;?xml version=3D"1.0" encoding=3D"utf-8"?&gt;
+&lt;soap12:Envelope =
+xmlns:xsi=3D"http://www.w3.org/2001/XMLSchema-instance" =
+xmlns:xsd=3D"http://www.w3.org/2001/XMLSchema" =
+xmlns:soap12=3D"http://www.w3.org/2003/05/soap-envelope"&gt;
+  &lt;soap12:Header&gt;
+    &lt;cteCabecMsg =
+xmlns=3D"http://www.portalfiscal.inf.br/cte/wsdl/CteStatusServico"&gt;
+      &lt;cUF&gt;<FONT class=3Dvalue>string</FONT>&lt;/cUF&gt;
+      &lt;versaoDados&gt;<FONT =
+class=3Dvalue>string</FONT>&lt;/versaoDados&gt;
+    &lt;/cteCabecMsg&gt;
+  &lt;/soap12:Header&gt;
+  &lt;soap12:Body&gt;
+    &lt;cteStatusServicoCTResult =
+xmlns=3D"http://www.portalfiscal.inf.br/cte/wsdl/CteStatusServico"&gt;<FO=
+NT class=3Dvalue>xml</FONT>&lt;/cteStatusServicoCTResult&gt;
+  &lt;/soap12:Body&gt;
+&lt;/soap12:Envelope&gt;</PRE></SPAN></SPAN></DIV></BODY></HTML>

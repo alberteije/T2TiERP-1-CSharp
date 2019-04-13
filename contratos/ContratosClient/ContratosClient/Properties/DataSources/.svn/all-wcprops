@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Properties/DataSources
+END
+GEDClient.GEDServiceReference.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Properties/DataSources/GEDClient.GEDServiceReference.UsuarioDTO.datasource
+END
+GEDClient.GEDServiceReference.GedTipoDocumentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Properties/DataSources/GEDClient.GEDServiceReference.GedTipoDocumentoDTO.datasource
+END
+GEDClient.GEDServiceReference.TipoDocumentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Properties/DataSources/GEDClient.GEDServiceReference.TipoDocumentoDTO.datasource
+END
+GEDClient.GEDServiceReference.DocumentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Properties/DataSources/GEDClient.GEDServiceReference.DocumentoDTO.datasource
+END
+GEDClient.GEDServiceReference.GedDocumentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Properties/DataSources/GEDClient.GEDServiceReference.GedDocumentoDTO.datasource
+END
+GEDClient.GEDServiceReference.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/t2tierp_c_contratos/!svn/ver/2/trunk/ContratosClient/ContratosClient/Properties/DataSources/GEDClient.GEDServiceReference.ViewControleAcessoDTO.datasource
+END

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CadastrosBaseService"
+                   namespace="CadastrosBaseService.Model" default-lazy="false">
+  <class name="OperadoraCartaoDTO" table="operadora_cartao">
+    <id name="Id" column="ID">
+      <generator class="identity"/>
+    </id>
+    <property name="IdContabilConta" column="ID_CONTABIL_CONTA"/>
+    <property name="IdContaCaixa" column="ID_CONTA_CAIXA"/>
+    <property name="Bandeira" column="BANDEIRA"/>
+    <property name="Nome" column="NOME"/>
+    <property name="TaxaAdm" column="TAXA_ADM"/>
+    <property name="TaxaAdmDebito" column="TAXA_ADM_DEBITO"/>
+    <property name="ValorAluguelPosPin" column="VALOR_ALUGUEL_POS_PIN"/>
+    <property name="VencimentoAluguel" column="VENCIMENTO_ALUGUEL"/>
+    <property name="Fone1" column="FONE1"/>
+    <property name="Fone2" column="FONE2"/>
+  </class>
+</hibernate-mapping>

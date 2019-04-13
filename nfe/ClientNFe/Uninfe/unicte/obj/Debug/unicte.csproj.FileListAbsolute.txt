@@ -1,0 +1,73 @@
+C:\projetos\unicte\fontes\unicte\unicte\bin\Debug\unicte.exe.config
+C:\projetos\unicte\fontes\unicte\unicte\bin\Debug\unicte.exe.manifest
+C:\projetos\unicte\fontes\unicte\unicte\bin\Debug\unicte.application
+C:\projetos\unicte\fontes\unicte\unicte\bin\Debug\unicte.exe
+C:\projetos\unicte\fontes\unicte\unicte\bin\Debug\unicte.pdb
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\ResolveAssemblyReference.cache
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.FormSobre.resources
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.MainForm.resources
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.Properties.Resources.resources
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.csproj.GenerateResource.Cache
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.exe.manifest
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.application
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.exe
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.pdb
+C:\projetos\unicte\fontes\unicte\unicte\bin\Debug\UniNFeLibrary.pdb
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\unicte.Formulario.ValidarXML.resources
+C:\projetos\unicte\fontes\unicte\unicte\bin\Debug\UniNFeLibrary.dll
+C:\projetos\unicte\fontes\unicte\unicte\obj\Debug\uninfe.Formulario.FormConsultaCadastro.resources
+C:\projetos\unicte\fontesrelease\unicte\unicte\bin\Debug\unicte.exe.config
+C:\projetos\unicte\fontesrelease\unicte\unicte\obj\Debug\unicte.exe
+C:\projetos\unicte\fontesrelease\unicte\unicte\obj\Debug\unicte.pdb
+C:\projetos\uninfe\fontes\uninfe\unicte\bin\Debug\unicte.exe.config
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.exe
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.pdb
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\ResolveAssemblyReference.cache
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\uninfe.Formulario.FormConsultaCadastro.resources
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.FormSobre.resources
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.MainForm.resources
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.Properties.Resources.resources
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.Formulario.ValidarXML.resources
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.csproj.GenerateResource.Cache
+C:\projetos\uninfe\fontes\uninfe\unicte\bin\Debug\unicte.exe.manifest
+C:\projetos\uninfe\fontes\uninfe\unicte\bin\Debug\unicte.application
+C:\projetos\uninfe\fontes\uninfe\unicte\bin\Debug\unicte.exe
+C:\projetos\uninfe\fontes\uninfe\unicte\bin\Debug\unicte.pdb
+C:\projetos\uninfe\fontes\uninfe\unicte\bin\Debug\UniNFeLibrary.dll
+C:\projetos\uninfe\fontes\uninfe\unicte\bin\Debug\UniNFeLibrary.pdb
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.exe.manifest
+C:\projetos\uninfe\fontes\uninfe\unicte\obj\Debug\unicte.application
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\unicte.Formulario.FormSobre.resources
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\unicte.MainForm.resources
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\unicte.Properties.Resources.resources
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\unicte.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\unicte.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\bin\Debug\unicte.exe.config
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\bin\Debug\unicte.exe.manifest
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\bin\Debug\unicte.application
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\bin\Debug\unicte.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\bin\Debug\unicte.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\bin\Debug\UniNFeLibrary.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\bin\Debug\UniNFeLibrary.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\unicte.exe.manifest
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\Uninfe\unicte\obj\Debug\unicte.application
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\bin\Debug\unicte.exe.config
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\bin\Debug\unicte.exe.manifest
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\bin\Debug\unicte.application
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\bin\Debug\unicte.exe
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\bin\Debug\unicte.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\bin\Debug\UniNFeLibrary.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\bin\Debug\UniNFeLibrary.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\unicte.Formulario.FormSobre.resources
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\unicte.MainForm.resources
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\unicte.Properties.Resources.resources
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\unicte.exe.manifest
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\unicte.application
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\unicte.exe
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\Uninfe\unicte\obj\Debug\unicte.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="CadastrosBaseService"
+                   namespace="CadastrosBaseService.Model" default-lazy="false">
+  <class name="FeriadosDTO" table="feriados">
+    <id name="Id" column="ID">
+      <generator class="identity"/>
+    </id>
+    <property name="Ano" column="ANO"/>
+    <property name="Nome" column="NOME"/>
+    <property name="Abrangencia" column="ABRANGENCIA"/>
+    <property name="Uf" column="UF"/>
+    <property name="MunicipioIbge" column="MUNICIPIO_IBGE"/>
+    <property name="Tipo" column="TIPO"/>
+    <property name="DataFeriado" column="DATA_FERIADO"/>
+  </class>
+</hibernate-mapping>

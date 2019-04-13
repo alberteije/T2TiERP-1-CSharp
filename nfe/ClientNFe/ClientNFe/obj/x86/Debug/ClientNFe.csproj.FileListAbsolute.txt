@@ -1,0 +1,144 @@
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\bin\Debug\ClientNFe.exe.config
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\bin\Debug\ClientNFe.exe
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\bin\Debug\ClientNFe.pdb
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\ClientNFe_MarkupCompile.cache
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\ClientNFe.g.resources
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\ClientNFe.Properties.Resources.resources
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\ClientNFe.exe
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\ClientNFe\obj\x86\Debug\ClientNFe.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\bin\Debug\ClientNFe.exe.config
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.exe
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe_MarkupCompile.cache
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.g.resources
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.Properties.Resources.resources
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\bin\Debug\ClientNFe.exe
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\bin\Debug\ClientNFe.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\App.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\ERPClient.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe_MarkupCompile.lref
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\ERPClient.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDados.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\bin\Debug\ExportarParaArquivo.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\bin\Debug\NPOI.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\bin\Debug\NRtfTree.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\bin\Debug\SearchWindow.exe
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDados.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeView.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeView.baml
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDadosBasicos.g.cs
+C:\Documents and Settings\T2Ti\Desktop\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDadosBasicos.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\ClientNFe.exe.config
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\ClientNFe.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\ClientNFe.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\ExportarParaArquivo.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\NPOI.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\NRtfTree.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\SearchWindow.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\App.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\ERPClient.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDestinatario.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDados.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDadosBasicos.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeView.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe_MarkupCompile.cache
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe_MarkupCompile.lref
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\ERPClient.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDestinatario.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDados.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDadosBasicos.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeView.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.g.resources
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.Properties.Resources.resources
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeCupomVinculado.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeCupomVinculado.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeEntregaRetirada.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeEntregaRetirada.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeTransporte.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeTransporte.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeFatura.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeFatura.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeProduto.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeProduto.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\uninfe.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\UniNFeLibrary.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\UniNFeLibrary.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\bin\Debug\uninfe.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeEnvio.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeEnvio.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\ClientNFe.exe.config
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.exe
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\ClientNFe.exe
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\ClientNFe.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\ExportarParaArquivo.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\NPOI.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\NRtfTree.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\SearchWindow.exe
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\uninfe.exe
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\UniNFeLibrary.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\UniNFeLibrary.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\uninfe.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeEnvio.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\App.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\ERPClient.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeEnvio.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeProduto.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeFatura.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeTransporte.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeEntregaRetirada.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeCupomVinculado.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDados.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDadosBasicos.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDestinatario.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeView.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe_MarkupCompile.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe_MarkupCompile.lref
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\ERPClient.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeProduto.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeFatura.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeTransporte.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeEntregaRetirada.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeCupomVinculado.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDados.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDadosBasicos.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeDestinatario.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFeView.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.g.resources
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.Properties.Resources.resources
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\Interop.reportman.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\ClientNFe.csproj.ResolveComReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\Login.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\Login.g.cs
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\RibbonControlsLibrary.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\RibbonControlsLibrary.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\RibbonControlsLibrary.xml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\themes\generic.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFePrincipal.baml
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\ClientNFe\ClientNFe\obj\x86\Debug\View\NFe\NFePrincipal.g.cs

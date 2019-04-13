@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes
+END
+InternetConnected.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/InternetConnected.cs
+END
+Auxiliar.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/Auxiliar.cs
+END
+MsgErro.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/MsgErro.cs
+END
+GerarXML.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/GerarXML.cs
+END
+ExtXml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/ExtXml.cs
+END
+SchemaXML.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/SchemaXML.cs
+END
+ComboElemen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/ComboElemen.cs
+END
+FluxoNfe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/FluxoNfe.cs
+END
+ExecutaThread.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/ExecutaThread.cs
+END
+ValidarXMLs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/ValidarXMLs.cs
+END
+Enums.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/Enums.cs
+END
+DiretorioSalvarComo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/DiretorioSalvarComo.cs
+END
+absServicoNFe.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/absServicoNFe.cs
+END
+CNPJ.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/CNPJ.cs
+END
+InfoApp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/InfoApp.cs
+END
+Empresa.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/Empresa.cs
+END
+NFeEmProcessamento.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/NFeEmProcessamento.cs
+END
+WebServiceProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/WebServiceProxy.cs
+END
+XMLIniFile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/XMLIniFile.cs
+END
+ConfiguracaoApp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/ConfiguracaoApp.cs
+END
+absServicoApp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/absServicoApp.cs
+END
+LerXML.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/LerXML.cs
+END
+InvocarObjeto.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/InvocarObjeto.cs
+END
+UnitxtTOxmlClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/UnitxtTOxmlClass.cs
+END
+AssinaturaDigital.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/AssinaturaDigital.cs
+END
+Consts.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/Consts.cs
+END
+CertificadoDigital.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/CertificadoDigital.cs
+END
+UF.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/Uninfe/UniNFeLibrary/Classes/UF.cs
+END

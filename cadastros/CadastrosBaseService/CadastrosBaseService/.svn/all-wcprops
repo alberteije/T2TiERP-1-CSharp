@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Web.config
+END
+ServicoCadastrosBase.svc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/ServicoCadastrosBase.svc
+END
+IServicoCadastrosBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/IServicoCadastrosBase.cs
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Web.Debug.config
+END
+ServicoCadastrosBase.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/ServicoCadastrosBase.svc.cs
+END
+ServicoCadastrosPrincipais.svc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/ServicoCadastrosPrincipais.svc
+END
+CadastrosBaseService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/CadastrosBaseService.csproj.user
+END
+IServicoCadastrosPrincipais.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/IServicoCadastrosPrincipais.cs
+END
+CadastrosBaseService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/CadastrosBaseService.csproj
+END
+ServicoCadastrosPrincipais.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/ServicoCadastrosPrincipais.svc.cs
+END

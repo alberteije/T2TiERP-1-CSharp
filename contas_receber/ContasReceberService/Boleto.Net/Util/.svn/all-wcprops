@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Util
+END
+Utils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Util/Utils.cs
+END
+DateInterval.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Util/DateInterval.cs
+END
+C2of5i.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Util/C2of5i.cs
+END
+BarCodeBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_contas_receber/!svn/ver/3/trunk/ContasReceberService/Boleto.Net/Util/BarCodeBase.cs
+END

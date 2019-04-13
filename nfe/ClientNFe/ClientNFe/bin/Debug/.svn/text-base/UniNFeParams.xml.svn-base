@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<Principal Version="1">
+  <MainForm left="270" top="26" width="792" height="668" />
+  <Configuracao>
+    <MDI left="81" top="19" />
+  </Configuracao>
+  <FormConsultaCadastro>
+    <MDI left="226" top="24" width="400" height="432" />
+  </FormConsultaCadastro>
+</Principal>

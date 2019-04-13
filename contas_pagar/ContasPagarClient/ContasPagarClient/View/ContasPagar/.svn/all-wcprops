@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar
+END
+FinParcelaPagarPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagarPrincipal.xaml
+END
+ViewFinLancamentoPagarLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/ViewFinLancamentoPagarLista.xaml
+END
+FinParcelaPagar.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagar.xaml.cs
+END
+FinLancamentoPagarLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLancamentoPagarLista.xaml
+END
+FinLancamentoPagar.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLancamentoPagar.xaml
+END
+FinLancamentoPagarLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLancamentoPagarLista.xaml.cs
+END
+FinLctoPagarNtFinanceiraPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLctoPagarNtFinanceiraPrincipal.xaml
+END
+FinLancamentoPagarPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLancamentoPagarPrincipal.xaml.cs
+END
+FinLctoPagarNtFinanceira.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLctoPagarNtFinanceira.xaml.cs
+END
+FinParcelaPagamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagamento.xaml
+END
+PlanoNaturezaFinanceiraLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/PlanoNaturezaFinanceiraLista.xaml
+END
+FinParcelaPagamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagamentoLista.xaml.cs
+END
+FinParcelaPagamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagamentoPrincipal.xaml
+END
+PlanoNaturezaFinanceira.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/PlanoNaturezaFinanceira.xaml
+END
+FinParcelaPagamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagamento.xaml.cs
+END
+FinTipoPagamento.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinTipoPagamento.xaml
+END
+PlanoNaturezaFinanceiraLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/PlanoNaturezaFinanceiraLista.xaml.cs
+END
+FinTipoPagamentoLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinTipoPagamentoLista.xaml.cs
+END
+FinParcelaPagamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagamentoPrincipal.xaml.cs
+END
+FinTipoPagamentoPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinTipoPagamentoPrincipal.xaml
+END
+NaturezaFinanceiraLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/NaturezaFinanceiraLista.xaml
+END
+FinStatusParcela.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinStatusParcela.xaml
+END
+FinTipoPagamento.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinTipoPagamento.xaml.cs
+END
+Login.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/Login.xaml
+END
+FinStatusParcelaLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinStatusParcelaLista.xaml.cs
+END
+NaturezaFinanceira.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/NaturezaFinanceira.xaml
+END
+PlanoNaturezaFinanceiraPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/PlanoNaturezaFinanceiraPrincipal.xaml.cs
+END
+FinStatusParcelaPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinStatusParcelaPrincipal.xaml
+END
+FinTipoPagamentoPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinTipoPagamentoPrincipal.xaml.cs
+END
+NaturezaFinanceiraLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/NaturezaFinanceiraLista.xaml.cs
+END
+FinStatusParcela.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinStatusParcela.xaml.cs
+END
+FinParcelaPagarLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagarLista.xaml
+END
+Login.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/Login.xaml.cs
+END
+FinStatusParcelaPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinStatusParcelaPrincipal.xaml.cs
+END
+FinParcelaPagar.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagar.xaml
+END
+NaturezaFinanceiraPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/NaturezaFinanceiraPrincipal.xaml.cs
+END
+FinParcelaPagarLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagarLista.xaml.cs
+END
+ViewFinLancamentoPagar.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/ViewFinLancamentoPagar.xaml
+END
+FinParcelaPagarPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagarPrincipal.xaml.cs
+END
+ViewFinLancamentoPagarLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/ViewFinLancamentoPagarLista.xaml.cs
+END
+ViewFinLancamentoPagarPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/ViewFinLancamentoPagarPrincipal.xaml
+END
+FinLctoPagarNtFinanceiraLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLctoPagarNtFinanceiraLista.xaml
+END
+ViewFinLancamentoPagar.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/ViewFinLancamentoPagar.xaml.cs
+END
+ViewFinLancamentoPagarPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/ViewFinLancamentoPagarPrincipal.xaml.cs
+END
+FinLancamentoPagarPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLancamentoPagarPrincipal.xaml
+END
+FinLctoPagarNtFinanceira.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLctoPagarNtFinanceira.xaml
+END
+FinLctoPagarNtFinanceiraLista.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLctoPagarNtFinanceiraLista.xaml.cs
+END
+FinParcelaPagamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinParcelaPagamentoLista.xaml
+END
+FinLancamentoPagar.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLancamentoPagar.xaml.cs
+END
+FinLctoPagarNtFinanceiraPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinLctoPagarNtFinanceiraPrincipal.xaml.cs
+END
+FinTipoPagamentoLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinTipoPagamentoLista.xaml
+END
+ContasPagarPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/ContasPagarPrincipal.xaml
+END
+FinStatusParcelaLista.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/FinStatusParcelaLista.xaml
+END
+PlanoNaturezaFinanceiraPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/PlanoNaturezaFinanceiraPrincipal.xaml
+END
+PlanoNaturezaFinanceira.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/PlanoNaturezaFinanceira.xaml.cs
+END
+ContasPagarPrincipal.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/ContasPagarPrincipal.xaml.cs
+END
+NaturezaFinanceiraPrincipal.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/NaturezaFinanceiraPrincipal.xaml
+END
+NaturezaFinanceira.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/View/ContasPagar/NaturezaFinanceira.xaml.cs
+END

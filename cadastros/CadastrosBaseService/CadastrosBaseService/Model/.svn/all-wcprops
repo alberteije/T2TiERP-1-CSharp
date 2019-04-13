@@ -1,0 +1,743 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model
+END
+EstadoCivilDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/EstadoCivilDTO.hbm.xml
+END
+AlmoxarifadoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/AlmoxarifadoDTO.cs
+END
+CstIcmsBDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstIcmsBDTO.cs
+END
+SituacaoForCliDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SituacaoForCliDTO.cs
+END
+ContadorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ContadorDTO.cs
+END
+ContadorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ContadorDTO.hbm.xml
+END
+ProdutoGrupoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ProdutoGrupoDTO.cs
+END
+ProdutoGrupoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ProdutoGrupoDTO.hbm.xml
+END
+ContaCaixaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ContaCaixaDTO.hbm.xml
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ViewControleAcessoDTO.cs
+END
+CsosnA.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CsosnA.hbm.xml
+END
+CsosnB.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CsosnB.hbm.xml
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ContabilContaDTO.cs
+END
+ConvenioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ConvenioDTO.cs
+END
+ClienteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ClienteDTO.hbm.xml
+END
+TalonarioChequeDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TalonarioChequeDTO.cs
+END
+TipoColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoColaboradorDTO.hbm.xml
+END
+EnderecoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/EnderecoDTO.cs
+END
+NivelFormacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/NivelFormacaoDTO.hbm.xml
+END
+NivelFormacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/NivelFormacaoDTO.cs
+END
+FornecedorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/FornecedorDTO.cs
+END
+TributIcmsCustomCabDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TributIcmsCustomCabDTO.cs
+END
+CstIpiDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstIpiDTO.hbm.xml
+END
+CargoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CargoDTO.cs
+END
+TributGrupoTributarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TributGrupoTributarioDTO.cs
+END
+FeriadosDTO.CS
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/FeriadosDTO.CS
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/EmpresaDTO.hbm.xml
+END
+ProdutoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ProdutoDTO.cs
+END
+TipoAdmissaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoAdmissaoDTO.hbm.xml
+END
+TipoRelacionamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoRelacionamentoDTO.hbm.xml
+END
+SefipCodigoMovimentacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SefipCodigoMovimentacaoDTO.cs
+END
+TransportadoraDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TransportadoraDTO.cs
+END
+PessoaDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/PessoaDAL.cs
+END
+PessoaJuridicaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/PessoaJuridicaDTO.cs
+END
+PessoaJuridicaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/PessoaJuridicaDTO.hbm.xml
+END
+TributOperacaoFiscalDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TributOperacaoFiscalDTO.cs
+END
+TributOperacaoFiscalDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TributOperacaoFiscalDTO.hbm.xml
+END
+OperadoraCartaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/OperadoraCartaoDTO.cs
+END
+AlmoxarifadoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/AlmoxarifadoDTO.hbm.xml
+END
+CepDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CepDTO.hbm.xml
+END
+ContatoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ContatoDTO.cs
+END
+TipoDesligamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoDesligamentoDTO.hbm.xml
+END
+PessoaFisicaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/PessoaFisicaDTO.cs
+END
+PessoaFisicaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/PessoaFisicaDTO.hbm.xml
+END
+ChequeDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ChequeDTO.cs
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ProdutoSubGrupoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ProdutoSubGrupoDTO.cs
+END
+FornecedorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/FornecedorDTO.hbm.xml
+END
+SituacaoDocumentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SituacaoDocumentoDTO.cs
+END
+TributIcmsCustomCabDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TributIcmsCustomCabDTO.hbm.xml
+END
+CsosnBDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CsosnBDTO.cs
+END
+CfopDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CfopDTO.hbm.xml
+END
+ColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ColaboradorDTO.hbm.xml
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/UsuarioDTO.hbm.xml
+END
+OperadoraPlanoSaudeDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/OperadoraPlanoSaudeDTO.hbm.xml
+END
+CstCofinsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstCofinsDTO.cs
+END
+FeriadosDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/FeriadosDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/EmpresaDTO.cs
+END
+TipoAdmissaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoAdmissaoDTO.cs
+END
+TipoRelacionamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoRelacionamentoDTO.cs
+END
+PessoaFisicaJuridicaDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/PessoaFisicaJuridicaDAL.cs
+END
+SefipCodigoMovimentacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SefipCodigoMovimentacaoDTO.hbm.xml
+END
+BaseCreditoPisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/BaseCreditoPisDTO.hbm.xml
+END
+ProdutoMarcaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ProdutoMarcaDTO.hbm.xml
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/IDAL.cs
+END
+CboDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CboDTO.hbm.xml
+END
+SalarioMinimoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SalarioMinimoDTO.hbm.xml
+END
+CstPisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstPisDTO.hbm.xml
+END
+CstPisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstPisDTO.cs
+END
+CstIcmsADTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstIcmsADTO.cs
+END
+OperadoraCartaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/OperadoraCartaoDTO.hbm.xml
+END
+CstIcmsBDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstIcmsBDTO.hbm.xml
+END
+SituacaoForCliDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SituacaoForCliDTO.hbm.xml
+END
+ChequeDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ChequeDTO.hbm.xml
+END
+SindicatoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SindicatoDTO.cs
+END
+SindicatoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SindicatoDTO.hbm.xml
+END
+CodigoGpsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CodigoGpsDTO.cs
+END
+SituacaoColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SituacaoColaboradorDTO.hbm.xml
+END
+ClienteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ClienteDTO.cs
+END
+TalonarioChequeDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TalonarioChequeDTO.hbm.xml
+END
+TipoColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoColaboradorDTO.cs
+END
+SituacaoDocumentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SituacaoDocumentoDTO.hbm.xml
+END
+UnidadeProdutoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/UnidadeProdutoDTO.cs
+END
+OperadoraPlanoSaudeDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/OperadoraPlanoSaudeDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/NHibernateDAL.cs
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/PessoaDTO.cs
+END
+CstIpiDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstIpiDTO.cs
+END
+CargoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CargoDTO.hbm.xml
+END
+TributGrupoTributarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TributGrupoTributarioDTO.hbm.xml
+END
+SetorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SetorDTO.hbm.xml
+END
+BaseCreditoPisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/BaseCreditoPisDTO.cs
+END
+ProdutoMarcaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ProdutoMarcaDTO.cs
+END
+TipoCreditoPisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoCreditoPisDTO.cs
+END
+TipoCreditoPisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoCreditoPisDTO.hbm.xml
+END
+TransportadoraDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TransportadoraDTO.hbm.xml
+END
+EstadoCivilDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/EstadoCivilDTO.cs
+END
+CstIcmsADTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstIcmsADTO.hbm.xml
+END
+CepDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CepDTO.cs
+END
+ContatoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ContatoDTO.hbm.xml
+END
+TipoDesligamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/TipoDesligamentoDTO.cs
+END
+ContaCaixaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ContaCaixaDTO.cs
+END
+NcmDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/NcmDTO.hbm.xml
+END
+NcmDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/NcmDTO.cs
+END
+CodigoGpsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CodigoGpsDTO.hbm.xml
+END
+ConvenioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ConvenioDTO.hbm.xml
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ContabilContaDTO.hbm.xml
+END
+SituacaoColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SituacaoColaboradorDTO.cs
+END
+ProdutoSubGrupoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ProdutoSubGrupoDTO.hbm.xml
+END
+EnderecoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/EnderecoDTO.hbm.xml
+END
+CsosnADTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CsosnADTO.cs
+END
+UnidadeProdutoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/UnidadeProdutoDTO.hbm.xml
+END
+CfopDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CfopDTO.cs
+END
+ColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ColaboradorDTO.cs
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/UsuarioDTO.cs
+END
+AtividadeForCliDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/AtividadeForCliDTO.hbm.xml
+END
+AtividadeForCliDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/AtividadeForCliDTO.cs
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/PessoaDTO.hbm.xml
+END
+CstCofinsDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CstCofinsDTO.hbm.xml
+END
+ProdutoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/ProdutoDTO.hbm.xml
+END
+SetorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SetorDTO.cs
+END
+CboDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/CboDTO.cs
+END
+SalarioMinimoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseService/CadastrosBaseService/Model/SalarioMinimoDTO.cs
+END

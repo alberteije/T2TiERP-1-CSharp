@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService
+END
+VendasService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService/VendasService.csproj
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService/Web.config
+END
+ServicoVendas.svc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService/ServicoVendas.svc
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService/Web.Debug.config
+END
+IServicoVendas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService/IServicoVendas.cs
+END
+ServicoVendas.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService/ServicoVendas.svc.cs
+END
+VendasService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_vendas/!svn/ver/2/trunk/VendasService/VendasService/VendasService.csproj.user
+END

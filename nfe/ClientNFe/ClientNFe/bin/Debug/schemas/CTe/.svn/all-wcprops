@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe
+END
+enviCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/enviCte_v1.03.xsd
+END
+consStatServTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/consStatServTiposBasico_v1.03.xsd
+END
+procCTe_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/procCTe_v1.03.xsd
+END
+procInutCTe_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/procInutCTe_v1.03.xsd
+END
+cancCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/cancCte_v1.03.xsd
+END
+cancCteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/cancCteTiposBasico_v1.03.xsd
+END
+consReciCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/consReciCte_v1.03.xsd
+END
+consReciCteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/consReciCteTiposBasico_v1.03.xsd
+END
+retConsStatServCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/retConsStatServCte_v1.03.xsd
+END
+tiposGeralCTe_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/tiposGeralCTe_v1.03.xsd
+END
+retEnviCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/retEnviCte_v1.03.xsd
+END
+inutCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/inutCte_v1.03.xsd
+END
+inutCteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/inutCteTiposBasico_v1.03.xsd
+END
+cte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/cte_v1.03.xsd
+END
+cteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/cteTiposBasico_v1.03.xsd
+END
+retCancCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/retCancCte_v1.03.xsd
+END
+retConsReciCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/retConsReciCte_v1.03.xsd
+END
+consSitCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/consSitCte_v1.03.xsd
+END
+consSitCteTiposBasico_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/consSitCteTiposBasico_v1.03.xsd
+END
+procCancCTe_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/procCancCTe_v1.03.xsd
+END
+retInutCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/retInutCte_v1.03.xsd
+END
+retConsSitCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/retConsSitCte_v1.03.xsd
+END
+xmldsig-core-schema_v1.01.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/xmldsig-core-schema_v1.01.xsd
+END
+consStatServCte_v1.03.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_nfe/!svn/ver/2/trunk/ClientNFe/ClientNFe/bin/Debug/schemas/CTe/consStatServCte_v1.03.xsd
+END

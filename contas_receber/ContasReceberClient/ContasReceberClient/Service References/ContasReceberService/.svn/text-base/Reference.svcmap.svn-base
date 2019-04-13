@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2f07b0cd-c167-4d45-a2f5-7e5a3a7b882a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/ContasReceberService/ContasReceberService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ContasReceberService3.xsd" MetadataType="Schema" ID="4e0deb99-e1ac-4b0d-9728-8111abd40e16" SourceId="1" SourceUrl="http://localhost/ContasReceberService/ContasReceberService.svc?xsd=xsd3" />
+    <MetadataFile FileName="ContasReceberService31.xsd" MetadataType="Schema" ID="aa7c7ce9-a64e-4188-a418-976f1d98585a" SourceId="1" SourceUrl="http://localhost/ContasReceberService/ContasReceberService.svc?xsd=xsd4" />
+    <MetadataFile FileName="ContasReceberService.wsdl" MetadataType="Wsdl" ID="a94b6190-ce98-4676-a2c9-530ad768972f" SourceId="1" SourceUrl="http://localhost/ContasReceberService/ContasReceberService.svc?wsdl" />
+    <MetadataFile FileName="ContasReceberService.xsd" MetadataType="Schema" ID="be38ebe3-cf1a-47b3-881c-fd478b9d95e9" SourceId="1" SourceUrl="http://localhost/ContasReceberService/ContasReceberService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ContasReceberService.disco" MetadataType="Disco" ID="f5be32f3-5337-4de0-9555-2d42dc9bda9e" SourceId="1" SourceUrl="http://localhost/ContasReceberService/ContasReceberService.svc?disco" />
+    <MetadataFile FileName="ContasReceberService1.xsd" MetadataType="Schema" ID="54228488-463b-4a33-8eb1-29a845e36457" SourceId="1" SourceUrl="http://localhost/ContasReceberService/ContasReceberService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ContasReceberService2.xsd" MetadataType="Schema" ID="a160c299-9189-45bd-b5e4-703cf517aed6" SourceId="1" SourceUrl="http://localhost/ContasReceberService/ContasReceberService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

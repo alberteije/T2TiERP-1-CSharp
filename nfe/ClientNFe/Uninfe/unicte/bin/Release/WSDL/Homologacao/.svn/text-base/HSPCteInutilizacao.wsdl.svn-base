@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.portalfiscal.inf.br/cte/wsdl/CteInutilizacao" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" targetNamespace="http://www.portalfiscal.inf.br/cte/wsdl/CteInutilizacao" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Serviço destinado ao atendimento de solicitações de inutilização de numeração de CT-e.</wsdl:documentation>
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.portalfiscal.inf.br/cte/wsdl/CteInutilizacao">
+      <s:element name="cteDadosMsg">
+        <s:complexType mixed="true">
+          <s:sequence>
+            <s:any />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="cteInutilizacaoCTResult">
+        <s:complexType mixed="true">
+          <s:sequence>
+            <s:any />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="cteCabecMsg" type="tns:cteCabecMsg" />
+      <s:complexType name="cteCabecMsg">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="cUF" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="versaoDados" type="s:string" />
+        </s:sequence>
+        <s:anyAttribute />
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="cteInutilizacaoCTSoap12In">
+    <wsdl:part name="cteDadosMsg" element="tns:cteDadosMsg" />
+  </wsdl:message>
+  <wsdl:message name="cteInutilizacaoCTSoap12Out">
+    <wsdl:part name="cteInutilizacaoCTResult" element="tns:cteInutilizacaoCTResult" />
+  </wsdl:message>
+  <wsdl:message name="cteInutilizacaoCTcteCabecMsg">
+    <wsdl:part name="cteCabecMsg" element="tns:cteCabecMsg" />
+  </wsdl:message>
+  <wsdl:portType name="CteInutilizacaoSoap12">
+    <wsdl:operation name="cteInutilizacaoCT">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Inutilização de numeração de CT-e</wsdl:documentation>
+      <wsdl:input message="tns:cteInutilizacaoCTSoap12In" />
+      <wsdl:output message="tns:cteInutilizacaoCTSoap12Out" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CteInutilizacaoSoap12" type="tns:CteInutilizacaoSoap12">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="cteInutilizacaoCT">
+      <soap12:operation soapAction="http://www.portalfiscal.inf.br/cte/wsdl/CteInutilizacao/cteInutilizacaoCT" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:cteInutilizacaoCTcteCabecMsg" part="cteCabecMsg" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:cteInutilizacaoCTcteCabecMsg" part="cteCabecMsg" use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CteInutilizacao">
+    <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Serviço destinado ao atendimento de solicitações de inutilização de numeração de CT-e.</wsdl:documentation>
+    <wsdl:port name="CteInutilizacaoSoap12" binding="tns:CteInutilizacaoSoap12">
+      <soap12:address location="https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteInutilizacao.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

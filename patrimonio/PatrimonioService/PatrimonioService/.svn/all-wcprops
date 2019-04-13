@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Web.Release.config
+END
+PatrimonioService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/PatrimonioService.csproj
+END
+web.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/web.config
+END
+PatrimonioService.Publish.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/PatrimonioService.Publish.xml
+END
+ServicoPatrimonio.svc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/ServicoPatrimonio.svc
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/Web.Debug.config
+END
+IServicoPatrimonio.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/IServicoPatrimonio.cs
+END
+ServicoPatrimonio.svc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/ServicoPatrimonio.svc.cs
+END
+PatrimonioService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_patrimonio/!svn/ver/4/trunk/PatrimonioService/PatrimonioService/PatrimonioService.csproj.user
+END

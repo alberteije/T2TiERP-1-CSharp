@@ -1,0 +1,21 @@
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\bin\OrcamentoService.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\bin\OrcamentoService.pdb
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\bin\Antlr3.Runtime.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\bin\Iesi.Collections.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\bin\LinFu.DynamicProxy.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\bin\NHibernate.ByteCode.LinFu.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\bin\NHibernate.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\obj\Debug\OrcamentoService.dll
+C:\Documents and Settings\T2Ti\Desktop\VS2010\OrcamentoService\OrcamentoService\obj\Debug\OrcamentoService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\bin\OrcamentoService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\bin\OrcamentoService.pdb
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\bin\Antlr3.Runtime.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\bin\Iesi.Collections.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\bin\LinFu.DynamicProxy.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\bin\MySql.Data.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\bin\NHibernate.ByteCode.LinFu.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\bin\NHibernate.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\obj\Debug\OrcamentoService.dll
+C:\Documents and Settings\Eije\Desktop\T2Ti ERP C#\Fontes\OrcamentoService\OrcamentoService\obj\Debug\OrcamentoService.pdb

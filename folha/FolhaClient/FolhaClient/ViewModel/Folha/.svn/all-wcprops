@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha
+END
+FolhaPlanoSaudeViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaPlanoSaudeViewModel.cs
+END
+FolhaTipoAfastamentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaTipoAfastamentoViewModel.cs
+END
+GuiasAcumuladasViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/GuiasAcumuladasViewModel.cs
+END
+FolhaPppViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaPppViewModel.cs
+END
+FeriasPeriodoAquisitivoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FeriasPeriodoAquisitivoViewModel.cs
+END
+FolhaEventoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaEventoViewModel.cs
+END
+FolhaAfastamentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaAfastamentoViewModel.cs
+END
+FolhaLancamentoCabecalhoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaLancamentoCabecalhoViewModel.cs
+END
+FolhaInssServicoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaInssServicoViewModel.cs
+END
+FolhaRescisaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaRescisaoViewModel.cs
+END
+FolhaValeTransporteViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaValeTransporteViewModel.cs
+END
+FolhaFechamentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaFechamentoViewModel.cs
+END
+FolhaInssViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaInssViewModel.cs
+END
+FolhaHistoricoSalarialViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaHistoricoSalarialViewModel.cs
+END
+FolhaParametrosViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaParametrosViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/UsuarioViewModel.cs
+END
+FolhaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaViewModel.cs
+END
+FolhaFeriasColetivasViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_folha/!svn/ver/4/trunk/FolhaClient/FolhaClient/ViewModel/Folha/FolhaFeriasColetivasViewModel.cs
+END

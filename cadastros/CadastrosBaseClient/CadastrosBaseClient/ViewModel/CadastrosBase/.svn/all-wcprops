@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase
+END
+SalarioMinimoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/SalarioMinimoViewModel.cs
+END
+CboViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CboViewModel.cs
+END
+CstPisViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CstPisViewModel.cs
+END
+CstIcmsAViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CstIcmsAViewModel.cs
+END
+AlmoxarifadoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/AlmoxarifadoViewModel.cs
+END
+CstIcmsBViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CstIcmsBViewModel.cs
+END
+SituacaoForCliViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/SituacaoForCliViewModel.cs
+END
+ProdutoGrupoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ProdutoGrupoViewModel.cs
+END
+ContadorViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ContadorViewModel.cs
+END
+SindicatoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/SindicatoViewModel.cs
+END
+CadastrosBaseViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CadastrosBaseViewModel.cs
+END
+CodigoGpsViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CodigoGpsViewModel.cs
+END
+ConvenioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ConvenioViewModel.cs
+END
+TalonarioChequeViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/TalonarioChequeViewModel.cs
+END
+TipoColaboradorViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/TipoColaboradorViewModel.cs
+END
+UnidadeProdutoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/UnidadeProdutoViewModel.cs
+END
+OperadoraPlanoSaudeViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/OperadoraPlanoSaudeViewModel.cs
+END
+CstIpiViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CstIpiViewModel.cs
+END
+CargoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CargoViewModel.cs
+END
+ProdutoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ProdutoViewModel.cs
+END
+FeriadosViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/FeriadosViewModel.cs
+END
+SefipCodigoMovimentacaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/SefipCodigoMovimentacaoViewModel.cs
+END
+ProdutoMarcaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ProdutoMarcaViewModel.cs
+END
+BaseCreditoPisViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/BaseCreditoPisViewModel.cs
+END
+TipoCreditoPisViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/TipoCreditoPisViewModel.cs
+END
+OperadoraCartaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/OperadoraCartaoViewModel.cs
+END
+EstadoCivilViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/EstadoCivilViewModel.cs
+END
+CepViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CepViewModel.cs
+END
+TipoDesligamentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/TipoDesligamentoViewModel.cs
+END
+ChequeViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ChequeViewModel.cs
+END
+ContaCaixaViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ContaCaixaViewModel.cs
+END
+NcmViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/NcmViewModel.cs
+END
+SituacaoColaboradorViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/SituacaoColaboradorViewModel.cs
+END
+ProdutoSubGrupoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ProdutoSubGrupoViewModel.cs
+END
+CsosnAViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CsosnAViewModel.cs
+END
+SituacaoDocumentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/SituacaoDocumentoViewModel.cs
+END
+CsosnBViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CsosnBViewModel.cs
+END
+CfopViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CfopViewModel.cs
+END
+ColaboradorViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/ColaboradorViewModel.cs
+END
+UsuarioViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/UsuarioViewModel.cs
+END
+AtividadeForCliViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/AtividadeForCliViewModel.cs
+END
+CstCofinsViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/CstCofinsViewModel.cs
+END
+SetorViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/SetorViewModel.cs
+END
+TipoAdmissaoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/TipoAdmissaoViewModel.cs
+END
+TipoRelacionamentoViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_cadastros/!svn/ver/12/trunk/CadastrosBaseClient/CadastrosBaseClient/ViewModel/CadastrosBase/TipoRelacionamentoViewModel.cs
+END

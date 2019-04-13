@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model
+END
+AidfAimdfDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/AidfAimdfDTO.cs
+END
+ContabilEncerramentoExeCabDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilEncerramentoExeCabDTO.hbm.xml
+END
+FapDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/FapDTO.hbm.xml
+END
+ContabilLancamentoDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoDAL.cs
+END
+ContabilIndiceDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilIndiceDTO.hbm.xml
+END
+ContabilIndiceDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilIndiceDTO.cs
+END
+ContabilDreCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilDreCabecalhoDTO.cs
+END
+ContabilIndiceValorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilIndiceValorDTO.hbm.xml
+END
+ContabilIndiceValorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilIndiceValorDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ViewControleAcessoDTO.cs
+END
+ContabilLancamentoCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoCabecalhoDTO.hbm.xml
+END
+ContabilLancamentoCabecalhoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoCabecalhoDTO.cs
+END
+ContabilLoteDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLoteDTO.cs
+END
+ContabilLoteDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLoteDTO.hbm.xml
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilContaDTO.cs
+END
+ContabilIndiceDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilIndiceDAL.cs
+END
+ContabilLancamentoDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoDetalheDTO.hbm.xml
+END
+ContabilLancamentoPadraoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoPadraoDTO.hbm.xml
+END
+ContabilLancamentoOrcadoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoOrcadoDTO.hbm.xml
+END
+ContabilLancamentoOrcadoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoOrcadoDTO.cs
+END
+ContabilFechamentoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilFechamentoDTO.hbm.xml
+END
+ContabilFechamentoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilFechamentoDTO.cs
+END
+ContabilParametrosDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilParametrosDTO.cs
+END
+ContabilParametrosDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilParametrosDTO.hbm.xml
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/NHibernateDAL.cs
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/EmpresaDTO.hbm.xml
+END
+PaisDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/PaisDTO.cs
+END
+PlanoContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/PlanoContaDTO.hbm.xml
+END
+ContabilDreDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilDreDAL.cs
+END
+RegistroCartorioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/RegistroCartorioDTO.cs
+END
+RegistroCartorioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/RegistroCartorioDTO.hbm.xml
+END
+ContabilTermoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilTermoDTO.hbm.xml
+END
+ContabilEncerramentoExercicioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilEncerramentoExercicioDAL.cs
+END
+AidfAimdfDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/AidfAimdfDTO.hbm.xml
+END
+ContabilEncerramentoExeCabDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilEncerramentoExeCabDTO.cs
+END
+FapDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/FapDTO.cs
+END
+ContabilLivroDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLivroDTO.cs
+END
+ContabilLivroDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLivroDTO.hbm.xml
+END
+PlanoContaRefSpedDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/PlanoContaRefSpedDTO.cs
+END
+PlanoContaRefSpedDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/PlanoContaRefSpedDTO.hbm.xml
+END
+ContabilDreCabecalhoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilDreCabecalhoDTO.hbm.xml
+END
+ContabilDreDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilDreDetalheDTO.cs
+END
+ContabilDreDetalheDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilDreDetalheDTO.hbm.xml
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ContabilHistoricoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilHistoricoDTO.hbm.xml
+END
+ContabilHistoricoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilHistoricoDTO.cs
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilContaDTO.hbm.xml
+END
+ContabilLivroDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLivroDAL.cs
+END
+ContabilLancamentoPadraoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoPadraoDTO.cs
+END
+ContabilLancamentoDetalheDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilLancamentoDetalheDTO.cs
+END
+IndiceEconomicoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/IndiceEconomicoDTO.cs
+END
+IndiceEconomicoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/IndiceEconomicoDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/UsuarioDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/EmpresaDTO.cs
+END
+PaisDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/PaisDTO.hbm.xml
+END
+ContabilEncerramentoExeDetDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilEncerramentoExeDetDTO.cs
+END
+ContabilEncerramentoExeDetDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilEncerramentoExeDetDTO.hbm.xml
+END
+PlanoContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/PlanoContaDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/UsuarioDAL.cs
+END
+ContabilTermoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/ContabilTermoDTO.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_contabilidade/!svn/ver/5/trunk/ContabilidadeService/ContabilidadeService/Model/IDAL.cs
+END

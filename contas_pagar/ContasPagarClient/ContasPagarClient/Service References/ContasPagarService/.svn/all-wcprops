@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService
+END
+ContasPagarClient.ContasPagarService.FinDocumentoOrigemDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.FinDocumentoOrigemDTO.datasource
+END
+ContasPagarService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarService.xsd
+END
+ContasPagarService.disco
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarService.disco
+END
+ContasPagarClient.ContasPagarService.PlanoNaturezaFinanceiraDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.PlanoNaturezaFinanceiraDTO.datasource
+END
+ContasPagarClient.ContasPagarService.FinTipoPagamentoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.FinTipoPagamentoDTO.datasource
+END
+Reference.svcmap
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/Reference.svcmap
+END
+configuration91.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/configuration91.svcinfo
+END
+ContasPagarClient.ContasPagarService.FinStatusParcelaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.FinStatusParcelaDTO.datasource
+END
+ContasPagarService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarService.wsdl
+END
+ContasPagarClient.ContasPagarService.NaturezaFinanceiraDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.NaturezaFinanceiraDTO.datasource
+END
+ContasPagarClient.ContasPagarService.ContaCaixaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.ContaCaixaDTO.datasource
+END
+ContasPagarClient.ContasPagarService.ViewControleAcessoDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.ViewControleAcessoDTO.datasource
+END
+ContasPagarService1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarService1.xsd
+END
+ContasPagarClient.ContasPagarService.ContabilContaDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.ContabilContaDTO.datasource
+END
+ContasPagarService2.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarService2.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/Reference.cs
+END
+ContasPagarClient.ContasPagarService.ViewFinLancamentoPagarDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.ViewFinLancamentoPagarDTO.datasource
+END
+ContasPagarClient.ContasPagarService.UsuarioDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.UsuarioDTO.datasource
+END
+ContasPagarClient.ContasPagarService.FinLancamentoPagarDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.FinLancamentoPagarDTO.datasource
+END
+configuration.svcinfo
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/configuration.svcinfo
+END
+ContasPagarClient.ContasPagarService.ViewPessoaFornecedorDTO.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/t2tierp_c_contas_pagar/!svn/ver/3/trunk/ContasPagarClient/ContasPagarClient/Service%20References/ContasPagarService/ContasPagarClient.ContasPagarService.ViewPessoaFornecedorDTO.datasource
+END

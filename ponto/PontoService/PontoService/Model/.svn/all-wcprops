@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model
+END
+PontoEscalaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoEscalaDTO.hbm.xml
+END
+PontoTurmaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoTurmaDTO.hbm.xml
+END
+PontoParametroDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoParametroDTO.hbm.xml
+END
+PontoAbonoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoAbonoDTO.cs
+END
+ViewControleAcessoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/ViewControleAcessoDTO.cs
+END
+ContabilContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/ContabilContaDTO.cs
+END
+PontoRelogioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoRelogioDTO.cs
+END
+PontoHorarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoHorarioDTO.hbm.xml
+END
+PontoHorarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoHorarioDTO.cs
+END
+PontoMarcacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoMarcacaoDTO.cs
+END
+PontoFechamentoJornadaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoFechamentoJornadaDTO.cs
+END
+NHibernateDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/NHibernateDAL.cs
+END
+PessoaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PessoaDTO.cs
+END
+CargoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/CargoDTO.cs
+END
+CargoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/CargoDTO.hbm.xml
+END
+EmpresaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/EmpresaDTO.hbm.xml
+END
+SetorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/SetorDTO.hbm.xml
+END
+PlanoContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PlanoContaDTO.hbm.xml
+END
+PontoBancoHorasDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoBancoHorasDTO.hbm.xml
+END
+PontoBancoHorasDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoBancoHorasDTO.cs
+END
+PontoClassificacaoJornadaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoClassificacaoJornadaDTO.hbm.xml
+END
+PontoClassificacaoJornadaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoClassificacaoJornadaDTO.cs
+END
+PlanoContaRefSpedDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PlanoContaRefSpedDTO.hbm.xml
+END
+PlanoContaRefSpedDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PlanoContaRefSpedDTO.cs
+END
+PontoEscalaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoEscalaDTO.cs
+END
+PontoTurmaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoTurmaDTO.cs
+END
+PontoParametroDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoParametroDTO.cs
+END
+PontoAbonoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoAbonoDTO.hbm.xml
+END
+ViewControleAcessoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/ViewControleAcessoDTO.hbm.xml
+END
+ContabilContaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/ContabilContaDTO.hbm.xml
+END
+PontoRelogioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoRelogioDTO.hbm.xml
+END
+ViewPontoMarcacaoDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/ViewPontoMarcacaoDTO.cs
+END
+ViewPontoMarcacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/ViewPontoMarcacaoDTO.hbm.xml
+END
+PontoEscalaDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoEscalaDAL.cs
+END
+PontoMarcacaoDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoMarcacaoDTO.hbm.xml
+END
+ColaboradorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/ColaboradorDTO.cs
+END
+ColaboradorDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/ColaboradorDTO.hbm.xml
+END
+UsuarioDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/UsuarioDTO.cs
+END
+UsuarioDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/UsuarioDTO.hbm.xml
+END
+PontoFechamentoJornadaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PontoFechamentoJornadaDTO.hbm.xml
+END
+PessoaDTO.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PessoaDTO.hbm.xml
+END
+EmpresaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/EmpresaDTO.cs
+END
+SetorDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/SetorDTO.cs
+END
+PlanoContaDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/PlanoContaDTO.cs
+END
+UsuarioDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/UsuarioDAL.cs
+END
+IDAL.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/t2tierp_c_ponto/!svn/ver/4/trunk/PontoService/PontoService/Model/IDAL.cs
+END

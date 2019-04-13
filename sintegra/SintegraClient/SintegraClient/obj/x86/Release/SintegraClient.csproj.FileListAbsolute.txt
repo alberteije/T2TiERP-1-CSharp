@@ -1,0 +1,46 @@
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\View\Sintegra\SintegraPrincipal.baml
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\View\ERPClient.g.cs
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\View\Sintegra\SintegraPrincipal.g.cs
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\App.g.cs
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\SintegraClient_MarkupCompile.cache
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\SintegraClient_MarkupCompile.lref
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\bin\Release\SintegraClient.exe.config
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\bin\Release\SintegraClient.exe
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\bin\Release\SintegraClient.pdb
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\bin\Release\ExportarParaArquivo.dll
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\bin\Release\NPOI.dll
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\bin\Release\NRtfTree.dll
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\bin\Release\SearchWindow.exe
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\View\ERPClient.baml
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\SintegraClient.g.resources
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\SintegraClient.Properties.Resources.resources
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\SintegraClient.exe
+C:\Documents and Settings\T2Ti\Configurações locais\Dados de aplicativos\Temporary Projects\SintegraClient\obj\x86\Release\SintegraClient.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\View\ERPClient.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\App.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\SintegraClient_MarkupCompile.cache
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\SintegraClient_MarkupCompile.lref
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\SintegraClient.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\SintegraClient.exe.config
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\SintegraClient.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\SintegraClient.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\ExportarParaArquivo.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\NPOI.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\NRtfTree.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\SearchWindow.exe
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\Sintegra.dll
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\bin\Release\Sintegra.pdb
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\View\SintegraERP\SintegraPrincipal.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\View\SintegraERP\SintegraPrincipal.g.cs
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\View\ERPClient.baml
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\SintegraClient.g.resources
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\SintegraClient.Properties.Resources.resources
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\T2Ti\Meus documentos\Google Drive\VS2010\SintegraClient\SintegraClient\obj\x86\Release\SintegraClient.pdb

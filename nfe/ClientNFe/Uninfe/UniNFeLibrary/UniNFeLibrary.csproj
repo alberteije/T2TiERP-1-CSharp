@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{704CC7AF-5152-418B-B709-F3DC28E799C7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UniNFeLibrary</RootNamespace>
+    <AssemblyName>UniNFeLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\CNPJ.cs" />
+    <Compile Include="Classes\Consts.cs" />
+    <Compile Include="Classes\DiretorioSalvarComo.cs" />
+    <Compile Include="Classes\Empresa.cs" />
+    <Compile Include="Classes\ExecutaThread.cs" />
+    <Compile Include="Classes\ExtXml.cs" />
+    <Compile Include="Classes\Auxiliar.cs" />
+    <Compile Include="Classes\CertificadoDigital.cs" />
+    <Compile Include="Classes\ConfiguracaoApp.cs" />
+    <Compile Include="Classes\Enums.cs" />
+    <Compile Include="Classes\FluxoNfe.cs" />
+    <Compile Include="Classes\ComboElemen.cs" />
+    <Compile Include="Classes\absServicoNFe.cs" />
+    <Compile Include="Classes\absServicoApp.cs" />
+    <Compile Include="Classes\InternetConnected.cs" />
+    <Compile Include="Classes\InvocarObjeto.cs" />
+    <Compile Include="Classes\MsgErro.cs" />
+    <Compile Include="Classes\SchemaXML.cs" />
+    <Compile Include="Classes\UF.cs" />
+    <Compile Include="Classes\UnitxtTOxmlClass.cs" />
+    <Compile Include="Classes\WebServiceProxy.cs" />
+    <Compile Include="Classes\XMLIniFile.cs" />
+    <Compile Include="Formulario\Configuracao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\Configuracao.designer.cs">
+      <DependentUpon>Configuracao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\GerarXML.cs" />
+    <Compile Include="Formulario\FormCNPJ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\FormCNPJ.designer.cs">
+      <DependentUpon>FormCNPJ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\FormConsultaCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\FormConsultaCadastro.designer.cs">
+      <DependentUpon>FormConsultaCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\FormConsultaCadastroResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\FormConsultaCadastroResult.designer.cs">
+      <DependentUpon>FormConsultaCadastroResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\FormEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\FormEmpresa.Designer.cs">
+      <DependentUpon>FormEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\FormUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\FormUpdate.designer.cs">
+      <DependentUpon>FormUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\FormWait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\FormWait.designer.cs">
+      <DependentUpon>FormWait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\retConsCad.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Formulario\retConsCad.designer.cs">
+      <DependentUpon>retConsCad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario\ValidarXML.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario\ValidarXML.designer.cs">
+      <DependentUpon>ValidarXML.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\NFeEmProcessamento.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\InfoApp.cs" />
+    <Compile Include="Classes\AssinaturaDigital.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\LerXML.cs" />
+    <Compile Include="Classes\ValidarXMLs.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formulario\Configuracao.resx">
+      <DependentUpon>Configuracao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\FormCNPJ.resx">
+      <DependentUpon>FormCNPJ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\FormConsultaCadastro.resx">
+      <DependentUpon>FormConsultaCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\FormConsultaCadastroResult.resx">
+      <DependentUpon>FormConsultaCadastroResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\FormEmpresa.resx">
+      <DependentUpon>FormEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\FormUpdate.resx">
+      <DependentUpon>FormUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\FormWait.resx">
+      <DependentUpon>FormWait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\retConsCad.resx">
+      <DependentUpon>retConsCad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario\ValidarXML.resx">
+      <DependentUpon>ValidarXML.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fileclose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filesave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_orange_open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\identity.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\identity1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kontact_todo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package_utilities.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uninfe128.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

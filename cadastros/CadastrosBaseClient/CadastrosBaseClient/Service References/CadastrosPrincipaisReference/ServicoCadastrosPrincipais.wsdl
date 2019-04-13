@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicoCadastrosPrincipais" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/CadastrosBaseService/ServicoCadastrosPrincipais.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/CadastrosBaseService/ServicoCadastrosPrincipais.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost/CadastrosBaseService/ServicoCadastrosPrincipais.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/CadastrosBaseService.Model" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServicoCadastrosPrincipais_deletePessoa_InputMessage">
+    <wsdl:part name="parameters" element="tns:deletePessoa" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_deletePessoa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:deletePessoaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_salvarAtualizarPessoa_InputMessage">
+    <wsdl:part name="parameters" element="tns:salvarAtualizarPessoa" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_salvarAtualizarPessoa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:salvarAtualizarPessoaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectPessoa_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectPessoa" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectPessoa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectPessoaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectPessoaPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectPessoaPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectPessoaPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectPessoaPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_deleteCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:deleteCliente" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_deleteCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:deleteClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_salvarAtualizarCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:salvarAtualizarCliente" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_salvarAtualizarCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:salvarAtualizarClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectCliente_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectCliente" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectCliente_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectClienteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectClientePagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectClientePagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectClientePagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectClientePaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_deleteFornecedor_InputMessage">
+    <wsdl:part name="parameters" element="tns:deleteFornecedor" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_deleteFornecedor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:deleteFornecedorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_salvarAtualizarFornecedor_InputMessage">
+    <wsdl:part name="parameters" element="tns:salvarAtualizarFornecedor" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_salvarAtualizarFornecedor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:salvarAtualizarFornecedorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectFornecedor_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectFornecedor" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectFornecedor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectFornecedorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectFornecedorPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectFornecedorPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectFornecedorPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectFornecedorPaginaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_deleteTransportadora_InputMessage">
+    <wsdl:part name="parameters" element="tns:deleteTransportadora" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_deleteTransportadora_OutputMessage">
+    <wsdl:part name="parameters" element="tns:deleteTransportadoraResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_salvarAtualizarTransportadora_InputMessage">
+    <wsdl:part name="parameters" element="tns:salvarAtualizarTransportadora" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_salvarAtualizarTransportadora_OutputMessage">
+    <wsdl:part name="parameters" element="tns:salvarAtualizarTransportadoraResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectTransportadora_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectTransportadora" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectTransportadora_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectTransportadoraResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectTransportadoraPagina_InputMessage">
+    <wsdl:part name="parameters" element="tns:selectTransportadoraPagina" />
+  </wsdl:message>
+  <wsdl:message name="IServicoCadastrosPrincipais_selectTransportadoraPagina_OutputMessage">
+    <wsdl:part name="parameters" element="tns:selectTransportadoraPaginaResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServicoCadastrosPrincipais">
+    <wsdl:operation name="deletePessoa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/deletePessoa" message="tns:IServicoCadastrosPrincipais_deletePessoa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/deletePessoaResponse" message="tns:IServicoCadastrosPrincipais_deletePessoa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="salvarAtualizarPessoa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarPessoa" message="tns:IServicoCadastrosPrincipais_salvarAtualizarPessoa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarPessoaResponse" message="tns:IServicoCadastrosPrincipais_salvarAtualizarPessoa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectPessoa">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectPessoa" message="tns:IServicoCadastrosPrincipais_selectPessoa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectPessoaResponse" message="tns:IServicoCadastrosPrincipais_selectPessoa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectPessoaPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectPessoaPagina" message="tns:IServicoCadastrosPrincipais_selectPessoaPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectPessoaPaginaResponse" message="tns:IServicoCadastrosPrincipais_selectPessoaPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/deleteCliente" message="tns:IServicoCadastrosPrincipais_deleteCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/deleteClienteResponse" message="tns:IServicoCadastrosPrincipais_deleteCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="salvarAtualizarCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarCliente" message="tns:IServicoCadastrosPrincipais_salvarAtualizarCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarClienteResponse" message="tns:IServicoCadastrosPrincipais_salvarAtualizarCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectCliente">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectCliente" message="tns:IServicoCadastrosPrincipais_selectCliente_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectClienteResponse" message="tns:IServicoCadastrosPrincipais_selectCliente_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectClientePagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectClientePagina" message="tns:IServicoCadastrosPrincipais_selectClientePagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectClientePaginaResponse" message="tns:IServicoCadastrosPrincipais_selectClientePagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteFornecedor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/deleteFornecedor" message="tns:IServicoCadastrosPrincipais_deleteFornecedor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/deleteFornecedorResponse" message="tns:IServicoCadastrosPrincipais_deleteFornecedor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="salvarAtualizarFornecedor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarFornecedor" message="tns:IServicoCadastrosPrincipais_salvarAtualizarFornecedor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarFornecedorResponse" message="tns:IServicoCadastrosPrincipais_salvarAtualizarFornecedor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectFornecedor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectFornecedor" message="tns:IServicoCadastrosPrincipais_selectFornecedor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectFornecedorResponse" message="tns:IServicoCadastrosPrincipais_selectFornecedor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectFornecedorPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectFornecedorPagina" message="tns:IServicoCadastrosPrincipais_selectFornecedorPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectFornecedorPaginaResponse" message="tns:IServicoCadastrosPrincipais_selectFornecedorPagina_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteTransportadora">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/deleteTransportadora" message="tns:IServicoCadastrosPrincipais_deleteTransportadora_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/deleteTransportadoraResponse" message="tns:IServicoCadastrosPrincipais_deleteTransportadora_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="salvarAtualizarTransportadora">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarTransportadora" message="tns:IServicoCadastrosPrincipais_salvarAtualizarTransportadora_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarTransportadoraResponse" message="tns:IServicoCadastrosPrincipais_salvarAtualizarTransportadora_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectTransportadora">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectTransportadora" message="tns:IServicoCadastrosPrincipais_selectTransportadora_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectTransportadoraResponse" message="tns:IServicoCadastrosPrincipais_selectTransportadora_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="selectTransportadoraPagina">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectTransportadoraPagina" message="tns:IServicoCadastrosPrincipais_selectTransportadoraPagina_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServicoCadastrosPrincipais/selectTransportadoraPaginaResponse" message="tns:IServicoCadastrosPrincipais_selectTransportadoraPagina_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServicoCadastrosPrincipais" type="tns:IServicoCadastrosPrincipais">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="deletePessoa">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/deletePessoa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="salvarAtualizarPessoa">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarPessoa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectPessoa">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/selectPessoa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectPessoaPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/selectPessoaPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteCliente">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/deleteCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="salvarAtualizarCliente">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectCliente">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/selectCliente" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectClientePagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/selectClientePagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteFornecedor">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/deleteFornecedor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="salvarAtualizarFornecedor">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarFornecedor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectFornecedor">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/selectFornecedor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectFornecedorPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/selectFornecedorPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteTransportadora">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/deleteTransportadora" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="salvarAtualizarTransportadora">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/salvarAtualizarTransportadora" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectTransportadora">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/selectTransportadora" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="selectTransportadoraPagina">
+      <soap:operation soapAction="http://tempuri.org/IServicoCadastrosPrincipais/selectTransportadoraPagina" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicoCadastrosPrincipais">
+    <wsdl:port name="BasicHttpBinding_IServicoCadastrosPrincipais" binding="tns:BasicHttpBinding_IServicoCadastrosPrincipais">
+      <soap:address location="http://localhost/CadastrosBaseService/ServicoCadastrosPrincipais.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

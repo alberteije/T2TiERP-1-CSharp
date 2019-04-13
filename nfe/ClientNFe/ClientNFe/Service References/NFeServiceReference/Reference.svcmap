@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1d48b6a5-aa7b-4ebd-85ee-1dca47eed727" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/NFeService/ServicoNFe.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicoNFe.disco" MetadataType="Disco" ID="257ccff7-ee1d-4ee6-9e00-98e0a4eed97b" SourceId="1" SourceUrl="http://localhost/NFeService/ServicoNFe.svc?disco" />
+    <MetadataFile FileName="ServicoNFe.xsd" MetadataType="Schema" ID="5be38553-1da8-4ad9-93a6-a6f6d318aa46" SourceId="1" SourceUrl="http://localhost/NFeService/ServicoNFe.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicoNFe1.xsd" MetadataType="Schema" ID="7b45a022-ab8a-42d5-86fd-1f2cf623d03f" SourceId="1" SourceUrl="http://localhost/NFeService/ServicoNFe.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicoNFe.wsdl" MetadataType="Wsdl" ID="1a5e3720-5171-4814-81b5-e0c1f85ae449" SourceId="1" SourceUrl="http://localhost/NFeService/ServicoNFe.svc?wsdl" />
+    <MetadataFile FileName="ServicoNFe2.xsd" MetadataType="Schema" ID="479a8480-ada2-4bdd-8941-9ebf4353a885" SourceId="1" SourceUrl="http://localhost/NFeService/ServicoNFe.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

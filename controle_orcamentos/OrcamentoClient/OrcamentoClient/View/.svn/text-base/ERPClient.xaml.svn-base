@@ -1,0 +1,49 @@
+﻿<Window x:Class="OrcamentoClient.ERPClient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:OrcamentoClient.ViewModel"
+        xmlns:orcamento="clr-namespace:OrcamentoClient.View.Orcamento"
+        Title="{Binding Path=title }" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen"        
+        >
+    
+    <Window.DataContext>        
+        
+        <local:ERPClientViewModel></local:ERPClientViewModel>
+        
+    </Window.DataContext>
+    
+    <DockPanel Background="WhiteSmoke">
+        <DockPanel DockPanel.Dock="Top" KeyboardNavigation.TabNavigation="None">
+            <Menu KeyboardNavigation.TabNavigation="Cycle">
+                <MenuItem Header="Arquivo">
+                    <MenuItem Header="Sair" Command="{Binding Path=sairCommand}" />
+                </MenuItem>
+                <MenuItem Header="Administrativo">
+                    <MenuItem Header="Cadastros" />
+                    <MenuItem Header="GED" Command="{Binding MenuCommand}" CommandParameter="GED" />
+                </MenuItem>
+                <MenuItem Header="Financeiro" />
+                <MenuItem Header="Contábil e Fiscal" />
+                <MenuItem Header="Suprimentos" />
+                <MenuItem Header="Recursos Humanos" />
+            </Menu>
+        </DockPanel>
+
+        <Grid Margin="8" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="4" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" Width="150">
+                <HeaderedContentControl Header="Acesso rápido"/>
+            </Border>
+
+            <Border Grid.Column="2">
+                <orcamento:Orcamento></orcamento:Orcamento>
+            </Border>
+        </Grid>
+    </DockPanel>
+</Window>
