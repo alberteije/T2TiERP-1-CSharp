@@ -139,7 +139,6 @@
         				<br />
         			</div>
         		</div>
-            
     				<h3>Forma de Desenvolvimento C#</h3> 
             <hr />
 					<img src="http://t2ti.com/images/erp/erp_c_sharp.png" />
