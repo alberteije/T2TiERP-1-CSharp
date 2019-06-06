@@ -152,7 +152,7 @@
     				O banco de dados poderá residir na mesma máquina do servidor de aplicações ou em outro servidor específico para o banco de dados. 		
 	<br /><br />
   <i>
-[C# ERP was developed in two and three layers. The user downloads the view layer to his machine (Smart Client) and connects to the application server where the business classes are stored. The database may reside on the same machine as the application server or on another server specific to the DBMS.
+[C# ERP was developed three layers. The user downloads the view layer to his machine (Smart Client) and connects to the application server where the business classes are stored. The database may reside on the same machine as the application server or on another server specific to the DBMS.
 	<br /><br />
 On server side we used WCF. On client side we used WPF. Some modules were made using Windows Forms.]
   </i>            
