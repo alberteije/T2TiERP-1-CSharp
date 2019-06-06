@@ -4,7 +4,11 @@
         				<h1>T2Ti ERP 1.0 - C#</h1>
 					Aqui é possível baixar o código fonte em C# do Projeto T2Ti ERP 1.0. 
           Este treinamento formou milhares de desenvolvedores no Brasil e ajudou centenas 
-          deles a lançar seu próprio ERP no mercado.
+          deles a lançar seu próprio ERP no mercado. Mais informações no seguinte link: http://t2ti.com/erp/.
+	<br /><br />
+  <i>
+  [Here it is possible to download the source code of the Project T2Ti ERP 1.0 in C#. This training was made by thousands of developers in Brazil and helped hundreds of them launch their own ERP in the market. More information about the training can be found at the following link: http://t2ti.com/erp/.]
+					</i>
 					<hr />
         			</div>
         			<div class="conteudoTexto">
@@ -139,12 +143,17 @@
         				<br />
         			</div>
         		</div>
-    				<h3>Forma de Desenvolvimento C#</h3> 
+    				<h3>Forma de Desenvolvimento C# [Way we Developed using C#]</h3> 
             <hr />
 					<img src="http://t2ti.com/images/erp/erp_c_sharp.png" />
     				<hr />
     				O ERP foi desenvolvido em três camadas. O usuário baixa a camada de visão para sua máquina (Smart Client) e se conecta ao servidor de 
     				aplicaçoes, onde estarão armazenadas as classes de negócio. 
     				O banco de dados poderá residir na mesma máquina do servidor de aplicações ou em outro servidor específico para o banco de dados. 		
-            
+	<br /><br />
+  <i>
+[C# ERP was developed in two and three layers. The user downloads the view layer to his machine (Smart Client) and connects to the application server where the business classes are stored. The database may reside on the same machine as the application server or on another server specific to the DBMS.
+	<br /><br />
+On server side we used WCF. On client side we used WPF. Some modules were made using Windows Forms.]
+  </i>            
 </html>
